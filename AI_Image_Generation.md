@@ -17,5 +17,20 @@
 - [Lensa](https://prisma-ai.com/lensa)
   - [Lensa實戰](Lensa_labs.md) 
 # 範例
-
+- 提示詞
+```
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),
+ultra-detailed, 1 girl,cute, solo,beautiful detailed sky,detailed cafe,night,sitting,dating,
+(nose blush),(smile:1.1),(closed mouth),large breasts, seductive smile, large aparture, professional lighting,
+Sony A7R4, Zessie 50mm F1.8, medium breasts,beautiful detailed eyes,(collared shirt:1.1),
+bowtie,pleated skirt,(short hair:1.2),floating hair
+<lora:koreandolllikeness_v15:0.4>
+<lora:taiwanDollLikeness_v1:0.2>
+```
+- 負標簽
+```
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality,
+((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,
+((watermark:2)),((white letters:1)),nsfw
+```
 ![SEAART_1.png](SEAART_1.png)
