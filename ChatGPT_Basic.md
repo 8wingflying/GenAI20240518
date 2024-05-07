@@ -35,7 +35,7 @@ Can you suggest creative ways to improve our customer experience and stand out i
 我管理著一家本地連鎖餐廳，我想提高客戶忠誠度。
 您能提出一些創造性的方法來改善我們的客戶體驗並在競爭激烈的市場中脫穎而出嗎？
 ```
-- Career Coaching
+- 職業指導Career Coaching
 ```
 I'm considering a career change, but I'm not sure which direction to go.
 Can you help me identify transferable skills and suggest industries that align with my interests?
@@ -47,7 +47,7 @@ Could you give me tips on how to answer common interview questions and highlight
 I'm a recent graduate looking to enter the finance sector.
 Can you provide guidance on building a strong resume and networking effectively within the industry?
 ```
-- Financial Guidance
+- 財務指導Financial Guidance
 ```
 I'm planning to invest in the stock market but I'm new to this.
 Can you explain some basic investment principles and provide tips on how to research and select promising stocks?
@@ -57,4 +57,46 @@ Can you explain concepts like saving, budget categories, and debt management?
 
 I'm considering taking out a mortgage for my first home.
 Can you help me understand the factors that influence mortgage rates and provide some insights into the loan application process?
+```
+- 語言練習
+```
+我正在學習法語，我想練習用將來時態寫句子。
+你能幫我用不同的動詞寫幾個句子嗎？
+
+我正在學習西班牙文，我對何時使用“ser”和“estar”感到困惑。
+你能提供一些例子來澄清它們的用法嗎？
+
+我正在練習我的日語寫作技巧。
+你能幫我寫一小段用日語介紹自己嗎？
+```
+- 主題審查
+```
+我即將參加物理考試，我很難理解牛頓定律。你能用更簡單的術語解釋它們嗎？
+
+
+我有興趣瞭解古代文明的歷史。您能否簡要介紹一下著名的古代文化及其貢獻？
+
+
+我對天文學很好奇，想更多地瞭解太陽系。你能提供有關行星及其特徵的資訊嗎？
+```
+- 技術援助
+```
+我需要瞭解我的小型企業的一些基本會計概念。
+你能解釋一下現金流和利潤之間的區別嗎？
+
+
+我正在準備我的稅款，我對扣除有疑問。
+您能否提供一些關於{您所在國家/稅務管轄區}中個人的常見稅收減免的一般資訊？
+
+
+我想瞭解更多關於 Web 開發的資訊。
+您能解釋一下前端和後端開發之間的區別以及它們在創建網站中的作用嗎？
+```
+- 寫作協助
+```
+我正在為我的文學課寫一篇文章。你能幫我為我的論文想出一個強有力的論文陳述和大綱嗎？
+
+我正在寫一個短篇小說，我正在為描述性語言而苦苦掙扎。您能舉例說明如何使用圖像創建生動的場景嗎？
+
+我想提高我的專業電子郵件寫作技巧。您能否查看我撰寫的電子郵件草稿，並提出使其更有效的建議？
 ```
