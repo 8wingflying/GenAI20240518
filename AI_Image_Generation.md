@@ -18,4 +18,4 @@
   - [Lensa實戰](Lensa_labs.md) 
 # 範例
 
-![]()
+![SEAART_1.png](SEAART_1.png)
