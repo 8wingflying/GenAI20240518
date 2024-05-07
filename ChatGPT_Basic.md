@@ -1,4 +1,4 @@
-# ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
+# ChatGPT Prompts1:基礎技巧
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
