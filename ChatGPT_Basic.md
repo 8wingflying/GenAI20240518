@@ -16,7 +16,7 @@
   - 步驟1:先輸入一般翻譯 ==> Translate: “____________”
   - 步驟2:接著使用  ==> Optimize it
 - ChatGPT Vs. Google Translate
-## ChatGPT_Labs:客製化的輔導師(Personalized Tutoring)
+## ChatGPT_Labs:客製化的輔導(Personalized Tutoring)
 - 商業戰略Business Strategy Exploration
 ```
 I run a small e-commerce business selling handmade crafts.
