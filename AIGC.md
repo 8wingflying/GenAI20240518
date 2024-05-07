@@ -11,6 +11,3 @@
   - 短影音(YOUTUBE,...)生成
 - 虛擬人物生成
 
-## 系統與平台
-- 
-- [Stable Diffusion](StableDiffusion.md)
