@@ -22,7 +22,7 @@ best quality,masterpiece, half body portrait of a woman demon, eyes, nose,lips,h
 (anime woman:1.3), ,symmetrical eyes, soft lighting, detailed face, concept art, digital painting,
 looking into camera,3d,art by artgerm
 ```
-
+![artguru_1.JPG](artguru_1.JPG)
 
 # 範例:SeaArt AI 
 - https://www.seaart.ai/zhTW/explore/detail/fd2caa3474aabb9ff3e4bb89870b739c
