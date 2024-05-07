@@ -7,7 +7,7 @@
 
 # ChatGPT 主題
 - 企劃案
-- 程式師
+- [程式師](AI4Programmer.md)
 
 # 更多AI BOT
 # 更多文本生成系統
