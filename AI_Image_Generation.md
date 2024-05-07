@@ -12,3 +12,5 @@
 - Adobe Firefly
 - Stable Zero123
 - AnyDoor
+- [Lensa](https://prisma-ai.com/lensa)
+  - [Lensa實戰](Lensa_labs.md) 
