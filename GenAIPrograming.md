@@ -3,8 +3,8 @@
 - [LLM programming:LangChain ](LLM.md)
 
 
-## OpenAI programming
-- [OpenAI](OpenAI_1.md)
+## [OpenAI programming](OpenAI_1.md)
+- OpenAI
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
 
 ## LLM programming:LangChain
