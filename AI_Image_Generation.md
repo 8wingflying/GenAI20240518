@@ -16,7 +16,16 @@
 - [免費 AI 藝術創作 - SeaArt AI](https://www.seaart.ai/zhTW)
 - [Lensa](https://prisma-ai.com/lensa)
   - [Lensa實戰](Lensa_labs.md) 
-# 範例
+# 範例:Artguru AI
+```
+best quality,masterpiece, half body portrait of a woman demon, eyes, nose,lips,hair,freckles,
+(anime woman:1.3), ,symmetrical eyes, soft lighting, detailed face, concept art, digital painting,
+looking into camera,3d,art by artgerm
+```
+
+
+# 範例:SeaArt AI 
+- https://www.seaart.ai/zhTW/explore/detail/fd2caa3474aabb9ff3e4bb89870b739c
 - 提示詞
 ```
 (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),
