@@ -1,6 +1,6 @@
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
 - [awesome-ai-products](https://latentbox.com/zh/awesome-ai-products)
-- 圖片生成(Image Generation)
+- [圖片生成(Image Generation)](AI_Image_Generation.md)
   - LOGO設計
   - 人物設計
   - 海報設計
