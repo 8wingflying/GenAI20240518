@@ -1,5 +1,8 @@
 # ChatGPT Prompts Engineering 提示工程學
 - ChatGPT Prompts1:基礎技巧
+  - 請利用流程方法(Process Approach)說明滲透測試作業的關鍵活動,輸入與輸出及資產?
+  - 請說明滲透測試作業的輸入與輸出?
+  - write a c# program for fibanacci seq
 - ChatGPT Prompts2:進階技巧
 - GhatGPT主題學習
 - ChatGPT 外掛擴充實戰
