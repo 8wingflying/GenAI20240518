@@ -8,3 +8,11 @@
   - write a c# program for fibanacci seq
   - 詳細說明chatgpt的原理要20 頁
   - 請問最有名的川菜有哪些
+
+## ChatGPT_Labs:ChatGPT 翻譯機
+- `ChatGPT提示詞`:Translate “______” into French
+- `ChatGPT提示詞`:Translate into French: “______”
+- 進階技術
+  - 步驟1:先輸入一般翻譯 ==> Translate: “____________”
+  - 步驟2:接著使用  ==> Optimize it
+- ChatGPT Vs. Google Translate
