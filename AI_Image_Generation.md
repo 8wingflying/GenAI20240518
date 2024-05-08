@@ -5,7 +5,7 @@
 - Image-To-Gif
 ## 系統與平台
 - OpenAI DALL‧E
-- Midjourney AI
+- [Midjourney AI](Midjourney.md)
 - [Stable Diffusion](StableDiffusion.md)
 - Stable Diffusion WebUi Forge
 - ComfyUI
