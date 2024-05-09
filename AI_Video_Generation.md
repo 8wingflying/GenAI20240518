@@ -5,7 +5,8 @@
 
 # 著名工具與平台
 - [HeyGen-AI Video Generator](HeyGen.md)
-  - [官方網址](https://www.heygen.com/) 
+  - [官方網址](https://www.heygen.com/)
+  - [HeyGen是一個AI視頻生成平台，輸入文字就能生成 AI 代言虛擬主播？自己創造AI主播數字人](https://tracyting.com/heygen/)
 - CapCut
 - DomoAI
 - Stable Video Diffusion（SVD）
