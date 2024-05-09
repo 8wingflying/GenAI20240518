@@ -32,7 +32,7 @@ reply = client.chat.completions.create(
 
 print(reply)
 ```
-- `輸出結果`
+`輸出結果`
 ```
 ChatCompletion(
 id='chatcmpl-9MriqVT8F3EOWF0LX6OqHY4XeyCAZ',
