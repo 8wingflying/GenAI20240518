@@ -1,7 +1,10 @@
 # AI Video Generation
+- 文字 ==> video
+- 圖片 ==> video
+- 小說 ==> 動畫 | 動漫 | Video
 
 # 著名工具與平台
-- [HeyGen]()
+- [HeyGen-AI Video Generator](HeyGen.md)
   - [官方網址](https://www.heygen.com/) 
 - CapCut
 - DomoAI
