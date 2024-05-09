@@ -3,7 +3,7 @@
 - 生成式AI(Generative AI) 介紹 [錄影教學]
 - [LLM | Large Language Model|大型語言模型](LLM.md)
 - ChatGPT 介紹 [錄影教學]
-
+- [LLM Security](LLM_Sec.md)
 # 課程大綱
 - 1.[ChatGPT Prompts Engineering 提示工程學](ChatGPT.md)
 - 2.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](AIGC.md) 
