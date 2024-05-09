@@ -1,4 +1,13 @@
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
+- Canva實戰
+  - 我的LOGO
+  - 我的公仔
+  - 文字 == >語音(AiVOOV)
+- Stable Diffusion實戰
+  - 文字 == > 圖片
+  - 圖片 == > 圖片
+
+## 人工智慧產生內容 | 主題
 - [awesome-ai-products](https://latentbox.com/zh/awesome-ai-products)
 - [圖片生成(Image Generation)](AI_Image_Generation.md)
   - LOGO設計
