@@ -1,6 +1,7 @@
 # GenAI20240518 生成式AI駭客營
 ## 預先學習(錄影教學)
 - 生成式AI(Generative AI) 介紹 [錄影教學]
+- [LLM | Large Language Model|大型語言模型](LLM.md)
 - ChatGPT 介紹 [錄影教學]
 
 # 課程大綱
