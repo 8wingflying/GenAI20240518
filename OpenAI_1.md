@@ -1,5 +1,5 @@
 ## OpenAI programming
-- OpenAI
+- [OpenAI實戰1](OpenAI_lab1.md)
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
 - 參考書籍
   - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
