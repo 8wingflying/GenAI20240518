@@ -9,4 +9,4 @@
 - PixVerse
 - Pika Labs 1.0
 - Wondershare DemoCreator
-- OpenAI Sora
+- [OpenAI Sora]((SORA.md))
