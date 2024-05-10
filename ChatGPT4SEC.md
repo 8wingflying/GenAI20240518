@@ -1,5 +1,5 @@
 # GenAI|ChatGPT for Cybersecurity
-- ChatGPT For CTF (MyFirstSecurity)](ChatGPT4CTF.md)
+- [ChatGPT For CTF (MyFirstSecurity)](ChatGPT4CTF.md)
 - GenAI|ChatGPT for Cybersecurity GenAI_Sec資安實戰
 - GenAISec全球發展
 # GenAI|ChatGPT for Cybersecurity
