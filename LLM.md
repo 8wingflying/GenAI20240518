@@ -7,7 +7,7 @@
 - o	Encoder-Decoder
 - o	Decoder- Only
 ### 2024
-- Chat GLM(6B) 智譜清言-ChatGLM
+- Chat GLM(6B) [智譜清言-ChatGLM](https://chatglm.cn/)
   - [官方說明](https://github.com/THUDM/ChatGLM-6B)
   - ChatGLM-6B 是一個開源的、支持中英雙語的對話語言模型，基於 General Language Model (GLM) 架構，具有 62 億參數。
   - ChatGLM-6B結合模型量化技術，使用者可以在消費級的顯卡上進行本地部署（INT4 量化級別下最低只需 6GB 顯存）。
