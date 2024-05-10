@@ -3,12 +3,17 @@
 - GenAI|ChatGPT for Cybersecurity GenAI_Sec資安實戰
 - GenAISec全球發展
 # GenAI|ChatGPT for Cybersecurity
-- [ChatGPT for Cybersecurity Cookbook(2024)](https://www.packtpub.com/product/chatgpt-for-cybersecurity-cookbook/9781805124047)
+- 主題
+  - GenAI-powered SOC
+    - [The benefits of GenAI by SOC function(April 30, 2024)](https://redcanary.com/blog/security-operations/benefits-of-genai-by-soc-function/) 
+  - GenAI-powered SOAR 
+- 書籍[ChatGPT for Cybersecurity Cookbook(2024)](https://www.packtpub.com/product/chatgpt-for-cybersecurity-cookbook/9781805124047)
     - [開始動了](ChatGPTHacker.md) 
 
 # GenAISec全球發展
 - Microsoft Security Copilot: AI-Powered Security
 - Google Security AI Workbench
+- FortiAI| [AI-powered Security Assistant](https://www.fortinet.com/products/fortiai)
 
 ## Microsoft Copilot for Security 
 - [Microsoft Security Community](https://www.youtube.com/@MicrosoftSecurityCommunity)
