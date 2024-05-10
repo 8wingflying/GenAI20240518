@@ -20,7 +20,8 @@
 - [Microsoft Security Copilot: AI-Powered Defense Strategies 2024 | Peter Rising MVP](https://www.youtube.com/watch?v=q4nF2eHw7Fc)
 
 ## Google Cloud Security AI Workbench(2023年)
-- Google發布整合自家Sec-PaLM大型語言模型的Security AI Workbench平臺
+- Google發布整合自家網絡安全大型語言模型（LLM）Sec-PaLM大型語言模型的Security AI Workbench平臺
+- Sec-PaLM適用於不同安全防護用途，可整合各種安全情報，包括Google所收集到的安全威脅情況資料，以及Mandiant在安全漏洞、惡意軟件、威脅偵測和威脅發動人士資訊等方面的第一手情報
 - https://www.tenlong.com.tw/products/9789860654332?list_name=i-r-zh_tw
 
 ## The OWASP Top 10 LLM 
