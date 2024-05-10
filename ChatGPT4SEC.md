@@ -29,7 +29,7 @@
 - Sec-PaLM適用於不同安全防護用途，可整合各種安全情報，包括Google所收集到的安全威脅情況資料，以及Mandiant在安全漏洞、惡意軟件、威脅偵測和威脅發動人士資訊等方面的第一手情報
 - https://www.tenlong.com.tw/products/9789860654332?list_name=i-r-zh_tw
 
-## The OWASP Top 10 LLM 
+## [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - a list of the top 10 most critical vulnerabilities often seen in LLM applications1.
 - 1.Prompt injections
 - 2.Insecure output handling
