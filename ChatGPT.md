@@ -11,10 +11,10 @@
 - 付費版 ChatGPT
   - ChatGPT 外掛擴充實戰
 - 微軟Copilot(Bing Chat)
-  - 微軟Copilot(Bing Chat)
-  - [Bing|Copilot實戰]()
+  - [微軟Copilot(Bing Chat)](Bing.md)
+  - [Bing|Copilot實戰](Bing_labs.md)
 
-# Prompts 提示詞 範本網站
+# Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 - [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
