@@ -18,6 +18,7 @@
   - [超強ChatGPT 外掛工具 AIPRM for ChatGPT 完全上手教學攻略](https://mrmad.com.tw/aiprm-for-chatgpt) 
 - [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
+- 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
 # [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
 # ChatGPT 主題 :生成式 文本
