@@ -8,7 +8,11 @@
   - 請問最有名的川菜有哪些
 - ChatGPT Prompts2:進階技巧
 - GhatGPT主題學習
-- ChatGPT 外掛擴充實戰
+- 付費版 ChatGPT
+  - ChatGPT 外掛擴充實戰
+- 微軟Copilot(Bing Chat)
+  - 微軟Copilot(Bing Chat)
+  - [Bing|Copilot實戰]()
 
 # Prompts 提示詞 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
