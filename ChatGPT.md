@@ -1,4 +1,5 @@
 # ChatGPT Prompts Engineering 提示工程學
+- [GenAI 使用情境](ChatGPT_Usage.md)
 - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
   - 請利用流程方法(Process Approach)說明滲透測試作業的關鍵活動,輸入與輸出及資產?
   - 請說明滲透測試作業的輸入與輸出?
