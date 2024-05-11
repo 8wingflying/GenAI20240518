@@ -10,6 +10,16 @@
 - GhatGPT主題學習
 - ChatGPT 外掛擴充實戰
 
+# Prompts 提示詞 範本網站
+- [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
+- [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
+- [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- AIPRM for ChatGPT 外掛工具[AIPRM: Your Cheat Code for AI like ChatGPT, Midjourney & DALL-E](https://www.aiprm.com/)
+  - [超強ChatGPT 外掛工具 AIPRM for ChatGPT 完全上手教學攻略](https://mrmad.com.tw/aiprm-for-chatgpt) 
+- [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
+- [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
+# [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
+
 # ChatGPT 主題 :生成式 文本
 - 學生
   - 學習計劃書
