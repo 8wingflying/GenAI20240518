@@ -13,6 +13,7 @@
 - 微軟Copilot(Bing Chat)
   - [微軟Copilot(Bing Chat)](Bing.md)
   - [Bing|Copilot實戰](Bing_labs.md)
+  - 付費版Microsoft Copilot Pro
 
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
