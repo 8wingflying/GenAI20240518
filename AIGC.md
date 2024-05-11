@@ -15,7 +15,9 @@
   - LOGO設計
   - 人物設計
   - 海報設計
-  - 室內建築設計 
+  - 室內建築設計
+  - 黑膠(CD..)封面設計
+    - [Lp Old Covers Masters](https://promptbase.com/prompt/lp-old-covers-masters) 
 - 聲音生成(Voice Generation)
 - 音樂生成(Music Generation)
 - [影片生成(Video Generation)](AI_Video_Generation.md)
