@@ -1,0 +1,3 @@
+- 微軟Copilot(Bing Chat)
+  - [微軟Copilot(Bing Chat)](Bing.md)
+  - [Bing|Copilot實戰](Bing_labs.md)
