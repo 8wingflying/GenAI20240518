@@ -13,6 +13,9 @@
 ## 圖片 == > 圖片
 ![fotoram](../pics/fotoram.png)
 
+## 刪除圖像背景  https://stablediffusionweb.com/zh-tw/background-remover
+
+![background-remover](../pics/background-remover.png)
 
 
 
