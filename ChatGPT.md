@@ -15,15 +15,6 @@
   - [Bing|Copilot實戰](Bing_labs.md)
   - 付費版Microsoft Copilot Pro
 
-# Prompts(提示詞) 範本網站
-- [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
-- [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
-- [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-- AIPRM for ChatGPT 外掛工具[AIPRM: Your Cheat Code for AI like ChatGPT, Midjourney & DALL-E](https://www.aiprm.com/)
-  - [超強ChatGPT 外掛工具 AIPRM for ChatGPT 完全上手教學攻略](https://mrmad.com.tw/aiprm-for-chatgpt) 
-- [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
-- [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
-- 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
 # AI工具
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
