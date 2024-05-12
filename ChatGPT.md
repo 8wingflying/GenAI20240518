@@ -24,6 +24,7 @@
 - [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
 
 # AI工具
+- [Civitai: The Home of Open-Source Generative AI]()
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
