@@ -9,21 +9,27 @@
   - [微軟Copilot(Bing Chat)](Bing.md)
   - [Bing|Copilot實戰](Bing_labs.md)
   - 付費版Microsoft Copilot Pro
-- Google Gemini
-  - 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
+- Google Gemini 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
   - 付費版 Google Gemini Pro
+- Anthropic Claude  [網址](https://www.anthropic.com/claude)
+  - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
+
+
+# 更多AI BOT
+- [Monica:一站式AI 助手ChatGPT 中文版](https://monica.im/)
+- [Poe | Platform for Open Exploration(開放探索平台)](https://poe.com/)
+- [Quora - A place to share knowledge and better understand the world](https://www.quora.com/)
+- Perplexity [網址](https://www.perplexity.ai/)
+- [ChatPDF:Chat with any PDF](https://www.chatpdf.com/)
+- [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
+
 # AI工具
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
 
 
-# 更多AI BOT
-- [Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
-- [Monica:一站式AI 助手ChatGPT 中文版](https://monica.im/)
-- [Poe | Platform for Open Exploration(開放探索平台)](https://poe.com/)
-- [ChatPDF:Chat with any PDF](https://www.chatpdf.com/)
-- [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
+
 
 
 ## ChatGPT發展史
