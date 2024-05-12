@@ -4,6 +4,36 @@
 - AI 中文作文
 
 ## AI 英文翻譯
+- [112學年度學測英文翻譯及作文解答](https://aplusenglish.com.tw/13482/112%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%bf%bb%e8%ad%af%e5%8f%8a%e4%bd%9c%e6%96%87%e8%a7%a3%e7%ad%94/)
+```
+第貳部分：非選擇題（占28分）
+說明：本部分共有二題，請依各題指示作答，答案必須寫在「答案卷」上，並標明大題號（一、二）。
+作答務必使用筆尖較粗之黑色墨水的筆書寫，且不得使用鉛筆。
+
+一、中譯英（占8分）
+說明：1.請將以下中文句子譯成正確、通順、達意的英文，並將答案寫在「答案卷」上。
+2.請依序作答，並標明子題號。每題4分，共8分。
+
+歷史一再證明，戰爭會造成極為可怕的災難。
+It was repeatedly evidenced by the history that war will give rise to extremely horrifying catastrophes.
+
+避免衝突、確保世界和平應該是所有人類追求的目標。
+Avoiding conflict, as well as the assurance of world peace, should be the objective pursued by all the humans.
+```
+- `提示詞`:請將底下中文翻譯成英文:歷史一再證明，戰爭會造成極為可怕的災難。
+- `Copolit的回答`:
+```
+當然可以，這是中文句子的英文翻譯：
+
+“History has repeatedly proven that war can lead to extremely terrible disasters.”
+```
+- `提示詞`:請將底下中文翻譯成德文:歷史一再證明，戰爭會造成極為可怕的災難。
+- `Copolit的回答`:
+```
+當然可以，這是中文句子的德文翻譯：
+
+“Die Geschichte hat wiederholt bewiesen, dass Krieg äußerst schreckliche Katastrophen verursachen kann.”
+```
 
 ## AI 英文作文
 - 歷屆英文作文題目
@@ -12,6 +42,15 @@
     - Engrite 是由台大與政大學生組成的寫作訓練平台。針對高中生的寫作能力作培養，無論是準備指考、學測作文，或是將來出社會的必備英文商業寫作技能都兼具。
 - 112學年度學科能力測驗英文作文
   - [112學年度學科能力測驗英文作文佳作](https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0N089635234967309929) 
+```
+二、英文作文（占20分）
+說明︰1.依提示在「答案卷」上寫一篇英文作文。
+2.文長至少120個單詞（words）。
+提示︰隨著社群媒體的普及，表情符號（emoji）的使用也極為普遍。
+請參考下列表情符號，寫一篇英文作文，
+文分兩段。第一段說明人們何以喜歡使用表情符號，並從下列的表情符號中舉一至二例，說明表情符號在溝通上有何功能。
+第二段則以個人或親友的經驗為例，討論表情符號在訊息表達或解讀上可能造成的誤會或困擾，並提出可以化解的方法。
+```
 
 ![English_112](English_112.png)
 
