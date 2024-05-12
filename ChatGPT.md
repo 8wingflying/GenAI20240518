@@ -7,8 +7,8 @@
   - 詳細說明chatgpt的原理要20 頁
   - 請問最有名的川菜有哪些
 - ChatGPT Prompts2:進階技巧
-- GhatGPT主題學習
-- 付費版 ChatGPT
+- [GhatGPT主題學習](ChatGPT_Topics.md)
+- [付費版 ChatGPT](ChatGPT_Plus.md)
   - ChatGPT 外掛擴充實戰
 - 微軟Copilot(Bing Chat)
   - [微軟Copilot(Bing Chat)](Bing.md)
@@ -28,23 +28,7 @@
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
-# ChatGPT 主題 :生成式 文本
-- 學生
-  - 學習計劃書
-  - 學習歷程
-  - 自傳 
-- 自傳 | 劇本 | 企劃案 
-- 企劃案
-- [ChatGPT4程式師](AI4Programmer.md)
 
-#  ChatGPT 外掛擴充功能
-- Voice Control for ChatGPT—練習英文聽力與口說能力
-- ChatGPT Writer（回覆Gmail）
-- Perplexity（問問題）
-- YouTube Summary with ChatGPT（影片摘要）
-- Summarize摘要高手
-- Merlin-Chatgpt Plus app on all websites
-- ChatGPT Prompt Genius（ChatGPT智慧提示）
 
 # 更多AI BOT
 - [Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
