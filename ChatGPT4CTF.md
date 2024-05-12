@@ -31,6 +31,7 @@ int main() {
   - [凱薩密碼加解密平台](https://cryptii.com/pipes/caesar-cipher)
   - 明文(PlainText):BreakALLCTF{Have A GenAI Day}
   - 加密方式:
+![Caesar_cipher_1](Caesar_cipher_1.JPG)
   - 密文(Ciphertext):
 
 # Python 程式生成
