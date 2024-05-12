@@ -8,10 +8,6 @@
 
 ![ChatGPT_decode_1.JPG](ChatGPT_decode_1.JPG)
 
-- [online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
-
-![ChatGPT_decode_C.JPG](ChatGPT_decode_C.JPG)
-
 - 少了`#include <string.h>`
 ```c
 #include <stdio.h>
@@ -35,6 +31,10 @@ int main() {
     return 0;
 }
 ```
+- [online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
+
+![ChatGPT_decode_C.JPG](ChatGPT_decode_C.JPG)
+
 # 使用ChatGPT解CTF題目:古典密碼學
 - 凱薩密碼
   - [凱撒密碼 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC)
