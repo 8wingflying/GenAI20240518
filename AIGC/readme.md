@@ -10,5 +10,9 @@
 - AIGC實戰教學:[Leonardo.ai](Leonardo_ai.md)
 
 
+## 圖片 == > 圖片
+![fotoram](../pics/fotoram.png)
+
+
 
 
