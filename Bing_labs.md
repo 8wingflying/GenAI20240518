@@ -35,6 +35,8 @@ Avoiding conflict, as well as the assurance of world peace, should be the object
 “Die Geschichte hat wiederholt bewiesen, dass Krieg äußerst schreckliche Katastrophen verursachen kann.”
 ```
 
+- `提示詞`:請將底下中文翻譯兩份英文並比較其差異:歷史一再證明，戰爭會造成極為可怕的災難。
+- `Copolit的回答`:
 ## AI 英文作文
 - 歷屆英文作文題目
   - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/)
