@@ -1,4 +1,5 @@
-# 使用ChatGPT解CTF題目:ASCII編碼(encode)與解碼(decode)
+# 使用ChatGPT解CTF題目
+## ASCII編碼(encode)與解碼(decode)
 - `提問詞`:完成底下英文字的ASCII編碼:BreakALLCTF{HappyGenAI DAY}
 - `提問詞`:使用Python程式完成底下英文字的ASCII編碼:BreakALLCTF{HappyGenAI DAY}
 ![ChatGPT_decode_2.JPG](ChatGPT_decode_2.JPG)
