@@ -1,19 +1,21 @@
 # LangChain 實戰
 
 
-
+## Streamlit
+- [Streamlit • A faster way to build and share data apps](https://streamlit.io/)
+- [Streamlit cheat sheet](https://cheat-sheet.streamlit.app/)
+- [一个傻瓜式构建可视化 web的 Python 神器 -- streamlit](https://zhuanlan.zhihu.com/p/448853407)
 
 ## LABS
 - [Build Chatbot Webapp with LangChain](https://www.geeksforgeeks.org/build-chatbot-webapp-with-langchain/)
-- `!pip install langchain`
+
 ```
-! pip install streamlit 
-! pip install OpenAI
-! pip install langchain
-! pip install WikipediaAPIWrapper
+!pip install streamlit 
+!pip install OpenAI
+!pip install langchain
+!pip install WikipediaAPIWrapper
 ```
-- [Streamlit • A faster way to build and share data apps](https://streamlit.io/)
-- [Streamlit cheat sheet](https://cheat-sheet.streamlit.app/)
+
 ```python
 from langchain.llms import OpenAI
 import os
