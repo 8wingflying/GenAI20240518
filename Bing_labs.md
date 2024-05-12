@@ -10,6 +10,8 @@
   - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/)
   - [Engrite英文寫作訓練平台](https://sites.google.com/view/engrite)
     - Engrite 是由台大與政大學生組成的寫作訓練平台。針對高中生的寫作能力作培養，無論是準備指考、學測作文，或是將來出社會的必備英文商業寫作技能都兼具。
+- 112學年度學科能力測驗英文作文
+  - [112學年度學科能力測驗英文作文佳作](https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0N089635234967309929) 
 
 ![English_112](English_112.png)
 
