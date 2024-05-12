@@ -1,9 +1,10 @@
 ## OpenAI programming
-- [OpenAI實戰1](OpenAI_lab1.md)
+## OpenAI
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
-- 參考書籍
-  - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
-    - [GITHUB](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/tree/main)
+
+## 參考書籍
+- [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
+  - [GITHUB](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/tree/main)
 
 ## BOOKs
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
