@@ -1,6 +1,9 @@
 # 付費版 ChatGPT
   - ChatGPT 外掛擴充實戰
 
+![GPT.png](GPT.png)
+
+![GPTS_1.png](GPTS_1.png)
 #  ChatGPT 外掛擴充功能
 - Voice Control for ChatGPT—練習英文聽力與口說能力
 - ChatGPT Writer（回覆Gmail）
