@@ -19,7 +19,7 @@
 - [Monica:一站式AI 助手ChatGPT 中文版](https://monica.im/)
 - [Poe | Platform for Open Exploration(開放探索平台)](https://poe.com/)
 - [Quora - A place to share knowledge and better understand the world](https://www.quora.com/)
-- Perplexity [網址](https://www.perplexity.ai/)
+- 人工智慧搜尋平台 Perplexity [網址](https://www.perplexity.ai/)
 - [ChatPDF:Chat with any PDF](https://www.chatpdf.com/)
 - [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
 
