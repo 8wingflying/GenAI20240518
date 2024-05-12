@@ -7,6 +7,7 @@
   - 文字 == > 圖片
   - 圖片 == > 圖片
 - AIGC實戰教學:[Midjourney實戰(需要付費)](Midjourney_lab.md)
+- AIGC實戰教學:[Leonardo.ai](Leonardo_ai.md)
 
 
 
