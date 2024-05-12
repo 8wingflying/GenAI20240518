@@ -7,10 +7,28 @@
 - 👍️Copilot 的Designer(Bing Image Creator) 配載了Open Al 最新開發的DALL-E 3 圖片生成功能。只要打開Copilot 聊天視窗，就能讓Bing用DALL-E 3 模型產生出高品質圖片還完全免費
 - 👍️AI 強化的搜尋引擎 ==> 可以語音搜尋 | 圖片搜尋 | 個人照片搜尋
 - 可以圖片辨識 ==> 生成文字(圖生文)
+- 沒有API (ChatGPT有!)
 
+![Copilot_1](Copilot_1.JPG)
 
-![Capilot_1](Capilot_1.JPG)
+## Chatgpt和microsoft Copilot有何差異?
+- Copilot的回答:
+```
+ChatGPT 和 Microsoft Copilot 是兩個不同的 AI 模型，由不同的公司開發，具有不同的功能和用途：
 
+ChatGPT：
+ChatGPT 是由 OpenAI 開發的對話式 AI 模型，旨在回答用戶的問題、提供信息、進行對話等。
+它適用於一般性的對話，例如回答問題、寫作、翻譯、創作故事、生成程式碼等。
+ChatGPT 不具備特定的內部工具，僅能使用預定義的功能。
+
+Microsoft Copilot：
+Microsoft Copilot 是由 Microsoft 開發的 AI 模型，專注於協助軟體開發人員進行編程工作。
+它具有內置的程式碼生成功能，可以根據上下文和提示生成程式碼片段。
+Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自動完成代碼等。
+它與 Visual Studio Code 等程式編輯器集成，使開發人員能夠更高效地進行編程工作。
+
+總之，ChatGPT 適用於一般性的對話和創作，而 Microsoft Copilot 專注於程式編寫和開發相關的任務。1234
+```
 ## 文本生成
 - 提問詞: 請列出著名的日本影像風格
 - Copilot的回答:
@@ -27,7 +45,7 @@
 水谷吉法 (Yoshinori Mizutani)：水谷吉法以大自然為主題，將生活細微幻化為別具唯美的畫面。他的作品《YUSURIKA》以遍布在河堤上的搖蚊科昆蟲為主題1。
 這些攝影師的作品都展現了日系攝影風格的獨特魅力，讓人不禁沉浸其中。如果你對日本攝影感興趣，不妨深入了解這些名家的作品，或者自己也嘗試拍攝一些清新、充滿情感的影像吧！
 ```
-![Capilot_text_1.JPG](Capilot_text_1.JPG)
+![Copilot_text_1.JPG](Copilot_text_1.JPG)
 
 
 - 可以繼續發問
@@ -36,12 +54,12 @@
 
 ## 圖片生成
 
-![Capilot_2](Capilot_2.JPG)
+![Copilot_2](Copilot_2.JPG)
 
-![Capilot_3](Capilot_3.JPG)
+![Copilot_3](Copilot_3.JPG)
 
-![Capilot_4](Capilot_4.JPG)
+![Copilot_4](Copilot_4.JPG)
 
-![Capilot_5](Capilot_5.JPG)
+![Copilot_5](Copilot_5.JPG)
 
-## AI 強化的搜索引擎
+## Copilot| Designer
