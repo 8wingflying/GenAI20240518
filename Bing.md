@@ -29,7 +29,7 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 
 總之，ChatGPT 適用於一般性的對話和創作，而 Microsoft Copilot 專注於程式編寫和開發相關的任務。1234
 ```
-## 文本生成
+## 文本生成(Text Generation)
 - 提問詞: 請列出著名的日本影像風格
 - Copilot的回答:
 ```
