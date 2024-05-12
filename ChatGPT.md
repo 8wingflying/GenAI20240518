@@ -49,8 +49,9 @@
 # 更多AI BOT
 - [Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
 - [Monica:一站式AI 助手ChatGPT 中文版](https://monica.im/)
+- [Poe | Platform for Open Exploration(開放探索平台)](https://poe.com/)
 - [ChatPDF:Chat with any PDF](https://www.chatpdf.com/)
 - [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
 
-# 更多文本生成系統
-- [Poe | Platform for Open Exploration(開放探索平台)](https://poe.com/)
+
+
