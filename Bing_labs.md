@@ -95,9 +95,7 @@ In essence, these emojis are more than just digital icons; they are a reflection
 ## AI 中文作文
 - 歷屆中文作文題目
   - [近70年大學入學考試作文題目（民國43年～110年)](https://www.dcard.tw/f/exam/p/235237803)
-    - 109年    靜夜情懷
-    - 110年    如果我有一座新冰箱
-    - 111年
+
 
 ![AI 中文作文](Chinese_112.jpg)
 
