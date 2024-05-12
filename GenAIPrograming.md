@@ -6,7 +6,7 @@
 - LLM programming:LangChain
   - [LangChain](LangChain.md)
   - [LangChain實戰1](LangChain_labs.md)
-
+- [AI 專案開發](AI_Project.md)
 
 ## 其他LLM Programming 
 - ChatGLM
