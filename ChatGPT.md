@@ -1,4 +1,5 @@
-# GenAI的驚艷: 文本生成與提示工程學(Prompts Engineering)
+# GenAI的驚艷
+## 文本生成與提示工程學(Prompts Engineering)
 - ChatGPT的驚艷
   - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
   - ChatGPT Prompts2:進階技巧
