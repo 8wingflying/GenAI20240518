@@ -1,15 +1,17 @@
 # ChatGPT的驚艷: 文本生成與提示工程學(Prompts Engineering)
-- [GenAI 使用情境](ChatGPT_Usage.md)
-- [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
-- ChatGPT Prompts2:進階技巧
-- [GhatGPT主題學習](ChatGPT_Topics.md)
-- [付費版 ChatGPT](ChatGPT_Plus.md)
-  - ChatGPT 外掛擴充實戰
+- ChatGPT的驚艷
+  - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
+  - ChatGPT Prompts2:進階技巧
+  - [GhatGPT主題學習](ChatGPT_Topics.md)
+  - [付費版 ChatGPT](ChatGPT_Plus.md)
+    - ChatGPT 外掛擴充實戰
 - 微軟Copilot(Bing Chat)
   - [微軟Copilot(Bing Chat)](Bing.md)
   - [Bing|Copilot實戰](Bing_labs.md)
   - 付費版Microsoft Copilot Pro
-
+- Google Gemini
+  - 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
+  - 付費版 Google Gemini Pro
 # AI工具
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
