@@ -10,7 +10,6 @@
 
 
 ## 延伸學習
-- [LLM | Large Language Model|大型語言模型](LLM.md)
 - [AI 產業| AI 硬體技術(矽光子技術) | AI 伺服器 | AI PC| AI 手機| AI 工程師| ....](AI_Market.md)
 - [LLM Security](LLM_Sec.md)
 - [研究論文](Research.md)
