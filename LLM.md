@@ -28,6 +28,7 @@
   - 許多人會加以微調以達成預定的目的，甚至有許多人將這種模型視為「本地端ChatGPT」或「開源ChatGPT」
   - [ChatGPT的挑戰者LLaMA(上) - 目前最強大的開源語言模型LLaMA究竟做了什麼](https://ithelp.ithome.com.tw/articles/10338745)
   - [ChatGPT的挑戰者LLaMA(下) - 用RLHF與QLoRA調整大型語言模型](https://ithelp.ithome.com.tw/articles/10339382)
+  - [How Does Llama-2 Compare to GPT-4/3.5 and Other AI Language Models](https://promptengineering.org/how-does-llama-2-compare-to-gpt-and-other-ai-language-models/)
 - Google Bard|‎Gemini  [‎Gemini:獲取創意靈感，提升工作效率](https://gemini.google.com/?hl=zh-cn)
   - Bard AI 是由 Google 基於 LaMDA(Language Model for Dialogue Applications)所開發的 AI 聊天機器人
   - 它可以像搜尋引擎一樣回答簡單的問題，並對複雜的問題提供全面且優質的答案。
@@ -47,7 +48,9 @@
 - 👍ChatGPT(20B)
 -	ST-MoE
 -	UL2
--	Flan T5
+  - 論文[UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
+-	Flan
+-	T5
 -	TK
 - InstructGPT
 - Sparrow
@@ -102,14 +105,20 @@
 - ULMFiT
 - GPT-1
 
-### 2018
-- FastText 
-- GloVe
-- word2Vec 
 
 ### 2017
 - Google Transformer
   - [Transformer模型详解（图解最完整版）](https://zhuanlan.zhihu.com/p/338817680)
+
+### 文字向量化
+- FastText
+  - https://fasttext.cc/
+  - [fastText原理及实践 - 知乎]() 
+- 史丹佛大學 的GloVe(2014)
+  - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+  - [简介GloVe词向量：推导、实现、应用 - 知乎](https://zhuanlan.zhihu.com/p/101179171)
+- word2Vec(2014)
+  - Google 的一個開源工具，能夠根據輸入的「詞的集合」計算出詞與詞之間的距離
 
 ### Open-Source LLMs
 - [The History of Open-Source LLMs: Better Base Models (Part Two)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better)
