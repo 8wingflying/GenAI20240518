@@ -8,6 +8,7 @@
   - 截至2022年10月，StabilityAI籌集了1.01億美元的資金。
   - Stable Diffusion的原始碼和模型權重已分別公開發布在GitHub和Hugging Face，可以在大多數配備有適度GPU的電腦硬體上運行。
   - 而以前的專有文生圖模型（如OpenAI DALL-E和Midjourney）只能通過雲端運算服務訪問。
+  - [Stable Diffusion Online 中文版](https://stablediffusionweb.com/zh-tw/prompts)
   - [Stable Diffusion Online](https://stablediffusionweb.com/)
 ## 觀摩別人的作品
 ![SD_1](S)
