@@ -14,7 +14,9 @@
   - 鑑別器網路負責仔細區分出真實樣本和合成樣本
   - 經由兩者交替對抗學習，最終我們可以得到一個好的生成器。
   - 這個生成器網路通常輸入為一組取樣自高斯分布的亂數，而輸出就是合成樣本。
-- 擴散模型(Diffusion Model) 
+- 擴散模型(Diffusion Model)
+  - [Stable Diffusion Online](https://stablediffusionweb.com/)
+  - [中文版Stable Diffusion Online](https://stablediffusionweb.com/zh-tw/prompts)
 
 # 生成式AI應用
 - [70+生成式人工智能应用/使用案例](https://www.wbolt.com/generative-ai-applications.html)
