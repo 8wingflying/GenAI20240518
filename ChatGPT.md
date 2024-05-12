@@ -2,7 +2,7 @@
 ## 文本生成與提示工程學(Prompts Engineering)
 - ChatGPT的驚艷
   - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
-  - ChatGPT Prompts2:進階技巧
+  - [ChatGPT Prompts2:進階技巧](ChatGPT_advanced.md)
   - [GhatGPT主題學習](ChatGPT_Topics.md)
   - [付費版 ChatGPT](ChatGPT_Plus.md)
     - ChatGPT 外掛擴充實戰
