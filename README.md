@@ -1,7 +1,7 @@
 # GenAI20240518 生成式AI駭客營
 
 # 課程大綱
-- 1.[ChatGPT的經驗: 文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
+- 1.[ChatGPT的驚艷: 文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
 - 2.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](AIGC.md) 
 - 3.[ChatGPT Hacking Day](ChatGPT4SEC.md)
 - 4.[GenAI Programming](GenAIPrograming.md)
