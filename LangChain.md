@@ -1,8 +1,7 @@
 # LLM programming:LangChain 
-  - [LangChain 實戰](LangChain_labs.md)
-
 
 ![LangChain_1.png](LangChain_1.png)
+
 
 ## 六大模組 [LangChain六大核心模块简要汇总](https://zhuanlan.zhihu.com/p/676719738)
 - 一、Model I/O
