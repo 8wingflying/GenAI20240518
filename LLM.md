@@ -21,17 +21,22 @@
   - ChatGLM-6B 使用了和 ChatGPT 相似的技術，針對中文問答和對話進行了優化。
   - 經過約 1T 識別字的中英雙語訓練，輔以監督微調、回饋自助、人類回饋強化學習等技術的加持，62 億參數的 ChatGLM-6B 已經能生成相當符合人類偏好的回答。
   - chatglm.cn 體驗更大規模的 ChatGLM 模型。 
-- Flan-UL2(20B)
-- LLaMA(65B) 
+- Google Flan-UL2(20B)
+- Meta LLaMA(65B)
+  - LLaMA(Large Language Model Meta AI)是Meta AI公司於2023年2月推出的大型語言模型
+  - 因其開源的特性與其擁有ChatGPT相似的效能，使得該模型受到許多人喜愛
+  - 許多人會加以微調以達成預定的目的，甚至有許多人將這種模型視為「本地端ChatGPT」或「開源ChatGPT」
+  - [ChatGPT的挑戰者LLaMA(上) - 目前最強大的開源語言模型LLaMA究竟做了什麼](https://ithelp.ithome.com.tw/articles/10338745)
+  - [ChatGPT的挑戰者LLaMA(下) - 用RLHF與QLoRA調整大型語言模型](https://ithelp.ithome.com.tw/articles/10339382)
 - Google Bard|‎Gemini  [‎Gemini:獲取創意靈感，提升工作效率](https://gemini.google.com/?hl=zh-cn)
   - Bard AI 是由 Google 基於 LaMDA(Language Model for Dialogue Applications)所開發的 AI 聊天機器人
   - 它可以像搜尋引擎一樣回答簡單的問題，並對複雜的問題提供全面且優質的答案。
   - 2023年5月，Google宣布更改Bard底層模型，從LaMDA調整為PaLM 2，能力變得更強
   - Google Bard更名為‎Gemini
-- OpenAI GPT-4 
+- 👍OpenAI GPT-4 
 - Jurassic-2 
-- Claude
-  - 由OpenAI前成員建立的「Anthropic」公司開發
+- Claude 3
+  - 由OpenAI前成員建立的 Anthropic公司開發
   - 特色:(比ChatGPT厲害呢？)
     - 免費使用AI對話機器人
     - 資料更新到2023年初
@@ -39,11 +44,11 @@
     - 可以上傳PDF檔案取出文字和產生摘要
 
 ### 2023
+- 👍ChatGPT(20B)
 -	ST-MoE
 -	UL2
 -	Flan T5
 -	TK
-- ChatGPT(20B)
 - InstructGPT
 - Sparrow
 - OPT-IML
