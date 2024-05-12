@@ -1,12 +1,11 @@
 # [GenAI Programming](GenAIPrograming.md)
 - [LLM](LLM.md)
 - LLM programming:OpenAI programming
-  - OpenAI
-    - [OpenAI developer platform](https://platform.openai.com/docs/overview) 
+  - [OpenAI](OpenAI.md)
   - [OpenAI實戰1](OpenAI_lab_1.md) 
 - LLM programming:LangChain
-  - [LLM programming:LangChain ](LangChain.md)
-  - [LangChain 實戰](LangChain_labs.md)
+  - [LangChain](LangChain.md)
+  - [LangChain實戰1](LangChain_labs.md)
 
 
 ## 其他LLM Programming 
