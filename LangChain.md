@@ -2,7 +2,10 @@
   - [LangChain 實戰](LangChain_labs.md)
 
 
-#### 六大模組
+![LangChain_1.png](LangChain_1.png)
+## 六大模組
+- 五、Memory
+  - LLM是無記憶的，在聊天機器人中，歷史消息是非常重要的，LangChain使用Memory元件來存儲歷史資訊
 
 ### 參考書籍 
 - [LangChain 開發手冊 -- OpenAI × LCEL 表達式 × Agent 自動化流程 × RAG 擴展模型知識 × 圖形資料庫 × LangSmith 除錯工具 | 施威銘研究室](https://www.tenlong.com.tw/products/9789863127918?list_name=i-r-zh_tw)
