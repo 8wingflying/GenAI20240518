@@ -1,4 +1,5 @@
 # LLM programming:LangChain 
+- 官方文件[DOCS](https://python.langchain.com/docs/get_started/introduction/)
 
 ![LangChain_1.png](LangChain_1.png)
 
@@ -24,4 +25,4 @@
   - [GITHUB](https://github.com/benman1/generative_ai_with_langchain)
 - [LangChain Masterclass - Build 15 OpenAI and LLAMA 2 LLM Apps Using Python [Video]](https://www.packtpub.com/product/langchain-masterclass-build-15-openai-and-llama-2-llm-apps-using-python-video/9781835464427)
 - [The Complete LangChain & LLMs Guide [Video]](https://www.packtpub.com/product/the-complete-langchain-llms-guide-video/9781835885925)
-- [DOCS](https://python.langchain.com/docs/get_started/introduction/)
+
