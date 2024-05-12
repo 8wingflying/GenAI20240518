@@ -2,7 +2,7 @@
 - [LLM](LLM.md)
 - LLM programming:OpenAI programming
   - [OpenAI](OpenAI.md)
-  - [OpenAI實戰1](OpenAI_lab_1.md) 
+  - [OpenAI實戰1](OpenAI_lab1.md) 
 - LLM programming:LangChain
   - [LangChain](LangChain.md)
   - [LangChain實戰1](LangChain_labs.md)
