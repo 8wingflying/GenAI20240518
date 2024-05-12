@@ -1,4 +1,4 @@
-# ChatGPT Prompts Engineering 提示工程學
+# ChatGPT的驚艷: 文本生成與提示工程學(Prompts Engineering)
 - [GenAI 使用情境](ChatGPT_Usage.md)
 - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
 - ChatGPT Prompts2:進階技巧
