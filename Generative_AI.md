@@ -1,7 +1,8 @@
 # 生成式AI(Generative AI)
 - 讓電腦能夠模仿人類的創造力，產生出新的、原創的、有意義的內容。
 - 2022-2023 ChatGP引領大流行
-- 
+
+![ChatGPT_1.JPG](ChatGPT_1.JPG)
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
 - [LLM | Large Language Model|大型語言模型](LLM.md)
 - 生成式AI(Generative AI)的模型1:VAE(Variational AutoEncoder)
