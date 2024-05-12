@@ -2,11 +2,11 @@
 
 # 課程大綱
 - 1.[生成式AI(Generative AI)的革命](Generative_AI.md)
-- .[ChatGPT的驚艷: 文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
-- 2.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](AIGC.md) 
-- 3.[ChatGPT Hacking Day](ChatGPT4SEC.md)
-- 4.[GenAI Programming](GenAIPrograming.md)
-- 5.[AI 專案開發](AI_Project.md)
+- 2.[ChatGPT的驚艷: 文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
+- 3.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](AIGC.md) 
+- 4.[ChatGPT Hacking Day](ChatGPT4SEC.md)
+- 5.[GenAI Programming](GenAIPrograming.md)
+- 6.[AI 專案開發](AI_Project.md)
   - [打造你的GPT:DragonGPT](DragonGPT.md) 
 
 ## 延伸學習
