@@ -24,4 +24,10 @@
 - [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
 
 
-
+## ChatGPT發展史
+- GPT-1(2018年): 1億1700 萬個參數
+- GPT-2(2019年): 15億個參數
+- GPT-3(2020年): 120 億個參數
+- GPT-3.5(2022年11月30日):1750 億個參數
+- GPT-4(2023年3月4日): 10萬億個參數
+- GPT-4 Turbo(2023年11月7日):170 萬億個參數
