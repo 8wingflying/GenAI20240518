@@ -9,6 +9,7 @@
 - 歷屆英文作文題目
   - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/) 
 
+![English_112](English_112.png)
 ## AI 中文作文
 - 歷屆中文作文題目
   - `Copilot提示詞`: 歷屆中文作文題目
