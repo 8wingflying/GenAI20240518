@@ -7,11 +7,18 @@
 
 ## AI 英文作文
 - 歷屆英文作文題目
-  - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/) 
+  - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/)
+  - [Engrite英文寫作訓練平台](https://sites.google.com/view/engrite)
+    - Engrite 是由台大與政大學生組成的寫作訓練平台。針對高中生的寫作能力作培養，無論是準備指考、學測作文，或是將來出社會的必備英文商業寫作技能都兼具。
 
 ![English_112](English_112.png)
+
 ## AI 中文作文
 - 歷屆中文作文題目
+  - [近70年大學入學考試作文題目（民國43年～110年)](https://www.dcard.tw/f/exam/p/235237803)
+    - 109年    靜夜情懷
+    - 110年    如果我有一座新冰箱
+    - 111年
   - `提示詞`: 歷屆中文作文題目
   - `提示詞`: 台灣歷屆中文作文題目
 
