@@ -24,7 +24,9 @@
 - [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
-# [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
+# AI工具
+- [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
+- [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
 # ChatGPT 主題 :生成式 文本
 - 學生
