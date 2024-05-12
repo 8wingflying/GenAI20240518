@@ -9,11 +9,15 @@
 - AIGC實戰教學:[Midjourney實戰(需要付費)](Midjourney_lab.md)
 - AIGC實戰教學:[Leonardo.ai](Leonardo_ai.md)
 
+## 文字 == > 圖片
 
 ## 圖片 == > 圖片
+- https://fotoram.io/artstyle/en
+
 ![fotoram](../pics/fotoram.png)
 
-## 刪除圖像背景  https://stablediffusionweb.com/zh-tw/background-remover
+## 刪除圖像背景  
+- https://stablediffusionweb.com/zh-tw/background-remover
 
 ![background-remover](../pics/background-remover.png)
 
