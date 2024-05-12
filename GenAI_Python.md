@@ -3,10 +3,10 @@
 - 程式重構(Refactoring)
 - 程式註解
   - 使用docstrings註解 
-- 程式DEBUG
+- 程式除錯(DEBUG)
 - 程式翻譯(把Python程式轉換成C|C++|Java)
 
-# Python 程式生成
+# Python 程式生成(Code Generation)
 - `提問詞`:write a python program for fibanacci seq
 ![ChatGPT_Python_1.JPG](ChatGPT_Python_1.JPG)
 - 使用 [Google Colab](https://colab.research.google.com/#) 跑跑看
