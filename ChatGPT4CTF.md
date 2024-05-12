@@ -33,7 +33,8 @@ int main() {
   - 加密方式:rot7 
 ![Caesar_cipher_1](Caesar_cipher_1.JPG)
   - 密文(Ciphertext):IylhrHSSJAM{Ohcl H NluHP Khf}
-
+  - 解密方式:
+![Caesar_cipher_2](Caesar_cipher_2.JPG)
 # Python 程式生成
 - `提問詞`:write a python program for fibanacci seq
 ![ChatGPT_Python_1.JPG](ChatGPT_Python_1.JPG)
