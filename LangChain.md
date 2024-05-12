@@ -3,9 +3,17 @@
 
 
 ![LangChain_1.png](LangChain_1.png)
-## 六大模組
+
+## 六大模組 [LangChain六大核心模块简要汇总](https://zhuanlan.zhihu.com/p/676719738)
+- 一、Model I/O
+- 二、Retrieval
+- 三、Chains
+  - Chain是LangChain中非常重要的元件，作用是管理應用程式中的資料流程動
+  - 可以把不同元件（或者其他Chain元件）連結在一起，從而構建完整的資料處理流程。
+- 四、Agents
 - 五、Memory
   - LLM是無記憶的，在聊天機器人中，歷史消息是非常重要的，LangChain使用Memory元件來存儲歷史資訊
+- 六、Callbacks
 
 ### 參考書籍 
 - [LangChain 開發手冊 -- OpenAI × LCEL 表達式 × Agent 自動化流程 × RAG 擴展模型知識 × 圖形資料庫 × LangSmith 除錯工具 | 施威銘研究室](https://www.tenlong.com.tw/products/9789863127918?list_name=i-r-zh_tw)
