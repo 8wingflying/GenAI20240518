@@ -71,3 +71,6 @@
 ### 2017
 - Google Transformer
   - [Transformer模型详解（图解最完整版）](https://zhuanlan.zhihu.com/p/338817680)
+
+### Open-Source LLMs
+- [The History of Open-Source LLMs: Better Base Models (Part Two)](https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better)
