@@ -6,7 +6,7 @@
 - 3.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](AIGC.md) 
 - 4.[ChatGPT Hacking Day](ChatGPT4SEC.md)
 - 5.[GenAI Programming](GenAIPrograming.md)
-- 6.[AI 專案開發](AI_Project.md)
+
 
 
 ## 延伸學習
