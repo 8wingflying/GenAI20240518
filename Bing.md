@@ -9,7 +9,7 @@
 ![Capilot_1](Capilot_1.JPG)
 
 ## 文本生成
-
+![Capilot_text_1.JPG](Capilot_text_1.JPG)
 ## 圖片生成
 
 ![Capilot_2](Capilot_2.JPG)
