@@ -8,6 +8,7 @@
 - 👍️AI 強化的搜尋引擎 ==> 可以語音搜尋 | 圖片搜尋 | 個人照片搜尋
 - 可以圖片辨識 ==> 生成文字(圖生文)
 - 沒有API (ChatGPT有!)
+- 沒有影音生成(Video generation) ? 為來何時會有?
 
 ![Copilot_1](Copilot_1.JPG)
 
@@ -52,7 +53,7 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 - 可以匯出成 word| pdf | text檔案
 - 可以唸給你聽
 
-## 圖片生成
+## 圖片生成(Image Generation)
 
 ![Copilot_2](Copilot_2.JPG)
 
