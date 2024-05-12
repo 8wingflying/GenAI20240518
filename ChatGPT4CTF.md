@@ -1,7 +1,13 @@
-# 使用ChatGPT解CTF題目:編碼(encode)與解碼(decode)
+# 使用ChatGPT解CTF題目:ASCII編碼(encode)與解碼(decode)
 - `提問詞`:完成底下英文字的ASCII編碼:BreakALLCTF{HappyGenAI DAY}
+
+![ChatGPT_decode_1.JPG](ChatGPT_decode_1.JPG)
+![ChatGPT_decode_2.JPG](ChatGPT_decode_2.JPG)
 - `提問詞`:使用C程式完成底下ASCII encoded text: 66 114 101 97 107 65 76 76 67 84 70 123 72 97 112 112 121 71 101 110 65 73 32 68 65 89 125 的解碼
 - [online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
+
+![ChatGPT_decode_C.JPG](ChatGPT_decode_C.JPG)
+
 - 少了`#include <string.h>`
 ```c
 #include <stdio.h>
