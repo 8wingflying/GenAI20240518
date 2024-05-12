@@ -5,7 +5,7 @@
 ![Transformer(2017)](Transformer(2017).png)
 
 
-## Evolutionary Tree
+## LLM發展史 Evolutionary Tree
 
 ![LLM發展史](LLM_Tree.png)
 - o	Open-Source
@@ -39,35 +39,69 @@
     - 可以上傳PDF檔案取出文字和產生摘要
 
 ### 2023
--	ST-MoE / UL2 / Flan T5 / TK
-- ChatGPT(20B) / InstructGPT / Sparrow / OPT-IML / BLOOMZ / BLOOM(176B) / OPT / Chinchilla / Galactica / YaLM / PaLM(540B) / Minerva / LaMDA(173B) / Flan PaLM / Anthropic LM-v4-s3 / GPT-NeoX
+-	ST-MoE
+-	UL2
+-	Flan T5
+-	TK
+- ChatGPT(20B)
+- InstructGPT
+- Sparrow
+- OPT-IML
+- BLOOMZ / BLOOM(176B)
+- OPT
+- Chinchilla
+- Galactica 
+- YaLM / PaLM(540B)
+- Minerva
+- LaMDA(173B)
+- Flan PaLM
+- Anthropic LM-v4-s3
+- GPT-NeoX
 
 ### 2022
 - GLM(General Language Model)
   - 論文[GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
   - [官方GITHUB網址](https://github.com/THUDM/GLM)
 - Switch 
-- CodeX / MT-NLG(530B) / GLaM / Jurassic-1 / Gopher / ERNIE3.0 / LM / Cohere / GPT-J /GPT-Neo
+- CodeX
+- MT-NLG(530B)
+- GLaM
+- Jurassic-1
+- Gopher
+- ERNIE3.0
+- LM
+- Cohere
+- GPT-J
+- GPT-Neo
 
 ### 2021
 - [Google ELECTRA](https://github.com/google-research/electra) 
 - DeBERTa 
-- mT5 / T0 
+- mT5
+- T0 
 - GPT-3(175B)
 
 ### 2020
-- RoBERTa / ALBERT / Distill BERT / ERNIE 
-- BART / T5
-- XL Net / GPT-2
+- RoBERTa
+- ALBERT
+- Distill BERT
+- ERNIE 
+- BART
+- T5
+- XL Net
+- GPT-2
 
-### 2019
+### 2019 BERT 元年 ==> 一堆 XXXBERT
 - Google BERT(Bidirectional Encoder Representation from Transformers) 
-- ELMo / ULMFiT / GPT-1
+- ELMo
+- ULMFiT
+- GPT-1
 
 ### 2018
 - FastText 
 - GloVe
 - word2Vec 
+
 ### 2017
 - Google Transformer
   - [Transformer模型详解（图解最完整版）](https://zhuanlan.zhihu.com/p/338817680)
