@@ -27,7 +27,8 @@ int main() {
 ```
 # 使用ChatGPT解CTF題目:古典密碼學
 - 凱薩密碼
-  - [凱薩密碼](https://cryptii.com/pipes/caesar-cipher)
+  - [凱撒密碼 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC)
+  - [凱薩密碼加解密平台](https://cryptii.com/pipes/caesar-cipher)
   - 明文(PlainText):BreakALLCTF{Have A GenAI Day}
   - 加密方式:
   - 密文(Ciphertext):
