@@ -15,6 +15,39 @@
 
 ![English_112](English_112.png)
 
+- `提示詞`:請辨識文字
+- `Copolit的回答`:
+```
+根據您提供的圖片，這是一個英文作文的題目，要求考生根據下方的一組表情符號寫至少120個單字的英文作文。
+這裡是題目的翻譯和解釋：
+
+題目：根據下方一組表情符號，寫至少120個單字的英文作文。
+提示：關注表情符號的含義，依情境的使用場合編寫。
+請考生給出答案，寫一篇有明確開始和結尾的英文作文。
+文章應該有邏輯地通過上下文連接起來。
+描述表情符號或者相關經驗為主的故事。
+
+這是一個要求考生運用創意和邏輯來編寫一段有關表情符號的故事。
+如果您需要幫助或者想要看一個範例，請告訴我！
+```
+- `提示詞`:請給我一個範例
+- `Copolit的回答`:
+```
+當然可以。以下是一個根據您提供的表情符號寫的英文作文範例：
+
+The array of emojis before me tells a story of emotions that we all experience in our daily lives.
+The first, a beaming face with closed eyes, reminds me of the joy I felt last Friday when I received the news of my promotion. It was a moment of pure bliss, where all the hard work and late nights finally paid off.
+
+The second emoji, a frown with furrowed brows, takes me back to the frustration I encountered while trying to solve a complex problem at work. Despite my efforts, the solution eluded me, and I couldn’t help but feel a sense of defeat.
+
+The third, a face with a tongue sticking out, captures the playful banter I share with my best friend. Our conversations are filled with such laughter and silliness, providing a much-needed respite from the seriousness of life.
+
+Lastly, the emoji with heart-shaped eyes represents the love and admiration I have for my family. No matter the distance or time apart, the deep bond we share is always a source of comfort and happiness.
+
+In essence, these emojis are more than just digital icons; they are a reflection of our human experiences, encapsulating moments of happiness, frustration, playfulness, and love.
+
+這篇作文示範了如何將表情符號與個人經歷結合，創造出一個有情感和故事性的段落。希望這個範例對您有幫助！
+```
 ## AI 中文作文
 - 歷屆中文作文題目
   - [近70年大學入學考試作文題目（民國43年～110年)](https://www.dcard.tw/f/exam/p/235237803)
