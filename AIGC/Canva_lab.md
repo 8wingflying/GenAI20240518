@@ -24,7 +24,9 @@
 
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
 
-[![短影音](https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4)](https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4)
+[![短影音](https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4)](https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4)
+
+https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4
 
 <iframe src="https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
