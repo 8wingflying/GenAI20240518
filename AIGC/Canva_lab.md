@@ -10,8 +10,8 @@
 
 ![CANVA_1.JPG](../pics/CANVA_1.JPG)
 
-
-![]()
+# LOGO設計
+![LOGO.JPG](../pics/LOGO.JPG)
 
 ![]()
 
