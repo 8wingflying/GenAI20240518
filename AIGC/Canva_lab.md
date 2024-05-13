@@ -26,10 +26,8 @@
 
 [![短影音](https://youtu.be/yiJgTw8m5hg)](https://youtu.be/yiJgTw8m5hg)
 
-https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4
 
-<iframe src="https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4" type="video/mp4">
-</videos>
+https://github.com/8wingflying/GenAI20240518/assets/19550271/5e3fbe92-e147-4581-ac34-d7c5e11dca4f
+
+
