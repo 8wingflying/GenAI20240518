@@ -25,6 +25,8 @@
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
 
 
+<iframe src="https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="https://github.com/8wingflying/GenAI20240518/blob/main/AIGC/MyGenAI.mp4" type="video/mp4">
 </videos>
