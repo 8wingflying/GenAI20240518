@@ -23,7 +23,7 @@
 https://github.com/8wingflying/GenAI20240518/assets/19550271/d3f7b31b-0c5e-4b4b-91ee-bece02fd53e4
 
 
-# 使用HeyGen + 圖片 產生 虛擬主播(Avitar短影音) ==> 只支援英文
+# 使用HeyGen + 圖片 產生 虛擬主播(Avatar短影音) ==> 只支援英文
 ![HeyGen_1.JPG](../pics/HeyGen_1.JPG)
 
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
