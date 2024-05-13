@@ -24,9 +24,6 @@
 
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
 
-[![短影音](https://youtu.be/yiJgTw8m5hg)](https://youtu.be/yiJgTw8m5hg)
-
-
 
 https://github.com/8wingflying/GenAI20240518/assets/19550271/5e3fbe92-e147-4581-ac34-d7c5e11dca4f
 
