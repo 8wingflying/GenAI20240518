@@ -7,7 +7,7 @@
 - [Midjourney實戰(需要付費)](Midjourney_lab.md)
 - [Leonardo.ai](Leonardo_ai.md)
 - [TensoRART]
-  :[AI_PPT生成 GAMMA](GAMMA.md)
+- [AI_PPT生成 GAMMA](GAMMA.md)
 
 ## 更多工具 [AIGC_Tools]()
 - [PNGTree](https://zh.pngtree.com/)
