@@ -1,7 +1,4 @@
 ## AIGC實戰教學:Canva實戰
-
-
-- 我的LOGO
 - 我的公仔
 - 文字 == >語音(AiVOOV)
 
@@ -19,7 +16,14 @@
   - [designevo](https://www.designevo.com/tw/)
 
 ![LOGO.JPG](../pics/LOGO.JPG)
-# 使用HeyGen + 圖片 產生 短影音 ==> 只支援英文
+
+# LOGO+ 背景影片
+
+
+https://github.com/8wingflying/GenAI20240518/assets/19550271/d3f7b31b-0c5e-4b4b-91ee-bece02fd53e4
+
+
+# 使用HeyGen + 圖片 產生 虛擬主播(Avitar短影音) ==> 只支援英文
 ![HeyGen_1.JPG](../pics/HeyGen_1.JPG)
 
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
