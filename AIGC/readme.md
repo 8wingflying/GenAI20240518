@@ -8,6 +8,8 @@
   - 圖片 == > 圖片
 - AIGC實戰教學:[Midjourney實戰(需要付費)](Midjourney_lab.md)
 - AIGC實戰教學:[Leonardo.ai](Leonardo_ai.md)
+- AIGC實戰教學:[TensoRART]
+- AIGC實戰教學:[AI_PPT生成 GAMMA](GAMMA.md)
 
 ## 文字 == > 圖片
 
