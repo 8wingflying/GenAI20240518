@@ -19,6 +19,8 @@
   - [designevo](https://www.designevo.com/tw/)
 
 ![LOGO.JPG](../pics/LOGO.JPG)
+# 使用HeyGen + 圖片 產生 短影音 ==> 只支援英文
+![HeyGen_1.JPG](../pics/HeyGen_1.JPG)
 
-![]()
+![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
 
