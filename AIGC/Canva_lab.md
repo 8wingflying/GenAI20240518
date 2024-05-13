@@ -24,7 +24,7 @@
 
 ![HeyGen_2.JPG](../pics/HeyGen_2.JPG)
 
-[![短影音](https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4)](https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4)
+[![短影音](https://youtu.be/yiJgTw8m5hg)](https://youtu.be/yiJgTw8m5hg)
 
 https://github.com/8wingflying/GenAI20240518/raw/main/AIGC/MyGenAI.mp4
 
