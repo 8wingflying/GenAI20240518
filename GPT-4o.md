@@ -31,3 +31,6 @@
 - `提問詞`:請用500字法文介紹「GPT-4o」
 
 ![ChatGPT-4o_4.JPG](./pics/ChatGPT-4o_4.JPG)
+
+- `提問詞`:請用500字介紹「GPT-4o」,請用要點方式輸出
+![ChatGPT-4o_5.JPG](./pics/ChatGPT-4o_5.JPG)
