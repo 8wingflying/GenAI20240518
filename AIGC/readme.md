@@ -1,7 +1,7 @@
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
 - AI 繪圖生成
-  - Microsoft Copolit|Designer(Bing Image creater)
-  - Playground
+  - [Microsoft Copolit|Designer(Bing Image creater)](Designer.md)
+  - [Playground](Playground.md)
   - Ideogram
   - [Canva實戰](Canva_lab.md)
   - [Stable Diffusion實戰](SD_lab.md)
@@ -9,7 +9,8 @@
     - [Lp Old Covers Masters](https://promptbase.com/prompt/lp-old-covers-masters)
     - [Best Midjourney Avatar Prompts](https://promptbase.com/midjourney-avatars) 
   - [Leonardo.ai](Leonardo_ai.md)
-  - [TensoRART]
+  - [Tensor.Art | FREE online image generator and model hosting site!](Tensor_art.md)
+    - Tensor Art 是一款網頁版的 AI 繪圖工具，可讓使用者透過使用各種模型、調整設定以及利用 LoRA、細節工具、影像提示、長寬比和種子一致性等功能來創建個人化的藝術作品
   - Disco Diffusion
   - lexica
     - [官方網址](https://lexica.art/)
