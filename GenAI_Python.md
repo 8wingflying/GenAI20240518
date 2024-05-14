@@ -16,6 +16,7 @@
 # Python 程式生成(Code Generation)
 - `提問詞`:write a python program for fibanacci seq
 ![ChatGPT_Python_1.JPG](pics/ChatGPT_Python_1.JPG)
+
 - 使用 [Google Colab](https://colab.research.google.com/#) 跑跑看
 ![Google_Colab](Google_Colab.JPG)
 
@@ -35,6 +36,7 @@
 
 ### 程式註解:請加上註解
 ![ChatGPT_PYTHON_QuickSort_2.JPG](pics/ChatGPT_PYTHON_QuickSort_2.JPG)
+
 ### 程式註解:使用docstrings註解 
 ![ChatGPT_PYTHON_QuickSort_3.JPG](pics/ChatGPT_PYTHON_QuickSort_3.JPG)
 
