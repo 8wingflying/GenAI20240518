@@ -6,6 +6,12 @@
 - 程式除錯(DEBUG)
 - 程式翻譯(把Python程式轉換成C|C++|Java)
 
+# AI 程式家教
+- 哈佛大學CS50  [CS50.ai](https://cs50.ai/)
+  - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+  - [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+  - [趨勢:CS50：一堂超過 800 個哈佛學生選修的「硬課」，魅力何在？](https://www.inside.com.tw/article/4209-harvard-cs50)
+
 # Python 程式生成(Code Generation)
 - `提問詞`:write a python program for fibanacci seq
 ![ChatGPT_Python_1.JPG](pics/ChatGPT_Python_1.JPG)
@@ -25,6 +31,7 @@
 # 程式註解
 
 ![ChatGPT_PYTHON_QuickSort_1.JPG](pics/ChatGPT_PYTHON_QuickSort_1.JPG)
+
 ### 程式註解:請加上註解
 ![ChatGPT_PYTHON_QuickSort_2.JPG](pics/ChatGPT_PYTHON_QuickSort_2.JPG)
 ### 程式註解:使用docstrings註解 
