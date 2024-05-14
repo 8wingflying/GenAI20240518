@@ -4,7 +4,7 @@
 - [Tensor Art 教學：目前最推薦的免費網頁版 AI 繪圖工具！](https://learnai.tw/tensor-art-introduction/)
 
 # 登入介面
-![Tensor_art_1.JPG](./pics/Tensor_art_1.JPG)
+![Tensor_art_1.JPG](../pics/Tensor_art_1.JPG)
 
 # 學習使用
-![Tensor_art_2.JPG](./pics/Tensor_art_2.JPG)
+![Tensor_art_2.JPG](../pics/Tensor_art_2.JPG)
