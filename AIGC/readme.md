@@ -30,6 +30,7 @@
 # AIGC 常用主題
 
 ## 文字 == > 圖片
+![Designer](../pics/TEXT2Image.png)
 
 ## 圖片 == > 圖片
 - https://fotoram.io/artstyle/en
