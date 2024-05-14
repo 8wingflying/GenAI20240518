@@ -7,4 +7,4 @@
   - [Leonardo ai 教學 | 童書製作秘訣大公開 | 維持角色一貫風格](https://www.youtube.com/watch?v=nrgakOZCpRs)
   - [#Leonardo AI：全新繪圖工具來了！ 多種繪圖功能讓Midjourney瑟瑟發抖](https://www.youtube.com/watch?v=WcjRnLKWdVE)
   - []() 
-- `教學文章`[Tensor Art 教學：目前最推薦的免費網頁版 AI 繪圖工具！](https://learnai.tw/tensor-art-introduction/)
+- `教學文章`
