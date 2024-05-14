@@ -1,6 +1,7 @@
 # 生成式AI(Generative AI)
 - 讓電腦能夠模仿人類的創造力，產生出新的、原創的、有意義的內容。
 - 2022-2023 ChatGP引領大流行
+- 2024年重磅發行[GPT-4o(May 13, 2024)](c)
 - 特別是 輸入`文字` ==> 產生 AIGC (小說 | 圖片 | ......)
 - AIGC == Artificial Intelligence Generated Content == 人工智慧產生的(小說 | 圖片 | ......) 
 
