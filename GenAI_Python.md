@@ -11,6 +11,7 @@
   - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
   - [CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
   - [趨勢:CS50：一堂超過 800 個哈佛學生選修的「硬課」，魅力何在？](https://www.inside.com.tw/article/4209-harvard-cs50)
+  - [哈佛大學 CS50 課程如何打造 AI 程式家教 CS50 ddb](https://www.explainthis.io/zh-hant/ai/CS50-ddb)
 
 # Python 程式生成(Code Generation)
 - `提問詞`:write a python program for fibanacci seq
