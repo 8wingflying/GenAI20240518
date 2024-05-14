@@ -11,6 +11,8 @@
   - [Leonardo.ai](Leonardo_ai.md)
   - [TensoRART]
   - Disco Diffusion
+  - lexica
+    - [官方網址](https://lexica.art/)
   - https://arthub.ai/
   - Pencil Sketch a Phot
     - [Pencil Sketch a Photo](https://sketchmypic.com/)
