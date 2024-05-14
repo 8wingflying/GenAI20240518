@@ -20,3 +20,4 @@ broken glass, masterpiece, sidelighting, finely detailed beautiful eyes:
 ```
 ## 文字 == > 圖片
 ## 圖片 == > 圖片
+## 草圖到圖像
