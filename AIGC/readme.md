@@ -8,6 +8,7 @@
   - [Midjourney實戰(需要付費)](Midjourney_lab.md)
   - [Leonardo.ai](Leonardo_ai.md)
   - [TensoRART]
+  - Disco Diffusion
   - https://arthub.ai/
   - Pencil Sketch a Phot
     - [Pencil Sketch a Photo](https://sketchmypic.com/)
