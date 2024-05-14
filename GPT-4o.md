@@ -1,0 +1,10 @@
+# GPT-4o
+- 2024年5月13日重磅發行
+- [官方網址](https://openai.com/index/hello-gpt-4o/)
+- [使用ChatGPT](https://chatgpt.com/?model=gpt-4o)
+- [使用PlayGround](https://platform.openai.com/playground/chat?mode=chat&model=gpt-4o&models=gpt-4o)
+## 全球新聞
+- []()
+- []()
+- []()
+- []()
