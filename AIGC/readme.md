@@ -21,6 +21,7 @@
   - Google musicLM
   - Suno
 - AI 影音生成
+  - OpenAI SORA
   - D-ID
   - Runway
   - Pika.art 免費的線上AI影片+3D動畫產生器
