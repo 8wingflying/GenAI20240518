@@ -6,6 +6,8 @@
   - [Canva實戰](Canva_lab.md)
   - [Stable Diffusion實戰](SD_lab.md)
   - [Midjourney實戰(需要付費)](Midjourney_lab.md)
+    - [Lp Old Covers Masters](https://promptbase.com/prompt/lp-old-covers-masters)
+    - [Best Midjourney Avatar Prompts](https://promptbase.com/midjourney-avatars) 
   - [Leonardo.ai](Leonardo_ai.md)
   - [TensoRART]
   - Disco Diffusion
