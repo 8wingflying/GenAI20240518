@@ -1,14 +1,21 @@
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
-- [Canva實戰](Canva_lab.md)
-  - 我的LOGO
-  - 我的公仔
-  - 文字 == >語音(AiVOOV)
-- [Stable Diffusion實戰](SD_lab.md)
-- [Midjourney實戰(需要付費)](Midjourney_lab.md)
-- [Leonardo.ai](Leonardo_ai.md)
-- [TensoRART]
+- AI 繪圖生成
+  - Microsoft Copolit|Designer(Bing Image creater)
+  - Playground
+  - Ideogram
+  - [Canva實戰](Canva_lab.md)
+  - [Stable Diffusion實戰](SD_lab.md)
+  - [Midjourney實戰(需要付費)](Midjourney_lab.md)
+  - [Leonardo.ai](Leonardo_ai.md)
+  - [TensoRART]
 - [AI_PPT生成 GAMMA](GAMMA.md)
-
+- AI 音樂生成
+  - Google musicLM
+  - Suno
+- AI 影音生成
+  - D-ID
+  - Runway
+  - Pika.art 免費的線上AI影片+3D動畫產生器
 ## 更多工具 [AIGC_Tools]()
 - [PNGTree](https://zh.pngtree.com/)
 
