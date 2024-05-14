@@ -8,6 +8,7 @@
   - [Midjourney實戰(需要付費)](Midjourney_lab.md)
   - [Leonardo.ai](Leonardo_ai.md)
   - [TensoRART]
+  - https://arthub.ai/
 - AI 音樂生成
   - Google musicLM
   - Suno
