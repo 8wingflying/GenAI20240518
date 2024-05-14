@@ -8,7 +8,6 @@
   - [Midjourney實戰(需要付費)](Midjourney_lab.md)
   - [Leonardo.ai](Leonardo_ai.md)
   - [TensoRART]
-- [AI_PPT生成 GAMMA](GAMMA.md)
 - AI 音樂生成
   - Google musicLM
   - Suno
@@ -16,6 +15,9 @@
   - D-ID
   - Runway
   - Pika.art 免費的線上AI影片+3D動畫產生器
+- [AI_PPT生成 GAMMA](GAMMA.md)
+- AI搜尋引擎
+  - Perplexity
 ## 更多工具 [AIGC_Tools]()
 - [PNGTree](https://zh.pngtree.com/)
 
