@@ -2,6 +2,7 @@
 
 # 課程大綱
 - 1.[生成式AI(Generative AI)的革命](Generative_AI.md)
+  - 2024年5月13日重磅發行[GPT-4o(May 13, 2024)](GPT-4o.md) 
 - 2.[GenAI的驚艷: ChatGPT文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
 - 3.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](/AIGC) 
 - 4.[GenAI 程式輔助學習](GenAI_Python.md)
