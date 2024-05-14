@@ -17,4 +17,9 @@
 # GPT-4 vs GPT-4o
 - [gpt4o与gpt4.0的实测对比](https://zhuanlan.zhihu.com/p/697587954)
 
+# 
 ![ChatGPT-4o_1.JPG](./pics/ChatGPT-4o_1.JPG)
+
+- `提問詞`:請用500字介紹「GPT-4o」
+
+![ChatGPT-4o_2.JPG](./pics/ChatGPT-4o_2.JPG)
