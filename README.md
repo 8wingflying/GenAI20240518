@@ -9,8 +9,12 @@
     - GPT-4o的這些功能將對所有用戶免費，而付費用戶將繼續擁有免費用戶5倍的容量限制。 
   - 2024年5月14日 Google I/O 2024 [Google@YOUTUBE](https://www.youtube.com/@Google)
     - 將Gemini升級成 Gemini 1.5 Pro [Gemini](Gemini.md)
-    - 持續將Gemini應用在Google旗下各項服務。例如Google相簿
-    - Gemini搭配的「Ask Photos with Gemini」 
+      - 持續將Gemini應用在Google旗下各項服務。例如Google相簿
+      - Gemini搭配的「Ask Photos with Gemini」
+    - 「Project Astra」通用人工智慧數位助理
+    - 全新圖像生成模型Imagen 3
+    - 可生成影片內容的Veo ==> YouTube Shorts 短影音 共享平台(長度限制為60秒)
+    - 針對音樂創作推出名為Music AI Sandbox工具 
 - 2.[GenAI的驚艷: ChatGPT文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
 - 3.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](/AIGC) 
 - 4.[GenAI 程式輔助學習](GenAI_Python.md)
