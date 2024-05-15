@@ -17,8 +17,8 @@
 # GPT-4 vs GPT-4o
 - [gpt4o与gpt4.0的实测对比](https://zhuanlan.zhihu.com/p/697587954)
 
-# [ChatGPT-4o實戰_20240515_MITRE ATT&CK](ChatGPT-4o_20240515.md)
 # ChatGPT-4o實戰(20240514)
+- [ChatGPT-4o實戰_20240515_MITRE ATT&CK](ChatGPT-4o_20240515.md)
 - `提問詞`:請用500字介紹「GPT-4o」
 - `提問詞`:請用500字英文介紹「GPT-4o」
 - `提問詞`:請用500字法文介紹「GPT-4o」
@@ -71,6 +71,7 @@
   - `提問詞`:請說明K.E.Wilkinson的錄音風格
   - `提問詞`:請說明Furtwangler的指揮風格
   - `提問詞`:請問要如何將Chatgpt的聊天存成PDF檔案?
+
 # ChatGPT-4o實戰結果
 ![ChatGPT-4o_1.JPG](./pics/ChatGPT-4o_1.JPG)
 
