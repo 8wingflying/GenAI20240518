@@ -8,7 +8,7 @@
     - 具備跨多種媒體的能力，能夠即時處理文字、音訊和影片，且語音輸入與回應速度更快，即日起免費開放給所有使用者。
     - GPT-4o的這些功能將對所有用戶免費，而付費用戶將繼續擁有免費用戶5倍的容量限制。 
   - 2024年5月14日 Google I/O 2024 [Google@YOUTUBE](https://www.youtube.com/@Google)
-    - 將Gemini升級成 Gemini 1.5 Pro
+    - 將Gemini升級成 Gemini 1.5 Pro [Gemini](Gemini.md)
     - 持續將Gemini應用在Google旗下各項服務。例如Google相簿
     - Gemini搭配的「Ask Photos with Gemini」 
 - 2.[GenAI的驚艷: ChatGPT文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
