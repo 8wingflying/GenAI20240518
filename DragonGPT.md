@@ -1,5 +1,8 @@
 # 5.[AI 專案開發](AI_Project.md)
   - 打造你的GPT:DragonGPT
+
+![DRAGONGPT.png](DRAGONGPT.png)
+
 ## 參考資料
 - [LibreChat](LibreChat)
 - [chatgpt-clone](https://github.com/xtekky/chatgpt-clone/tree/main)
@@ -160,3 +163,11 @@ if __name__ == "__main__":
 
 </html>
 ```
+
+
+## 安裝與執行
+- pip install -r requirements.txt
+- 建目錄如 MYCHATGPT_0515 要有所有檔案
+- cd MYCHATGPT_0515
+- flask run
+- 打開瀏覽器127.0.0.1:5000 ==> 史上最慢的ChatGPT-4o
