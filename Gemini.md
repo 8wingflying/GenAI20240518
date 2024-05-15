@@ -1,6 +1,11 @@
 # Gemini  
 - 登入[‎Gemini - 開啟對話，激發想像 - Google Search](https://gemini.google.com/app)
--`提問詞`:以條列式說明Gemini的發展史與特色
+-`提問詞`: 請說明Google IO 2024有哪些特點,以要點形式列出
+- `提問詞`:以條列式說明Gemini的發展史與特色
+- `提問詞`:gemini的版本
+
+## Gemini_實戰1
+- `提問詞`:以條列式說明Gemini的發展史與特色
 - `Gemini的回應`:
 ```
 Gemini 發展史與特色
@@ -33,7 +38,7 @@ Gemini 的倫理問題也值得關注，例如偏見、歧視等問題。
 
 總體而言，Gemini 是人工智能領域具有重要突破的技術，其發展值得期待。
 ```
-# 快速實戰
+#  Gemini_實戰2
 -`提問詞`: 請說明Google IO 2024有哪些特點,以要點形式列出
 - `Gemini的回應`:
 ```
