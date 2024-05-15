@@ -10,7 +10,8 @@
   - [微軟Copilot(Bing Chat)](Bing.md)
   - [Bing|Copilot實戰](Bing_labs.md)
   - 付費版Microsoft Copilot Pro
-- Google Gemini 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
+- [Google Gemini](Gemini.md)
+  - 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
   - 付費版 Google Gemini Pro
 - Anthropic Claude  [網址](https://www.anthropic.com/claude)
   - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
