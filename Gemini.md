@@ -1,6 +1,6 @@
 # Gemini  
 - 登入[‎Gemini - 開啟對話，激發想像 - Google Search](https://gemini.google.com/app)
--`提問詞`: 請說明Google IO 2024有哪些特點,以要點形式列出
+- `提問詞`: 請說明Google IO 2024有哪些特點,以要點形式列出
 - `提問詞`:以條列式說明Gemini的發展史與特色
 - `提問詞`:gemini的版本
 
