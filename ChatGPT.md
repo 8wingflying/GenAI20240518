@@ -32,7 +32,7 @@
 
 
 ## ChatGPT發展史
-![CHATGPT_version](CHATGPT_version.png)
+![CHATGPT_version](./pics/CHATGPT_version.png)
 - GPT-1(2018年): 1億1700 萬個參數
 - GPT-2(2019年): 15億個參數
 - GPT-3(2020年): 120 億個參數
