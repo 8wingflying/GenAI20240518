@@ -1,9 +1,16 @@
-# Gemini  
+# Gemini(前身為bard)
 - 登入[‎Gemini - 開啟對話，激發想像 - Google Search](https://gemini.google.com/app)
 - `提問詞`: 請說明Google IO 2024有哪些特點,以要點形式列出
 - `提問詞`:以條列式說明Gemini的發展史與特色
 - `提問詞`:gemini的版本
+```
+Gemini 1.0	2022 年 11 月	首個公開版本，提供多模態 AI 能力
+Gemini 1.1	2023 年 3 月	提升語言理解與生成能力，新增視覺感知能力
+Gemini 1.2	2023 年 7 月	新增聽覺感知能力，擴展應用場景
 
+Gemini 1.5 Pro	2024 年 5 月	增強運算能力，豐富功能
+Gemini 1.5 Flash	2024 年 5 月	降低資源需求，適用於資源受限的裝置
+```
 ## Gemini_實戰1
 - `提問詞`:以條列式說明Gemini的發展史與特色
 - `Gemini的回應`:
