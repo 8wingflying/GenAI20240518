@@ -10,7 +10,7 @@
 - 沒有API (ChatGPT有!)
 - 沒有影音生成(Video generation) ? 未來何時會有?
 
-![Copilot_1](./pics/Copilot_1.JPG)
+![Copilot_1](./pics/Capilot_1.JPG)
 
 ## Chatgpt和microsoft Copilot有何差異?
 - Copilot的回答:
