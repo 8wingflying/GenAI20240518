@@ -28,8 +28,17 @@
   - Midjourney AI繪圖網站：[點我前往](https://www.midjourney.com/home)
   - 要是有 Discord 帳號直接登入
   - 要是沒有直接自訂「使用者名稱」並點選「繼續」就可以註冊 Discord 會員。
-- 步驟 2. 登入 Midjourney 聊天室頻道
-  - 進入 Midjourney 的 Discord 頻道內，直接點選左側「newbies-xx」聊天室頻道（隨便選）
-  - 進入後會有很多其他網友，也正在線上使用 Midjourney 機器人產生圖片
-  - 可以觀察看看其他人都是打什麼關鍵字來產生圖案。
-- 
+- 步驟 2. 登入 Midjourney 聊天室頻道 [點我前往](https://discord.com/invite/midjourney)
+  - 進入 Midjourney 的 Discord 頻道內
+  - 直接點選左側「newbies-xx」聊天室頻道（隨便選）
+  - 進入後會有很多其他網友，也正在線上使用 Midjourney 產生圖片
+  - 可觀察看看其他人都是打什麼關鍵字來產生圖案。
+- 步驟 3. 透過 Midjourney 指令產生 AI 圖片
+  - 在聊天室內右下角欄位內輸入「/imagine」 ，並且點選「prompt」AI 繪圖運算指令。
+  - 輸入你要的創作
+  - 大約過幾秒後，就會看見 Midjourney 根據你的文字提示算出4張圖片
+
+  - 圖中顯示 U1~U4、V1~V4 功能按鈕，這些功能是指：
+    - 數字意義：左上代表 1、右上代表 2、左下代表 3、右下代表 4 。
+    - U 意義：是指 Upscale 英文縮寫，喜歡這張圖片單獨放大。
+    - V 意義：是指 Variation 英文縮寫，依照挑選圖片繼續延伸設計四張圖片。
