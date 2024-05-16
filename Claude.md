@@ -10,15 +10,15 @@
 - 我們的 iOS 應用程序將前沿智能的力量放在您的口袋中，您可以在 App Store 上下載。
 
 如果您想要更深入了解 Claude，請隨時詢問！ 😊
+
+## Anthropic Claude:官方
 - [網址](https://www.anthropic.com/claude)
 - [官方文件](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
   - [使用者指南(User Guides)](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
   - [API 參考文件(API Reference)](https://docs.anthropic.com/zh-TW/api/getting-started)
   - [提示語料庫(Prompt Library)](https://docs.anthropic.com/zh-TW/prompt-library/library)
   - [提示語料庫(英文版| 比較好學)](https://docs.anthropic.com/en/prompt-library/library)
-### 使用者指南(User Guides)
-### API 參考文件(API Reference)
-### 提示語料庫(Prompt Library
+
 ![Claude_1.png](./pics/Claude_1.png)
 
 ![Claude_2.png](./pics/Claude_2.png)
