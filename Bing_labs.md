@@ -97,7 +97,7 @@ In essence, these emojis are more than just digital icons; they are a reflection
   - [近70年大學入學考試作文題目（民國43年～110年)](https://www.dcard.tw/f/exam/p/235237803)
 
 
-![AI 中文作文](.pics/Chinese_112.jpg)
+![AI 中文作文](./pics/Chinese_112.jpg)
 
 - `提示詞`: 請以作家蔣勳《給青年藝術家的信》為閱讀材料，以「花草樹木的氣味記憶」為題寫一篇文章。
 - `Copolit的回答`:
