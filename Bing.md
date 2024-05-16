@@ -65,4 +65,13 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 
 ## Copilot| [Designer(設計工具)](https://www.bing.com/images/create)
 
+![Designer_0](./pics/DESIGNER_0.png)
+
+
 ![Designer_1](./pics/DESIGNER_1.png)
+
+![Designer_2](./pics/DESIGNER_2.png)
+
+![Designer_11](./pics/DESIGNER_11.png)
+
+![Designer_12](./pics/DESIGNER_12.png)
