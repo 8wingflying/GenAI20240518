@@ -20,7 +20,7 @@
 - 輸入`文字` ==> 產生 AIGC (小說 | 圖片 | ......)
 - AIGC == Artificial Intelligence Generated Content == 人工智慧產生的(小說 | 圖片 | ......) 
 
-![ChatGPT_1.JPG](ChatGPT_1.JPG)
+![ChatGPT_1.JPG](./pics/ChatGPT_1.JPG)
 
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
 - [LLM | Large Language Model|大型語言模型](LLM.md)
