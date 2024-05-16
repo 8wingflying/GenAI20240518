@@ -31,9 +31,10 @@
   - PromeAI
     - [PromeAI - Free AI art generator : Bring creativity to life]()
     - [【零門檻】1個AI工具，解放設計❗️｜建築設計/室內設計/電商設計/遊戲設計](https://www.youtube.com/watch?v=9iySYDaxdlY)
-- AI Voice Generator
+- AI Voice Generator(人工智慧聲音生成器)
   - ElevenLabs Music(Generative Voice AI)
   - Deepgram | AI Voice Generator & Text to Speech [Deepgram實戰](Deepgram.md)
+  - [可以拯救您的 9 種最佳人工智慧聲音生成器]()
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
@@ -53,6 +54,7 @@
 - AI 影音生成
   - OpenAI SORA
   - D-ID
+  - 🚀🎬 ShortGPT|
   - Pika.art 免費的線上AI影片+3D動畫產生器https://pika.art/
   - Pixverse：https://pixverse.ai/
   - RUNWAY：https://runwayml.com/
@@ -64,6 +66,10 @@
       - [堪稱最佛心的影片剪輯軟體 Capcut (剪映)！簡單易學/免費功能強大，紅到歐美連老外也超愛用！](https://www.youtube.com/watch?v=z5hL76aKCKk) 
   - 線上教學影片
     - [【搞錢必看】2024免費AI文生視頻工具，TOP6全測評｜文生視頻，圖生視頻｜AI Video Generator Free｜Text To Video](https://www.youtube.com/watch?v=Lee-0GLDQG0)
+- AI漫畫
+  - ComicAI | SkyReels
+    - [官方網址](https://skyreels.ai/)
+    - [ComicAI漫畫生成器4步驟畫出專業水準漫畫，還能添加對話框、場景特效、表情貼，還能教AI學習模仿畫風..漫畫家要失業了…](https://tracyting.com/comicai/) 
 - AI presentation maker(簡報生成器)
   - [AI_PPT生成 GAMMA](GAMMA.md)
   - [Canva](https://www.canva.com/create/ai-presentations/)
