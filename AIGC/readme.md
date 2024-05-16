@@ -64,7 +64,13 @@
       - [堪稱最佛心的影片剪輯軟體 Capcut (剪映)！簡單易學/免費功能強大，紅到歐美連老外也超愛用！](https://www.youtube.com/watch?v=z5hL76aKCKk) 
   - 線上教學影片
     - [【搞錢必看】2024免費AI文生視頻工具，TOP6全測評｜文生視頻，圖生視頻｜AI Video Generator Free｜Text To Video](https://www.youtube.com/watch?v=Lee-0GLDQG0)
-- [AI_PPT生成 GAMMA](GAMMA.md)
+- AI presentation maker(簡報生成器)
+  - [AI_PPT生成 GAMMA](GAMMA.md)
+  - [Canva](https://www.canva.com/create/ai-presentations/)
+  - [Free AI presentation maker | Slidesgo](https://slidesgo.com/ai-presentations)
+  - [Presentations.AI](https://www.presentations.ai/ai-presentation-maker)
+  - [Visme|Free AI Presentation Maker for Generating Projects in Minutes](https://www.visme.co/ai-presentation-maker/)
+  - [ 2024年11  款最佳免費 AI PowerPoint 產生器（最新更新和示例輸出）](https://www.classpoint.io/blog/zh-hant/11-%E5%B9%B4-2023-%E6%AC%BE%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B2%BB-ai-powerpoint-%E7%94%A2%E7%94%9F%E5%99%A8%E6%AF%94%E8%BC%83)
 - AI搜尋引擎
   - Perplexity
 ## 更多工具 [AIGC_Tools]()
