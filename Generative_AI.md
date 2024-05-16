@@ -24,17 +24,17 @@
 
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
 - [LLM | Large Language Model|大型語言模型](LLM.md)
-- 生成式AI(Generative AI)的模型1:VAE(Variational AutoEncoder)
+- 生成式AI(Generative AI)的模型1 : VAE(Variational AutoEncoder)
   - 2013年 由與 Diederik P. Kingma提出
   - 論文[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114)
-- 生成式AI(Generative AI)的模型2:生成對抗網路(GAN|Generative Adversarial Network)
+- 生成式AI(Generative AI)的模型 2: 生成對抗網路(GAN|Generative Adversarial Network)
   - 2014年 由 Goodfellow 所提出來的方法
   - 其結構由兩個網路所組成：生成器網路和鑑別器網路
   - 生成器網路負責生成以假亂真的合成樣本
   - 鑑別器網路負責仔細區分出真實樣本和合成樣本
   - 經由兩者交替對抗學習，最終我們可以得到一個好的生成器。
   - 這個生成器網路通常輸入為一組取樣自高斯分布的亂數，而輸出就是合成樣本。
-- 生成式AI(Generative AI)的模型3:擴散模型(Diffusion Model)
+- 生成式AI(Generative AI)的模型 3: 擴散模型(Diffusion Model)
   - [Stable Diffusion Online](https://stablediffusionweb.com/)
   - [中文版Stable Diffusion Online](https://stablediffusionweb.com/zh-tw/prompts)
 
