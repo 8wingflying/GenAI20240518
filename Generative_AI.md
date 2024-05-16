@@ -22,6 +22,20 @@
 
 ![ChatGPT_1.JPG](./pics/ChatGPT_1.JPG)
 
+## 文字 == > 圖片
+![Designer](../pics/TEXT2Image.png)
+
+## 圖片 == > 圖片
+- https://fotoram.io/artstyle/en
+
+![fotoram](../pics/fotoram.png)
+
+## 刪除圖像背景  
+- https://stablediffusionweb.com/zh-tw/background-remover
+
+![background-remover](../pics/background-remover.png)
+
+
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
 - [LLM | Large Language Model|大型語言模型](LLM.md)
 - 生成式AI(Generative AI)的模型 1 : VAE(Variational AutoEncoder)
