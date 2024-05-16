@@ -10,6 +10,7 @@
     - [Best Midjourney Avatar Prompts](https://promptbase.com/midjourney-avatars) 
   - [Leonardo.ai](Leonardo_ai.md)
   - [Tensor.Art | FREE online image generator and model hosting site!](Tensor_art.md)
+    - Tensor.Art 是一個令人驚艷的 在線圖像生成器和模型托管站點
     - Tensor Art 是一款網頁版的 AI 繪圖工具，可讓使用者透過使用各種模型、調整設定以及利用 LoRA、細節工具、影像提示、長寬比和種子一致性等功能來創建個人化的藝術作品
   - Disco Diffusion
   - lexica
@@ -26,14 +27,30 @@
     - [Sketch My Pic 線上將圖片轉為鉛筆畫](https://chtouch.com/3370/#:~:text=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Sketch%20My%20Pic%20-Pencil%20Sketch%20a%20Photo,Apply%20Pencil%20Sketch%20Effect%20%5D%EF%BC%8C%E4%BE%BF%E6%9C%83%E4%B8%8A%E5%82%B3%E8%88%87%E8%BD%89%E6%8F%9B%E3%80%82%203%203.%20%E8%BD%89%E5%87%BA%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%8C%E7%94%A8%E6%88%B6%E5%8F%AF%E6%93%87%E4%B8%80%E6%88%96%E5%85%A8%E9%83%A8%E9%83%BD%E4%B8%8B%E8%BC%89%E3%80%82)
   - Fotoram
     - [Fotoramio 免費線上圖片編輯、拼貼、藝術特效工具，輕鬆打造精彩圖像](https://chtouch.com/fotoramio/)
-- AI 音樂生成
+- AI 設計師
+  - PromeAI
+    - [PromeAI - Free AI art generator : Bring creativity to life]()
+    - [【零門檻】1個AI工具，解放設計❗️｜建築設計/室內設計/電商設計/遊戲設計](https://www.youtube.com/watch?v=9iySYDaxdlY)
+- AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
+  - Udio
+    - [Udio | AI Music Generator - Official Website](https://www.udio.com/)
+    - 前 Google DeepMind 研究人員推出的Udio，這是一款音樂生成AI工具，允許使用者透過強大的提示詞創作各種風格和類型的驚人音樂
 - AI 影音生成
   - OpenAI SORA
   - D-ID
-  - Runway
-  - Pika.art 免費的線上AI影片+3D動畫產生器
+  - Pika.art 免費的線上AI影片+3D動畫產生器https://pika.art/
+  - Pixverse：https://pixverse.ai/
+  - RUNWAY：https://runwayml.com/
+  - Stable Video：https://www.stablevideo.com/
+  - Haiper：https://haiper.ai/
+  - Leonardo AI：https://app.leonardo.ai/
+  - Capcut (剪映) Video Editing 影片剪輯軟體 
+    - 線上教學影片 [#capcut](https://www.youtube.com/hashtag/capcut)
+      - [堪稱最佛心的影片剪輯軟體 Capcut (剪映)！簡單易學/免費功能強大，紅到歐美連老外也超愛用！](https://www.youtube.com/watch?v=z5hL76aKCKk) 
+  - 線上教學影片
+    - [【搞錢必看】2024免費AI文生視頻工具，TOP6全測評｜文生視頻，圖生視頻｜AI Video Generator Free｜Text To Video](https://www.youtube.com/watch?v=Lee-0GLDQG0)
 - [AI_PPT生成 GAMMA](GAMMA.md)
 - AI搜尋引擎
   - Perplexity
