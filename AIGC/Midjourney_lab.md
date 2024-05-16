@@ -59,16 +59,16 @@
   - 輸入你要的創作
   - 大約過幾秒後，就會看見 Midjourney 根據你的文字提示算出4張圖片
 
-  - 圖中顯示 U1~U4、V1~V4 功能按鈕，這些功能是指：
+  - 圖中顯示 U1至U4、V1至V4 功能按鈕，這些功能是指：
     - 數字意義：左上代表 1、右上代表 2、左下代表 3、右下代表 4 。
     - U 意義：是指 Upscale 英文縮寫，喜歡這張圖片單獨放大。
     - V 意義：是指 Variation 英文縮寫，依照挑選圖片繼續延伸設計四張圖片。
 
+![Midj_1.png](../pics/Midj_1.png)
 
 # Midjourney實戰
 ![Midj_0.png](../pics/Midj_0.png)
 
-![Midj_1.png](../pics/Midj_1.png)
 
 ![Midj_2.png](../pics/Midj_2.png)
 
