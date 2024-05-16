@@ -1,4 +1,4 @@
-# [GenAI Programming](GenAIPrograming.md)
+# GenAI Programming
 - [LLM](LLM.md)
 - LLM programming:OpenAI programming
   - [OpenAI](OpenAI.md)
