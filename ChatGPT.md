@@ -5,6 +5,7 @@
   - [ChatGPT Prompts2:進階技巧](ChatGPT_advanced.md)
   - [GhatGPT主題學習](ChatGPT_Topics.md)
   - [付費版 ChatGPT](ChatGPT_Plus.md)
+    - GPTs市集
     - ChatGPT 外掛擴充實戰
 - 微軟Copilot(Bing Chat)
   - [微軟Copilot(Bing Chat)](Bing.md)
