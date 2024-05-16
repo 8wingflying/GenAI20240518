@@ -5,7 +5,7 @@
 # GenAI|ChatGPT for Cybersecurity
 - [From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy(2023)](https://arxiv.org/abs/2307.00691)
 
-![GenAI_sec_2023](GenAI_sec_2023.png)
+![GenAI_sec_2023](./pics/GenAI_sec_2023.png)
 
 - 主題
   - GenAI-powered SOC
