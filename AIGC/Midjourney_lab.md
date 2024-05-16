@@ -25,7 +25,7 @@
 
 ![midj_home](../pics/midj_home.png)
 
-[![../pics/midj_doc.png]](https://docs.midjourney.com/)
+[![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
 
 midj_doc.png
 - [![../pics/midj_showcase.png]](https://docs.midjourney.com/)
