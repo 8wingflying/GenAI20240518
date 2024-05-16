@@ -25,7 +25,9 @@
 
 ![midj_home](../pics/midj_home.png)
 
-[![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
+官方說明文件[![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
+
+展示廳[![showcase](../pics/midj_showcase.png)](https://www.midjourney.com/explore?tab=random) 
 
 midj_doc.png
 - [![../pics/midj_showcase.png]](https://docs.midjourney.com/)
