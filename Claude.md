@@ -28,7 +28,12 @@
 
 ![Claude_3.png](./pics/Claude_3.png)
 
+## 登入後介面
+
+![Claude_5.png](./pics/Claude_5.png)
+
 ## Claude實戰
+
 - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
 
 ![Claude_4.png](./pics/Claude_4.png)
@@ -37,7 +42,6 @@
 - [提示語料庫(英文版| 比較好學)](https://docs.anthropic.com/en/prompt-library/library)
 - one-page網頁生成[Website wizard: Create one-page websites based on user specifications.](https://docs.anthropic.com/en/prompt-library/website-wizard)
 
-![Claude_5.png](./pics/Claude_5.png)
 
 ## Claude API實戰
 
