@@ -32,8 +32,8 @@
     - [PromeAI - Free AI art generator : Bring creativity to life]()
     - [【零門檻】1個AI工具，解放設計❗️｜建築設計/室內設計/電商設計/遊戲設計](https://www.youtube.com/watch?v=9iySYDaxdlY)
 - AI Voice Generator
-  - 
-  - ElevenLabs Music(Generative Voice AI) 
+  - ElevenLabs Music(Generative Voice AI)
+  - Deepgram | AI Voice Generator & Text to Speech [Deepgram實戰](Deepgram.md)
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
