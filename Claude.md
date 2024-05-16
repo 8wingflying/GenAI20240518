@@ -19,8 +19,13 @@
 ### 使用者指南(User Guides)
 ### API 參考文件(API Reference)
 ### 提示語料庫(Prompt Library
+![Claude_1.png](./pics/Claude_1.png)
+
+![Claude_2.png](./pics/Claude_2.png)
 
 ## Claude實戰
 - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
 
-![Claude_1.png](./pics/Claude_1.png)
+![Claude_3.png](./pics/Claude_3.png)
+
+![Claude_4.png](./pics/Claude_4.png)
