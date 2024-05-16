@@ -34,7 +34,7 @@
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
-  - Udio
+  - Udio(2024.4.10正式上線)
     - [Udio | AI Music Generator - Official Website](https://www.udio.com/)
     - 前 Google DeepMind 研究人員推出的Udio，這是一款音樂生成AI工具，允許使用者透過強大的提示詞創作各種風格和類型的驚人音樂
   - 教學影片
