@@ -83,6 +83,7 @@
 - 更多工具
   - [AIGC_Tools]()
   - [AIGC官网|AIGC官方网站|AIGC工具导航|AI工具集|AI工具官网](https://www.aigc.cn/aigcnetwork)
+    - [学习并使用新一代的 AI 工具](https://tools.aigcfun.com/)
   - [PNGTree](https://zh.pngtree.com/)
 
 
