@@ -21,13 +21,13 @@
 
 總的來說,Midjourney通過人工智慧技術極大降低了圖像生成的門檻,為創作者提供了新的表達和實驗空間。隨著技術的發展,AI繪圖工具有望為藝術創作和設計行業帶來革命性影響。
 #
-- midjourney官方網站[點選](https://www.midjourney.com/home)
+- midjourney官方網站  [點選](https://www.midjourney.com/home)
 
 ![midj_home](../pics/midj_home.png)
 
-官方說明文件[![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
+官方說明文件  [![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
 
-展示廳[![showcase](../pics/midj_showcase.png)](https://www.midjourney.com/explore?tab=random) 
+展示廳  [![showcase](../pics/midj_showcase.png)](https://www.midjourney.com/explore?tab=random) 
 
 midj_doc.png
 - [![../pics/midj_showcase.png]](https://docs.midjourney.com/)
