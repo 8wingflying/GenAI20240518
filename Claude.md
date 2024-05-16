@@ -23,9 +23,13 @@
 
 ![Claude_2.png](./pics/Claude_2.png)
 
+
+### [模型概述](https://docs.anthropic.com/zh-TW/docs/models-overview)
+
+![Claude_3.png](./pics/Claude_3.png)
+
 ## Claude實戰
 - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
 
-![Claude_3.png](./pics/Claude_3.png)
 
 ![Claude_4.png](./pics/Claude_4.png)
