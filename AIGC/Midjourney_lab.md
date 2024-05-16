@@ -21,8 +21,14 @@
 
 總的來說,Midjourney通過人工智慧技術極大降低了圖像生成的門檻,為創作者提供了新的表達和實驗空間。隨著技術的發展,AI繪圖工具有望為藝術創作和設計行業帶來革命性影響。
 #
-- [midjourney官方網站](https://www.midjourney.com/home)
+- midjourney官方網站[點選](https://www.midjourney.com/home)
 
+![midj_home](../pics/midj_home.png)
+
+[![../pics/midj_doc.png]](https://docs.midjourney.com/)
+
+midj_doc.png
+- [![../pics/midj_showcase.png]](https://docs.midjourney.com/)
 # 3步驟快速用AI繪圖產生精美圖片
 - 步驟 1. 註冊申請 Discod 帳號
   - Midjourney 處於 Beta 測試階段，只要加入 Discord 頻道就能夠免費使用，不需要邀請碼才能夠使用
