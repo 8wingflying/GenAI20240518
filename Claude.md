@@ -12,9 +12,15 @@
 如果您想要更深入了解 Claude，請隨時詢問！ 😊
 - [網址](https://www.anthropic.com/claude)
 - [官方文件](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
-  - [使用者指南](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
-  - [API 參考文件](https://docs.anthropic.com/zh-TW/api/getting-started)
-  - [提示語料庫](https://docs.anthropic.com/zh-TW/prompt-library/library)
+  - [使用者指南(User Guides)](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
+  - [API 參考文件(API Reference)](https://docs.anthropic.com/zh-TW/api/getting-started)
+  - [提示語料庫(Prompt Library)](https://docs.anthropic.com/zh-TW/prompt-library/library)
   - [提示語料庫(英文版| 比較好學)](https://docs.anthropic.com/en/prompt-library/library)
+### 使用者指南(User Guides)
+### API 參考文件(API Reference)
+### 提示語料庫(Prompt Library
+
 ## Claude實戰
 - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
+
+![Claude_1.png](./pics/Claude_1.png)
