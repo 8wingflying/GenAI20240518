@@ -1,7 +1,7 @@
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
 - AI 繪圖生成
   - [Microsoft Copolit|Designer(Bing Image creater)](Designer.md)
-  - [Playground](Playground.md)
+  - [Playground AI - free-to-use online AI image creator](https://playground.com/)
   - Ideogram
   - [Canva實戰](Canva_lab.md)
   - [Stable Diffusion實戰](SD_lab.md)
