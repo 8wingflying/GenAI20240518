@@ -5,7 +5,7 @@
 - 2.[GenAI的驚艷: ChatGPT文本生成與提示工程學(Prompts Engineering)](ChatGPT.md)
 - 3.[AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 ](/AIGC) 
 - 4.[GenAI 程式輔助學習](GenAI_Python.md)
-- 5.[ChatGPT Hacking Day](ChatGPT4SEC.md)
+- 5.[GenAI Security:ChatGPT Hacking Day](ChatGPT4SEC.md)
 - 6.[GenAI Programming](GenAIPrograming.md)
 
 
