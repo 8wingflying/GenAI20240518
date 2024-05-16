@@ -70,7 +70,8 @@
   - [Free AI presentation maker | Slidesgo](https://slidesgo.com/ai-presentations)
   - [Presentations.AI](https://www.presentations.ai/ai-presentation-maker)
   - [Visme|Free AI Presentation Maker for Generating Projects in Minutes](https://www.visme.co/ai-presentation-maker/)
-  - [ 2024年11  款最佳免費 AI PowerPoint 產生器（最新更新和示例輸出）](https://www.classpoint.io/blog/zh-hant/11-%E5%B9%B4-2023-%E6%AC%BE%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B2%BB-ai-powerpoint-%E7%94%A2%E7%94%9F%E5%99%A8%E6%AF%94%E8%BC%83)
+  - 介紹與說明文件
+    - [ 2024年11  款最佳免費 AI PowerPoint 產生器（最新更新和示例輸出）](https://www.classpoint.io/blog/zh-hant/11-%E5%B9%B4-2023-%E6%AC%BE%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B2%BB-ai-powerpoint-%E7%94%A2%E7%94%9F%E5%99%A8%E6%AF%94%E8%BC%83)
 - AI搜尋引擎
   - Perplexity
 ## 更多工具 [AIGC_Tools]()
