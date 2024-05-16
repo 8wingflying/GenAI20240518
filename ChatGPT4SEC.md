@@ -37,8 +37,6 @@
 - Sec-PaLM適用於不同安全防護用途，可整合各種安全情報，包括Google所收集到的安全威脅情況資料，以及Mandiant在安全漏洞、惡意軟件、威脅偵測和威脅發動人士資訊等方面的第一手情報
 - https://www.tenlong.com.tw/products/9789860654332?list_name=i-r-zh_tw
 
-
-
 ## [WDTA 世界數位技術學院(World Digital Technology Academy)](https://wdtacademy.org/)
 - WDTA成立於2023年4月
 - 2024年4月15日至19日，第27屆聯合國科技大會在瑞士日內瓦召開。
@@ -56,7 +54,8 @@
   - 它定義了人工智慧應用程式架構每一層的測試和驗證範圍，包括基礎模型選擇、嵌入和向量資料庫、RAG或檢索增強生成、AI應用運行時安全等等，確保AI應用各個方面都經過嚴格的安全性和合規性評估，保障其在整個生命週期內免受威脅和漏洞侵害。
 - 《大語言模型安全測試方法》Large Language Model Security Testing Method
   - [下載點](https://wdtacademy.org/publications/LargeLanguageModelSecurityTestingMethod)
-  - 
+  - 此標準則為大模型本身的安全性評估提供了一套全面、嚴謹且實操性強的結構性方案。
+  - 它提出了大語言模型的安全風險分類、攻擊的分類分級方法以及測試方法，並率先給出了四種不同攻擊強度的攻擊手法分類標準，提供了嚴格的評估指標和測試程式等，可解決大語言模型固有的複雜性，全面測試其抵禦敵對攻擊的能力，使開發人員和組織能夠識別和緩解潛在漏洞，並最終提高使用大語言模型構建的人工智慧系統的安全性和可靠性。
 - [AI STR](https://wdtacademy.org/keys/aiStr)
   - The AI STR program is a comprehensive framework designed to ensure the Safety, Trustworthiness, and Responsibility of artificial intelligence systems. 
 
