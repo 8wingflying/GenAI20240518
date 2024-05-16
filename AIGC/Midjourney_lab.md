@@ -20,6 +20,9 @@
   - 社區和分享: Midjourney社區活躍,用戶可以相互分享和交流使用心得。
 
 總的來說,Midjourney通過人工智慧技術極大降低了圖像生成的門檻,為創作者提供了新的表達和實驗空間。隨著技術的發展,AI繪圖工具有望為藝術創作和設計行業帶來革命性影響。
+
+![Midj_1.png](../pics/Midj_1.png)
+
 # midjourney官方網站  [簡介](https://mrmad.com.tw/midjourney)
 - midjourney官方網站  [點選](https://www.midjourney.com/home)
 
@@ -64,7 +67,7 @@
     - U 意義：是指 Upscale 英文縮寫，喜歡這張圖片單獨放大。
     - V 意義：是指 Variation 英文縮寫，依照挑選圖片繼續延伸設計四張圖片。
 
-![Midj_1.png](../pics/Midj_1.png)
+
 
 # Midjourney實戰
 ![Midj_0.png](../pics/Midj_0.png)
