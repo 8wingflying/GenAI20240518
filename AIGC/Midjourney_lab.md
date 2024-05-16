@@ -29,17 +29,18 @@
 
 [![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
 
-- 作品展示廳
+- 作品展示廳 [沒登入也可以看看別人的作品](https://www.midjourney.com/showcase)
 
 [![showcase](../pics/midj_showcase.png)](https://www.midjourney.com/explore?tab=random) 
 
 - 登入discord進行創作
 
-[![signin](../pics/midj_signin.png)]() 
-
-- 登入discord進行創作
-
 [![](../pics/midj_join.png)]()
+
+
+- 登入Midjourney
+
+[![signin](../pics/midj_signin.png)]() 
 
 # 3步驟快速用AI繪圖產生精美圖片
 - 步驟 1. 註冊申請 Discod 帳號
