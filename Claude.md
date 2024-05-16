@@ -12,7 +12,7 @@
 如果您想要更深入了解 Claude，請隨時詢問！ 😊
 
 ## Anthropic Claude:官方
-- [網址](https://www.anthropic.com/claude)
+- [網址(點選==>由此去)](https://www.anthropic.com/claude)
 - [官方文件](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
   - [使用者指南(User Guides)](https://docs.anthropic.com/zh-TW/docs/intro-to-claude)
   - [API 參考文件(API Reference)](https://docs.anthropic.com/zh-TW/api/getting-started)
