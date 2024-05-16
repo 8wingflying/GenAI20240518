@@ -1,4 +1,4 @@
-# Anthropic Claude](Claude.md)
+# Anthropic Claude
 - Claude 是由 Anthropic 開發的一系列大型語言模型（LLM），旨在改變您與 AI 互動的方式。
 - Claude 在涉及語言、推理、分析、編程等各種任務方面表現出色。
 - 我們的模型功能強大、易於使用，並可以根據您的需求進行定制.
