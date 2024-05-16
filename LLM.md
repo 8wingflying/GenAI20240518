@@ -7,7 +7,7 @@
 
 ## LLM發展史 Evolutionary Tree
 
-![LLM發展史](LLM_Tree.png)
+![LLM發展史](./pics/LLM_Tree.png)
 - o	Open-Source
 - o	Closed-Source
 - o	Encoder-Only
