@@ -17,7 +17,7 @@
     - 針對音樂創作推出名為Music AI Sandbox工具 
 
 # 一句話 ==> 生成式AI(Generative AI)
-- 特別是 輸入`文字` ==> 產生 AIGC (小說 | 圖片 | ......)
+- 輸入`文字` ==> 產生 AIGC (小說 | 圖片 | ......)
 - AIGC == Artificial Intelligence Generated Content == 人工智慧產生的(小說 | 圖片 | ......) 
 
 ![ChatGPT_1.JPG](ChatGPT_1.JPG)
