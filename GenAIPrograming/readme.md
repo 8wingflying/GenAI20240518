@@ -1,5 +1,5 @@
 # GenAI Programming
-- [LLM](LLM.md)
+- [LLM](../LLM.md)
 - LLM programming:OpenAI programming
   - [OpenAI](OpenAI.md)
   - [OpenAI實戰1](OpenAI_lab1.md) 
