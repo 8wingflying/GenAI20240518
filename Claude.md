@@ -45,8 +45,8 @@
 
 ## Claude API實戰
 
-![Claude_api_1](Claude_api_1.png)
+![Claude_api_1](./pics/Claude_api_1.png)
 
-![Claude_api_2](Claude_api_2.png)
+![Claude_api_2](./pics/Claude_api_2.png)
 
-![Claude_api_3](Claude_api_3.png)
+![Claude_api_3](./pics/Claude_api_3.png)
