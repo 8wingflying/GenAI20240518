@@ -1,4 +1,6 @@
 # GenAI Programming
+![LLM.png](../pics/LLM.png)
+
 - [LLM | 大型語言模型 | Large Language Model](../LLM.md)
 - LLM programming:OpenAI programming
   - [OpenAI](OpenAI.md)
