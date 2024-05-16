@@ -17,4 +17,4 @@
 - [AI/ChatGPT v.智慧財產權：美國生成式AI案例評析](https://www.books.com.tw/products/0010977697?sloc=main)
 
 
-## 天下武學 盡在~崑山~龍閣寺
+## 天下武學 盡在 崑山 龍閣寺
