@@ -37,6 +37,8 @@
   - Udio
     - [Udio | AI Music Generator - Official Website](https://www.udio.com/)
     - 前 Google DeepMind 研究人員推出的Udio，這是一款音樂生成AI工具，允許使用者透過強大的提示詞創作各種風格和類型的驚人音樂
+  - 教學影片
+    - [【熱爆AI音樂最新賽道UDIO/SUNO！新手操作分身直播間！】10分鐘學懂7x 24小時陪伴型直播間操作！新手賺錢！](https://www.youtube.com/watch?v=-FHOv-qnKUU)  
 - AI 影音生成
   - OpenAI SORA
   - D-ID
