@@ -89,3 +89,10 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 ![Designer_11](./pics/DESIGNER_11.png)
 
 ![Designer_13](./pics/DESIGNER_13.png)
+
+
+#### 學術論文摘要與閱讀
+- [ShortGPT: Layers in Large Language Models are More Redundant Than You Expect(2024)](https://arxiv.org/abs/2403.03853)
+- `提問詞`:針對底下文章摘要說明其重點, https://arxiv.org/abs/2403.03853
+- `提問詞`:你對這個研究結果有什麼看法？
+- `提問詞`:我想了解更多關於這項研究的應用場景。
