@@ -11,9 +11,9 @@
 
 
 ## 延伸學習
-- [AI 產業| AI 硬體技術(矽光子技術) | AI 伺服器 | AI PC| AI 手機| AI 工程師| ....](AI_Market.md)
-- [LLM Security](LLM_Sec.md)
-- [研究論文](Research.md)
+- [AI 產業| AI 硬體技術(矽光子技術) | AI 伺服器 | AI PC| AI 手機| AI 工程師| ....](./TOPICS/AI_Market.md)
+- [LLM Security](./TOPICS/LLM_Sec.md)
+- [研究論文](./TOPICS/Research.md)
 - [AI/ChatGPT v.智慧財產權：美國生成式AI案例評析](https://www.books.com.tw/products/0010977697?sloc=main)
 
 
