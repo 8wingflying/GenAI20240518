@@ -10,7 +10,7 @@
 - 沒有API (ChatGPT有!)
 - 沒有影音生成(Video generation) ? 未來何時會有?
 
-![Copilot_1](./pics/Capilot_1.JPG)
+![Copilot_1](./pics/Copilot_1.JPG)
 
 ## Chatgpt和microsoft Copilot有何差異?
 - Copilot的回答:
@@ -46,7 +46,7 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 水谷吉法 (Yoshinori Mizutani)：水谷吉法以大自然為主題，將生活細微幻化為別具唯美的畫面。他的作品《YUSURIKA》以遍布在河堤上的搖蚊科昆蟲為主題1。
 這些攝影師的作品都展現了日系攝影風格的獨特魅力，讓人不禁沉浸其中。如果你對日本攝影感興趣，不妨深入了解這些名家的作品，或者自己也嘗試拍攝一些清新、充滿情感的影像吧！
 ```
-![Copilot_text_1.JPG](Copilot_text_1.JPG)
+![Copilot_text_1.JPG](./pics/Copilot_text_1.JPG)
 
 
 - 可以繼續發問
@@ -55,13 +55,13 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 
 ## 圖片生成(Image Generation)
 
-![Copilot_2](Copilot_2.JPG)
+![Copilot_2](./pics/Copilot_2.JPG)
 
-![Copilot_3](Copilot_3.JPG)
+![Copilot_3](./pics/Copilot_3.JPG)
 
-![Copilot_4](Copilot_4.JPG)
+![Copilot_4](./pics/Copilot_4.JPG)
 
-![Copilot_5](Copilot_5.JPG)
+![Copilot_5](./pics/Copilot_5.JPG)
 
 ## Copilot| [Designer(設計工具)](https://www.bing.com/images/create)
-![Designer_1](Designer_1.JPG)
+![Designer_1](./pics/Designer_1.JPG)
