@@ -80,23 +80,13 @@
     - [ 2024年11  款最佳免費 AI PowerPoint 產生器（最新更新和示例輸出）](https://www.classpoint.io/blog/zh-hant/11-%E5%B9%B4-2023-%E6%AC%BE%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B2%BB-ai-powerpoint-%E7%94%A2%E7%94%9F%E5%99%A8%E6%AF%94%E8%BC%83)
 - AI搜尋引擎
   - Perplexity
-## 更多工具 [AIGC_Tools]()
-- [PNGTree](https://zh.pngtree.com/)
+- 更多工具
+  - [AIGC_Tools]()
+  - [AIGC官网|AIGC官方网站|AIGC工具导航|AI工具集|AI工具官网](https://www.aigc.cn/aigcnetwork)
+  - [PNGTree](https://zh.pngtree.com/)
 
-# AIGC 常用主題
 
-## 文字 == > 圖片
-![Designer](../pics/TEXT2Image.png)
 
-## 圖片 == > 圖片
-- https://fotoram.io/artstyle/en
-
-![fotoram](../pics/fotoram.png)
-
-## 刪除圖像背景  
-- https://stablediffusionweb.com/zh-tw/background-remover
-
-![background-remover](../pics/background-remover.png)
 
 
 
