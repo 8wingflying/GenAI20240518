@@ -49,4 +49,47 @@
 
 ![Claude_api_2](./pics/Claude_api_2.png)
 
+```python
+# -*- coding: utf-8 -*-
+"""我的第一堂Anthropic API 程式課
+
+
+# 我的第一堂Anthropic API 程式課
+
+## 步驟一:安裝 [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python).
+"""
+
+# Commented out IPython magic to ensure Python compatibility.
+# %pip install anthropic
+
+"""## 步驟二: 申請api_key
+
+## 步驟三: 將申請到的api_key填入底下欄位後執行(按 ▶ 即可)
+"""
+
+import anthropic
+
+client = anthropic.Anthropic(
+    api_key="填入申請到的api_key",
+)
+
+"""## 步驟四: 適度修改後執行(按 ▶ 即可)
+
+    messages=[
+        {"role": "user", "content": "Claude vs Chatgpt(改成你要問的問題)"}
+    ]
+"""
+
+message = client.messages.create(
+    model="claude-3-sonnet-20240229",
+    max_tokens=1000,
+    temperature=0,
+    system="Respond only in pirate speak.",
+    messages=[
+        {"role": "user", "content": "Claude vs Chatgpt"}
+    ]
+)
+print(message.content)
+```
+
 ![Claude_api_3](./pics/Claude_api_3.png)
