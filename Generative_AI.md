@@ -24,7 +24,7 @@
 
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
 - [LLM | Large Language Model|大型語言模型](LLM.md)
-- 生成式AI(Generative AI)的模型1 : VAE(Variational AutoEncoder)
+- 生成式AI(Generative AI)的模型 1 : VAE(Variational AutoEncoder)
   - 2013年 由與 Diederik P. Kingma提出
   - 論文[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114)
 - 生成式AI(Generative AI)的模型 2: 生成對抗網路(GAN|Generative Adversarial Network)
