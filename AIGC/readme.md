@@ -31,13 +31,23 @@
   - PromeAI
     - [PromeAI - Free AI art generator : Bring creativity to life]()
     - [【零門檻】1個AI工具，解放設計❗️｜建築設計/室內設計/電商設計/遊戲設計](https://www.youtube.com/watch?v=9iySYDaxdlY)
+- AI Voice Generator
+  - 
+  - ElevenLabs Music(Generative Voice AI) 
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
-  - ElevenLabs Music(Generative Voice AI)
+  - MyEdit：這是一款免費的線上AI音效生成器，用戶可以通過輸入中文指令來生成專屬的音效片段。
+  - Stable Audio：由Stability AI開發，可以生成高品質且結構一致的純音樂。
+  - Soundraw：提供AI生成無人聲的主題配樂，用戶可以通過設定不同條件來生成音樂。
+  - Boomy：這個工具主打發行音樂和生成音樂，讓用戶能夠完成創作並追蹤收益。
+  - Riffusion：專注於生成有人聲的歌曲，每次會生成三種版本的短歌曲。
+  - Voicemod：可以指定虛擬歌手來生成有人聲的歌曲，並提供多種人聲選擇
   - Udio(2024.4.10正式上線)  [Udio實戰](Udio.md)
     - [Udio | AI Music Generator - Official Website](https://www.udio.com/)
     - 前 Google DeepMind 研究人員推出的Udio，這是一款音樂生成AI工具，允許使用者透過強大的提示詞創作各種風格和類型的驚人音樂
+  - 報導與介紹
+    - [2024 AI 音樂生成器推薦，輕鬆生成音效、人聲或配樂歌曲](https://tw.cyberlink.com/blog/the-top-audio-editors/3014/online-ai-music-generator) 
   - 教學影片
     - [【熱爆AI音樂最新賽道UDIO/SUNO！新手操作分身直播間！】10分鐘學懂7x 24小時陪伴型直播間操作！新手賺錢！](https://www.youtube.com/watch?v=-FHOv-qnKUU)  
 - AI 影音生成
