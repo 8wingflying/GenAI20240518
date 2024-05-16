@@ -57,7 +57,7 @@ Avoiding conflict, as well as the assurance of world peace, should be the object
 第二段則以個人或親友的經驗為例，討論表情符號在訊息表達或解讀上可能造成的誤會或困擾，並提出可以化解的方法。
 ```
 
-![English_112](English_112.png)
+![English_112](./pics/English_112.png)
 
 - `提示詞`:請辨識文字
 - `Copolit的回答`:
@@ -97,7 +97,7 @@ In essence, these emojis are more than just digital icons; they are a reflection
   - [近70年大學入學考試作文題目（民國43年～110年)](https://www.dcard.tw/f/exam/p/235237803)
 
 
-![AI 中文作文](Chinese_112.jpg)
+![AI 中文作文](.pics/Chinese_112.jpg)
 
 - `提示詞`: 請以作家蔣勳《給青年藝術家的信》為閱讀材料，以「花草樹木的氣味記憶」為題寫一篇文章。
 - `Copolit的回答`:
@@ -162,7 +162,7 @@ In essence, these emojis are more than just digital icons; they are a reflection
 - 現收藏於臺北國立故宮博物院。
 - `提示詞`:請針對下列圖象做一首七言絕句
 
-![范寬《谿山行旅圖》](painting_1.jpg)
+![范寬《谿山行旅圖》](./pics/painting_1.jpg)
 - `Copolit的回答`:當然可以，以下是根據您提供的圖像所創作的七言絕句：
 ```
 山巒如畫靜無聲，
