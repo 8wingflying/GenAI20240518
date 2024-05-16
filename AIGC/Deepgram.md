@@ -33,6 +33,7 @@ Deepgram平台是一個強大的語音識別和理解服務，提供了多種功
 
 ## Deepgram 實戰 [開發者文件由此去](https://developers.deepgram.com/docs/introduction)
 - [龍大大的上課錄音](https://www.youtube.com/watch?v=1O2cUdhst0I)
+
 ![DeepGram_docs](../pics/DeepGram_docs.JPG)
 
 ![DeepGram_3](../pics/DeepGram_3.JPG)
@@ -40,3 +41,5 @@ Deepgram平台是一個強大的語音識別和理解服務，提供了多種功
 ![DeepGram_4](../pics/DeepGram_4.JPG)
 
 ![DeepGram_5](../pics/DeepGram_5.JPG)
+
+![DeepGram_6](../pics/DeepGram_6.JPG)
