@@ -2,7 +2,7 @@
 - AI 繪圖生成
   - [Microsoft Copolit|Designer(Bing Image creater)](Designer.md)
   - [Playground AI - free-to-use online AI image creator](https://playground.com/)
-  - Ideogram
+  - [Ideogram](https://ideogram.ai/login)
   - [Canva實戰](Canva_lab.md)
   - [Stable Diffusion實戰](SD_lab.md)
   - [Midjourney實戰(需要付費)](Midjourney_lab.md)
