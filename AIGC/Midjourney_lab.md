@@ -42,3 +42,20 @@
     - 數字意義：左上代表 1、右上代表 2、左下代表 3、右下代表 4 。
     - U 意義：是指 Upscale 英文縮寫，喜歡這張圖片單獨放大。
     - V 意義：是指 Variation 英文縮寫，依照挑選圖片繼續延伸設計四張圖片。
+
+# Midjourney實戰
+![Midj_0.png](./pics/Midj_0.png)
+
+![Midj_1.png](./pics/Midj_1.png)
+
+![Midj_2.png](./pics/Midj_2.png)
+
+![Midj_3.png](./pics/Midj_3.png)
+
+# 觀摩別人作品
+
+![Midj_20240516_1.png](./pics/Midj_20240516_1.png)
+
+![Midj_20240516_2.png](./pics/Midj_20240516_2.png)
+
+![Midj_20240516_3.png](./pics/Midj_20240516_3.png)
