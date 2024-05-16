@@ -13,7 +13,8 @@
 - [Google Gemini](Gemini.md)
   - 網址[Google Gemini‎- chat to supercharge your ideas](https://gemini.google.com/)
   - 付費版 Google Gemini Pro
-- Anthropic Claude  [網址](https://www.anthropic.com/claude)
+- [Anthropic Claude](Claude.md)
+  - [網址](https://www.anthropic.com/claude)
   - `提問詞`:請列出從第一支iPhone問世到現在的iPhone型號和發表時間，包括年、月、日 
 
 
@@ -26,7 +27,7 @@
 - [使用 Python 串接 GhatGPT](https://steam.oxxostudio.tw/category/python/example/openai.html) 
 
 # AI工具
-- [Civitai: The Home of Open-Source Generative AI]()
+- [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 - [Futurepedia - Find The Best AI Tools & Software](https://www.futurepedia.io/)
 - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store#ai-art)
 
