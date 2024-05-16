@@ -1,7 +1,7 @@
 # LLM programming:LangChain 
 - 官方文件[DOCS](https://python.langchain.com/docs/get_started/introduction/)
 
-![LangChain_1.png](LangChain_1.png)
+![LangChain_1.png](../pics/LangChain_1.png)
 
 
 ## 六大模組 [LangChain六大核心模块简要汇总](https://zhuanlan.zhihu.com/p/676719738)
