@@ -27,7 +27,7 @@
 
 - 官方說明文件
 
-   [![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
+[![MidJ DOCS](../pics/midj_doc.png)](https://docs.midjourney.com/)
 
 - 作品展示廳
 
@@ -37,10 +37,10 @@
 
 [![signin](../pics/midj_signin.png)]() 
 
+- 登入discord進行創作
 
-midj_signin.png
-midj_doc.png
-- [![../pics/midj_showcase.png]](https://docs.midjourney.com/)
+[![](../pics/midj_join.png)]()
+
 # 3步驟快速用AI繪圖產生精美圖片
 - 步驟 1. 註冊申請 Discod 帳號
   - Midjourney 處於 Beta 測試階段，只要加入 Discord 頻道就能夠免費使用，不需要邀請碼才能夠使用
