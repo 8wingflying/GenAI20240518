@@ -15,6 +15,12 @@
   - lexica
     - [官方網址](https://lexica.art/)
   - [Artguru AI 繪圖生成器：線上一鍵生成AI 圖片](https://arthub.ai/)
+  - 韓國[Krea AI Online - 免費、即時圖片創建，無需註冊！](https://kreaai.net/zh-TW)
+    - Krea AI 能做到「即時反饋」
+    - 利用 LCM（Latent Consistency Models）技術，僅需 2 到 4 個步驟，就可合成高畫質的圖，實際做到「秒出圖」。
+    - [Krea.ai你畫什麼就會實時生成的 AI 繪圖工具，上傳照片靠AI技術Cosplay真人角色，一鍵提升畫質](https://tracyting.com/krea-ai/)
+    - [Krea AI 新手教學：3 大免費功能介紹，掌握 AI 生成圖片技巧！](https://www.techbang.com/posts/113696-krea-ai)
+    - [Krea.ai 給圖片就能反推提示詞 prompt！還能輕鬆地背景移除、 大幅提高圖片畫質到2K](https://tracyting.com/krea-ai-promp/)
   - Pencil Sketch a Phot
     - [Pencil Sketch a Photo](https://sketchmypic.com/)
     - [Sketch My Pic 線上將圖片轉為鉛筆畫](https://chtouch.com/3370/#:~:text=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Sketch%20My%20Pic%20-Pencil%20Sketch%20a%20Photo,Apply%20Pencil%20Sketch%20Effect%20%5D%EF%BC%8C%E4%BE%BF%E6%9C%83%E4%B8%8A%E5%82%B3%E8%88%87%E8%BD%89%E6%8F%9B%E3%80%82%203%203.%20%E8%BD%89%E5%87%BA%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%8C%E7%94%A8%E6%88%B6%E5%8F%AF%E6%93%87%E4%B8%80%E6%88%96%E5%85%A8%E9%83%A8%E9%83%BD%E4%B8%8B%E8%BC%89%E3%80%82)
