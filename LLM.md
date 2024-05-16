@@ -2,7 +2,7 @@
 - [LLM是什麼？跟AI的關聯為何？大型語言模型要面對什麼挑戰？一文看懂](https://www.bnext.com.tw/article/76864/what-is-the-meaning-of-llm)
 
 ## 故事爆發在2017 
-![Transformer(2017)](Transformer(2017).png)
+![Transformer(2017)](./pics/Transformer(2017).png)
 
 
 ## LLM發展史 Evolutionary Tree
