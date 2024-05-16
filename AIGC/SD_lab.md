@@ -21,3 +21,4 @@ broken glass, masterpiece, sidelighting, finely detailed beautiful eyes:
 ## 文字 == > 圖片
 ## 圖片 == > 圖片
 ## 草圖到圖像
+## 【研究生-施治宇】Stable Diffusion 功能實作
