@@ -14,7 +14,7 @@
 - templates(目錄, 只有一個檔案 index.html
   - index.html 
 ### 程式碼註解
-- config.py
+- config.py  ==> [先去申請key](https://platform.openai.com/api-keys) 
 ```
 API_KEY = "s你CHATGPT的KEYSr"
 ```
