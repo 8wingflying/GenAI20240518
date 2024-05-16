@@ -22,13 +22,18 @@ Deepgram平台是一個強大的語音識別和理解服務，提供了多種功
 ```
 
 
-
-## Deepgram 實戰 [登入官網開始玩樂]()
-- [龍大大的上課錄音](https://www.youtube.com/watch?v=1O2cUdhst0I)
+## Deepgram 實戰 [登入官網開始玩樂](https://deepgram.com/ai-voice-generator)
 
 ![DeepGram_1](../pics/DeepGram_1.JPG)
 
+## Deepgram 實戰(使用Google帳號登入)
+
 ![DeepGram_2](../pics/DeepGram_2.JPG)
+
+
+## Deepgram 實戰 [開發者文件由此去](https://developers.deepgram.com/docs/introduction)
+- [龍大大的上課錄音](https://www.youtube.com/watch?v=1O2cUdhst0I)
+![DeepGram_docs](../pics/DeepGram_docs.JPG)
 
 ![DeepGram_3](../pics/DeepGram_3.JPG)
 
