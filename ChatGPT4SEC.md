@@ -2,11 +2,12 @@
 - [ChatGPT For CTF (MyFirstSecurity)](ChatGPT4CTF.md)
 - GenAI|ChatGPT for Cybersecurity GenAI_Sec資安實戰
 - GenAISec全球發展
+- OWASP Top 10 for Large Language Model Applications
 
 # GenAI|ChatGPT for Cybersecurity
 - [From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy(2023)](https://arxiv.org/abs/2307.00691)
 - [Large Language Models in Cybersecurity: State-of-the-Art(2024)](https://arxiv.org/abs/2402.00891)
-- [Comprehensive Guide to Large Language Model (LLM) Security](https://www.lakera.ai/blog/llm-security)
+
 
 ![GenAI_sec_2023](./pics/GenAI_sec_2023.png)
 
@@ -36,18 +37,7 @@
 - Sec-PaLM適用於不同安全防護用途，可整合各種安全情報，包括Google所收集到的安全威脅情況資料，以及Mandiant在安全漏洞、惡意軟件、威脅偵測和威脅發動人士資訊等方面的第一手情報
 - https://www.tenlong.com.tw/products/9789860654332?list_name=i-r-zh_tw
 
-## [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- a list of the top 10 most critical vulnerabilities often seen in LLM applications1.
-- 1.Prompt injections
-- 2.Insecure output handling
-- 3.Training data poisoning
-- 4.Model denial-of-service (DoS)
-- 5.Supply chain vulnerabilities
-- 6.Sensitive information disclosure
-- 7.Insecure plugin design
-- 8.Excessive agency
-- 9.Data leakage
-- 10.Unauthorized code execution
+
 
 ## [WDTA 世界數位技術學院(World Digital Technology Academy)](https://wdtacademy.org/)
 - WDTA成立於2023年4月
@@ -70,6 +60,19 @@
 - [AI STR](https://wdtacademy.org/keys/aiStr)
   - The AI STR program is a comprehensive framework designed to ensure the Safety, Trustworthiness, and Responsibility of artificial intelligence systems. 
 
+## [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- a list of the top 10 most critical vulnerabilities often seen in LLM applications1.
+- 1.Prompt injections
+- 2.Insecure output handling
+- 3.Training data poisoning
+- 4.Model denial-of-service (DoS)
+- 5.Supply chain vulnerabilities
+- 6.Sensitive information disclosure
+- 7.Insecure plugin design
+- 8.Excessive agency
+- 9.Data leakage
+- 10.Unauthorized code execution
+- [Comprehensive Guide to Large Language Model (LLM) Security](https://www.lakera.ai/blog/llm-security)
 ## 實戰主題
 - [2023十大資安漏洞](https://www.ithome.com.tw/article/162080)
   - No.1：CVE-2023-34362 MOVEit檔案傳輸軟體漏洞
