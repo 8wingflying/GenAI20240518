@@ -8,9 +8,9 @@
 - 👍️AI 強化的搜尋引擎 ==> 可以語音搜尋 | 圖片搜尋 | 個人照片搜尋
 - 可以圖片辨識 ==> 生成文字(圖生文)
 - 沒有API (ChatGPT有!)
-- 沒有影音生成(Video generation) ? 為來何時會有?
+- 沒有影音生成(Video generation) ? 未來何時會有?
 
-![Copilot_1](Copilot_1.JPG)
+![Copilot_1](./pics/Copilot_1.JPG)
 
 ## Chatgpt和microsoft Copilot有何差異?
 - Copilot的回答:
