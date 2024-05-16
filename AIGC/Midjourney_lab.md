@@ -20,6 +20,8 @@
   - 社區和分享: Midjourney社區活躍,用戶可以相互分享和交流使用心得。
 
 總的來說,Midjourney通過人工智慧技術極大降低了圖像生成的門檻,為創作者提供了新的表達和實驗空間。隨著技術的發展,AI繪圖工具有望為藝術創作和設計行業帶來革命性影響。
+#
+- [midjourney官方網站](https://www.midjourney.com/home)
 
 # 3步驟快速用AI繪圖產生精美圖片
 - 步驟 1. 註冊申請 Discod 帳號
@@ -43,6 +45,7 @@
     - U 意義：是指 Upscale 英文縮寫，喜歡這張圖片單獨放大。
     - V 意義：是指 Variation 英文縮寫，依照挑選圖片繼續延伸設計四張圖片。
 
+
 # Midjourney實戰
 ![Midj_0.png](../pics/Midj_0.png)
 
@@ -52,13 +55,6 @@
 
 ![Midj_3.png](../pics/Midj_3.png)
 
-# 觀摩別人作品
-
-![Midj_20240516_1.png](../pics/Midj_20240516_1.png)
-
-![Midj_20240516_2.png](../pics/Midj_20240516_2.png)
-
-![Midj_20240516_3.png](../pics/Midj_20240516_3.png)
 
 # 觀摩別人作品
 
@@ -69,4 +65,13 @@
 
 
 ![Midj_newbies_4](../pics/Midj_newbies_3.png)
+
+# 觀摩別人作品
+
+![Midj_20240516_1.png](../pics/Midj_20240516_1.png)
+
+![Midj_20240516_2.png](../pics/Midj_20240516_2.png)
+
+![Midj_20240516_3.png](../pics/Midj_20240516_3.png)
+
 
