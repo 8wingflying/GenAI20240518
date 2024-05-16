@@ -41,10 +41,10 @@ int main() {
   - [凱薩密碼加解密平台](https://cryptii.com/pipes/caesar-cipher)
   - 明文(PlainText):BreakALLCTF{Have A GenAI Day}
   - 加密方式:rot7 
-![Caesar_cipher_1](Caesar_cipher_1.JPG)
+![Caesar_cipher_1](./pics/Caesar_cipher_1.JPG)
   - 密文(Ciphertext):IylhrHSSJAM{Ohcl H NluHP Khf}
   - 解密方式:
-![Caesar_cipher_2](Caesar_cipher_2.JPG)
+![Caesar_cipher_2](./pics/Caesar_cipher_2.JPG)
   - CHatGPT
     - `提問詞`:使用Caesar cipher加密BreakALLCTF{Have A GenAI Day} 
 
