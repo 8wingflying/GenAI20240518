@@ -64,9 +64,23 @@ Microsoft Copilot 可以協助編寫程式、提供建議、生成註釋、自�
 ![Copilot_5](./pics/Copilot_5.JPG)
 
 ## Copilot| [Designer(設計工具)](https://www.bing.com/images/create)
+- Copilot Designer（創意設計師） 是由 Microsoft 開發的強大 AI 圖像生成工具。
+- 它可以根據您輸入的文字創建圖像，利用先進的 AI 模型。
+- 以下是關於 Copilot Designer 的一些關鍵點：
+  - 圖像創建：Copilot Designer 通過 AI 技術從您的描述中生成圖像。您描述您想要的內容，它會基於您的輸入創建視覺呈現。
+  - AI 模型：目前的免費版本 Copilot Designer 使用了 OpenAI DALL·E 3 模型，該模型以其從文本描述生成高質量圖像的能力而聞名 。
+  - 易於使用：Copilot Designer 使用起來非常簡單。您提供描述或風格，它會生成各種類型的圖像。它作為 Web 工具提供，並且還有 iOS 和 Android 應用程序，方便在移動設備上使用。
+  - 完全免費：最棒的是，Copilot Designer 完全免費，這要歸功於強大的 GPT-4 模型。
+  - 隨心所欲地探索 Copilot Designer，發揮您的創造力吧！ 😊
 
+#### Copilot| [Designer(設計工具):[介面](https://designer.microsoft.com/)
 ![Designer_0](./pics/DESIGNER_0.png)
 
+### Copilot| [Designer(設計工具):功能
+
+![DESIGNER_features.png](./pics/DESIGNER_features.png)
+
+#### 
 
 ![Designer_1](./pics/DESIGNER_1.png)
 
