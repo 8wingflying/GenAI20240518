@@ -23,17 +23,17 @@
 ![ChatGPT_1.JPG](./pics/ChatGPT_1.JPG)
 
 ## 文字 == > 圖片
-![Designer](../pics/TEXT2Image.png)
+![Designer](./pics/TEXT2Image.png)
 
 ## 圖片 == > 圖片
 - https://fotoram.io/artstyle/en
 
-![fotoram](../pics/fotoram.png)
+![fotoram](./pics/fotoram.png)
 
 ## 刪除圖像背景  
 - https://stablediffusionweb.com/zh-tw/background-remover
 
-![background-remover](../pics/background-remover.png)
+![background-remover](./pics/background-remover.png)
 
 
 # 生成式AI(Generative AI)的理論 ==> 大學及研究所課程
