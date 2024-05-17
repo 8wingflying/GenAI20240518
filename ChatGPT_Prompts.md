@@ -10,25 +10,25 @@
 - `提示詞`:請問最有名的川菜有哪些
 
 ## [官方提示詞工程(Prompt engineering)](https://platform.openai.com/docs/guides/prompt-engineering)
-- 獲得更好結果的六種策略:
-  - 1.寫清楚的說明
+- 獲得更好結果的六種策略(Six strategies for getting better results):
+  - 1.寫清楚的說明(Write clear instructions)
+  - 2.提供參考文本(Provide reference text)
+  - 3.將複雜的任務拆分為更簡單的子任務(Split complex tasks into simpler subtasks)
+  - 4.給模型時間“思考”(Give the model time to "think")
+  - 5.使用外部工具(Use external tools)
+  - 6.系統地測試更改(Test changes systematically)
 ## 通用提示詞範本： 定義角色十背景資訊十任務目標十輸出要求
 
-
-
-# 參考書籍
-- [ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
 
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 - [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
- 
 - [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
-
+- 參考書籍[ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 # ChatGPT_Labs
 
 ## ChatGPT_Labs:ChatGPT 翻譯機
@@ -190,6 +190,7 @@ Can you help me understand the factors that influence mortgage rates and provide
 你覺得瘦子帥不帥
 ```
 ### 探索 GPT ==> 付費版有一堆外掛
+
 ![ChatGPT_Plugins2](./pics/ChatGPT_Plugins_2.JPG)
 
 ![ChatGPT_Plugins](./pics/ChatGPT_Plugins_1.JPG)
