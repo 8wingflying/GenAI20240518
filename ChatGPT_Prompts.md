@@ -23,6 +23,10 @@
 
 ## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
+![Playground_1.JPG](./pics/Playground_1.JPG)
+
+![Playground_2.JPG](./pics/Playground_2.JPG)
+
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 - [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
@@ -32,7 +36,7 @@
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
 - 參考書籍[ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
-# 
+
 # ChatGPT_Labs
 
 ## ChatGPT_Labs:ChatGPT 翻譯機
