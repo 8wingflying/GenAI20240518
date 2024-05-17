@@ -46,8 +46,11 @@
     - [世界大學生程序設計競賽<ACM\ICPC>高級教程(第2冊程序設計中常用的解題策略)(精) ](https://www.tenlong.com.tw/products/9787113146054?list_name=srh)
 
 ## 資料結構 :: 課程大綱
-- 資料結構、演算法基本觀念 ==> 演算法：效率、分析與量級
+- Chapter 1: 資料結構、演算法基本觀念 ==> 演算法：效率、分析與量級
   - 1-1:資料結構的抽象(Abstraction)與抽象型資料型態(ADT)
+    - 抽象資料型態(ADT| Abstract Data Type)的用處:純粹的抽象思考
+      - (1)將開發重心放在`功能`上的設計,毋需關注`程式的實作`
+      - (2)允許不同程式的實作,並可選擇最佳的實作方案
   - 1-2:演算法與演算法分析的意義:
     - 效能分析(Perform Analysis)
       - 空間複雜度(Space Complexity)
@@ -56,6 +59,107 @@
     - 演算法效能的表達法:漸近表示式(asymptotic symbols)Big-O/Big-Ω/ 
     - 演算法效能的比較
   - 1-3:演算法分析的實例:
+- Chapter 2: 循序串列(sequential list)與陣列(Array)
+  - 2-1:循序串列(sequential list)
+  - 2-2:陣列(Array):ADT、表示法
+  - 2-3:陣列的表示法及位址的計算
+    - (1)一般型位址的計算
+      - Row-major order(列主序存放法,lexicographic order)
+      - Column-major order(行主序存放法):Column-major representation
+    - (2)特殊型位址的計算
+      - 帶狀矩陣Band Matrix
+      - 上/下三角矩陣(Upper/Lower Triangular Matrix)
+      - 對稱矩陣(Symmetric Matrix)
+  - 2-4:陣列(Array)の應用:
+    - (1)Matrix Manipulation(矩陣運算)
+    - (2)String(字串)與 String Matching (字串比對)
+- Chapter 3: Linked List(鏈結串列)
+  - 鏈結串列(Linked List):基本觀念、ADT、定義與常見運算
+  - 單向鏈結串列(Singly Linked List)
+    - ►結點(Node)結構
+    - ►單向鏈結串列(Singly Linked List)的運算(Operation)
+  - 環狀串列(Circularly Linked Lists)
+  - 雙向鏈結串列(Doubly Linked Lists) 與環狀雙向鏈結串列
+- Chapter 4: 堆疊與佇列(Stacks and Queues)
+  - 4-1.基本觀念:堆疊(stack) vs佇列(Queue)
+    - 堆疊(stack):定義/特性/抽象資料型態(ADT)/堆疊的運算操作(1)create  (2)push  (3)pop  (4)isEMPTY  (5)isFULL
+    - 佇列(Queue):定義/特性/抽象資料型態(ADT)/運算操作
+      - 各種佇列(Queue) doubled end queue實作與表示法
+  - 4-2:實作(Implementation)
+    - Stack實作與表示法:(1)Array(循序串列)  (2)鏈結串列(link list)表示法 (3)Circular list ...
+    - 佇列(queue)實作與表示法:(1)陣列(循序串列) (2)環型陣列 (3)鏈結串列 ...
+  - 4-3.堆疊的應用
+    - (1)運算式的計算與轉換:(a)infix notation  (b)postfix notation (c)prefix notation
+    - (2)(Recursive) Function呼叫
+    - (3)鐵道交換網路(Railroad Switching Network)
+    - (4)迷宮鼠問題(Maze Problem)
+    - (5)等價類別問題
+    - (6)河內塔(Hanoi Tower)
+  - 4-4:佇列(queue)の應用:
+    - ①鐵軌上的火車車廂之重新排列(Railroad Car Rearrangement)
+    - ②線路路徑排定(Wire routing)
+    - ③影像元件標記(Image-compoment Labelling)
+    - ④機器工廠模擬(machine shop simulation)
+    - ⑤圖形之寬度優先(breadth-hrst)追蹤法。
+    - ⑥作業系統之CPU scheduling: waiting queue, ready queue
+    - ⑦模擬(Simulation)
+    - ⑧spooling
+- Chapter 5: 樹狀結構
+  - 5-1:一般樹(Tree)的定義、基本術語、表示法:
+    - (1)鏈結串列 (2)left child-right sibling (3)left child-right child
+  - 5-2:二元樹(binary tree)
+    - (1)定義與抽象資料型態ADT(2)型態
+    - (3)特性(a)maximum number of nodes
+      - (b)relation between number of leaf nodes and nodes of degree
+  - 5-3:二元樹的操作與實作
+    - (1): insert、delete、build
+    - (2):樹的走訪(Tree Traversal): (a)preorder  (b)inorder  (c)postorder
+    - (3):由走訪所得節點順序求得原來的二元樹Level-Order Traversal
+    - (4):Copying Binary Trees(二元樹的複製)
+    - (5):Testing Equality(測試二元樹是否相等)
+    - (6):計算二元樹節點的數目
+    - (7):計算二元樹的高度(Height)
+    - (8):二元樹計數(COUNTING BINARY TREES)
+  - 5-4:各種特定二元樹及其應用
+    - 引線二元樹(threaded binary tree)
+    - 堆積Heap ==> Heap Sort
+    - 二元搜尋樹(Binary search Tree)
+    - Selection tree and Game tree
+    - 樹の應用：Set(集合)的表達與運算
+   - 5-5:森林(forest):(1)定義 (2)轉換表達法 (3)森林走訪
+- Chapter 6: 圖形(Graph)
+  - 6-1:圖形Overview: 定義、特性、抽象資料型態：degree、path、cycle
+    - (1)directed graph(2)undirected graph(3)complete graph (4)weighted graph (5)subgaph 
+  - 6-2:圖形的表示法與實作
+    - (1)相鄰矩陣(adjacency matrix)  (2)相鄰串列(adjacency list) (3)相鄰多元串列(adjacency multilist)
+  - 6-3:圖形的基本運算:
+    - (1):圖形走訪(Graph Travel):廣度優先搜尋DFS v.s.深度優先搜尋BFS
+    - (2):找出擴張樹(spanning tree):(a)DFS spanning tree (b)BFS spanning tree
+    - (3):連通圖/雙連通圖
+      - ①決定一圖形是否為連通(connective)②找出所有的連通component
+      - ③雙連通圖:找出undirected connected graph 的Biconnected Components
+   - 6-4:圖形演算法及其分析
+     - (1):最小成本擴張樹: minimal cost spanning tree
+       - Kruskal’s algorithm/Prim's algorithm/Sollin’s algorithm
+     - (2):最短路徑(The shortest problem)問題
+       - ①單起使點全終點問題Single source/All destinations:
+         - a.Dijkstra algorithm for Non-negative Edge[1959,開創性論文]
+         - b.Bellman-Ford algorithm for general case
+        - ②所有頂點間之最短路徑長度 All pairs shortest paths
+          - a.The Floyd-Warshall algorithm
+          - b.Johnson's algorithm for sparse graphs(稀疏圖形)[1977]
+        - ③遞移封包(Transitive Closure)
+     - (3):AOV網路/AOE網路與臨界路徑
+       - AOV網路(Activity Network)and TOPOLOGICAL SORT
+       - AOE網路與臨界路徑(CRITICAL PATHS)【專案管理(Project management)】
+     - (4):Flow Network
+        - Flow Network與Max-Flow Problem
+        - Ford-Fulkerson method for Max-Flow Problem
+        - Max-Flow Min-Cut theorem
+        - Edmonds-Karp Algorithms
+        - Maximun-bipartite-matching problem
+        - Push-relabeling algorithm for Max-Flow Problem
+        - Relabel-to-front algorithm for Max-Flow Problem
 
 ## 演算法 :: 課程大綱
 - Divide-and-Conquer（各個擊破）演算法
