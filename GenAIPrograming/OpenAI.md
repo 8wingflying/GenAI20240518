@@ -91,12 +91,45 @@ print(reply.choices[0].message.content)
 
 ![ChatGPT_Prompt_1.JPG](../pics/ChatGPT_Prompt_1.JPG)
 
+#### 範例2
 ![Playground_1.JPG](../pics/Playground_1.JPG)
 
 ![Playground_2.JPG](../pics/Playground_2.JPG)
 
+#### 參數說明
 ![Playground_10.JPG](../pics/Playground_10.JPG)
 
+## Google Colab 實戰 2: 看圖說故事 [Google Colab](https://colab.research.google.com/)
+```
+from openai import OpenAI
+
+client = OpenAI(api_key = api_key) 
+
+response = client.chat.completions.create(
+  model="gpt-4o",
+  messages=[
+    {
+      "role": "user",
+      "content": [
+#        {"type": "text", "text": "What’s in this image?"},
+         {"type": "text", "text": "描述一下這張圖片?"},
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg",
+          },
+        },
+      ],
+    }
+  ],
+  max_tokens=300,
+)
+
+print(response.choices[0])
+```
+```
+這張圖片展示了一條木製的步道，直直地延伸到景象的深處，消失在遠方的樹木和灌木叢中。步道兩旁是茂密的綠色草地，顯示了生機盎然的自然景觀。天空晴朗，有一些散布的白色和淡灰色的雲，天色呈現出漸變的藍色，與下方的綠色草地形成了強烈的對比。整個景象給人一種寧靜、和諧且充滿自然美的感覺。
+```
 ## 參考書籍
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
   - [GITHUB](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/tree/main)
