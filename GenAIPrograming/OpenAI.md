@@ -30,13 +30,13 @@ OpenAI的歷史可以追溯到2015年，當時Elon Musk、Sam Altman和其他投
 
 ## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
-![prompts_examples.JPG](./pics/prompts_examples.JPG)
+![prompts_examples.JPG](../pics/prompts_examples.JPG)
 
-![ChatGPT_Prompt_1.JPG](./pics/ChatGPT_Prompt_1.JPG)
+![ChatGPT_Prompt_1.JPG](../pics/ChatGPT_Prompt_1.JPG)
 
-![Playground_1.JPG](./pics/Playground_1.JPG)
+![Playground_1.JPG](../pics/Playground_1.JPG)
 
-![Playground_2.JPG](./pics/Playground_2.JPG)
+![Playground_2.JPG](../pics/Playground_2.JPG)
 
 ![Playground_10.JPG](../pics/Playground_10.JPG)
 
