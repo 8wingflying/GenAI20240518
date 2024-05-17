@@ -27,7 +27,7 @@ OpenAI的歷史可以追溯到2015年，當時Elon Musk、Sam Altman和其他投
 - [使用OpenAI Playground](https://platform.openai.com/playground)
 - [OpenAI developer platform:API reference](https://platform.openai.com/docs/api-reference)
 
-## Google Colab 實戰 1
+## Google Colab 實戰 1 [Google Colab](https://colab.research.google.com/)
 - 安裝openai ==> !pip install openai
 
 ```python
@@ -47,6 +47,8 @@ reply = client.chat.completions.create(
     model = "gpt-3.5-turbo",
     # model = "gpt-4",
     messages = [
+ # 設定 AI 角色
+       # {"role":"system", "content":"你是隻住在外太空的猴子"},
         {"role":"user", "content": "你住的地方很亮嗎？"}
     ]
 )
