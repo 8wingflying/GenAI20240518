@@ -8,7 +8,7 @@
 - `提問詞`:請用Rust寫出二元搜尋樹的演算法
 - `提問詞`:請用go寫出二元搜尋樹的演算法
 
-## 二元搜尋樹
+## 二元搜尋樹（Binary Search Tree, BST）
 ## Python實作
 - `提問詞`:請寫出二元搜尋樹的演算法
 - `Copilot的回答`:
@@ -357,15 +357,234 @@ public class Main {
     }
 }
 ```
-## Python實作
-- `提問詞`:請寫出二元搜尋樹的演算法
+## Ruby實作
+- `提問詞`:請用Ruby寫出二元搜尋樹的演算法
 - `Copilot的回答`:
-```
+```c
 
 ```
-## Python實作
-- `提問詞`:請寫出二元搜尋樹的演算法
+## go實作
+- `提問詞`:請用go寫出二元搜尋樹的演算法
+- `Copilot的回答`:
+```go
+package main
+
+import (
+	"fmt"
+)
+
+// 定義節點結構
+type Node struct {
+	key   int
+	left  *Node
+	right *Node
+}
+
+// 插入新鍵到BST
+func insert(node *Node, key int) *Node {
+	if node == nil {
+		return &Node{key: key}
+	}
+	if key < node.key {
+		node.left = insert(node.left, key)
+	} else if key > node.key {
+		node.right = insert(node.right, key)
+	}
+	return node
+}
+
+// 在BST中搜尋一個鍵
+func search(node *Node, key int) bool {
+	if node == nil {
+		return false
+	}
+	if key < node.key {
+		return search(node.left, key)
+	} else if key > node.key {
+		return search(node.right, key)
+	}
+	return true
+}
+
+// 主函數來展示BST的插入和搜尋功能
+func main() {
+	var root *Node
+	root = insert(root, 50)
+	insert(root, 30)
+	insert(root, 20)
+	insert(root, 40)
+	insert(root, 70)
+	insert(root, 60)
+	insert(root, 80)
+
+	// 搜尋值為60的節點
+	found := search(root, 60)
+	if found {
+		fmt.Println("找到了值為 60 的節點")
+	} else {
+		fmt.Println("沒有找到值為 60 的節點")
+	}
+}
+```
+- Online GO Compiler
+  - [Go Playground - The Go Programming Language]()
+  - [Online Go Compiler - Programiz]()  
+-`提問詞`: 你能解釋一下這段代碼的運作原理嗎？
 - `Copilot的回答`:
 ```
+當然可以。
+這段Go語言的代碼實現了一個基本的二元搜尋樹（Binary Search Tree, BST）。讓我們逐步解釋每個部分的運作原理：
 
+節點結構（Node Struct）：
+type Node struct {
+    key   int
+    left  *Node
+    right *Node
+}
+
+AI 產生的代碼。請仔細檢視及使用。 深入了解常見問題集。
+這定義了一個名為 Node 的結構，
+它有三個字段：key 存儲節點的值，left 和 right 是指向左右子節點的指針。
+如果子節點不存在，則對應的指針為 nil。
+
+
+插入函數（Insert Function）：
+func insert(node *Node, key int) *Node {
+    if node == nil {
+        return &Node{key: key}
+    }
+    if key < node.key {
+        node.left = insert(node.left, key)
+    } else if key > node.key {
+        node.right = insert(node.right, key)
+    }
+    return node
+}
+
+AI 產生的代碼。請仔細檢視及使用。
+深入了解常見問題集。
+insert 函數是遞迴的。它從根節點開始，比較要插入的鍵值與當前節點的鍵值。
+如果要插入的鍵值小於當前節點的鍵值，則遞迴到左子樹；
+如果大於，則遞迴到右子樹。如果遇到 nil 節點，則在那裡創建一個新節點並返回。
+
+
+搜尋函數（Search Function）：
+func search(node *Node, key int) bool {
+    if node == nil {
+        return false
+    }
+    if key < node.key {
+        return search(node.left, key)
+    } else if key > node.key {
+        return search(node.right, key)
+    }
+    return true
+}
+AI 產生的代碼。請仔細檢視及使用。 深入了解常見問題集。
+search 函數也是遞迴的。它從根節點開始，比較要搜尋的鍵值與當前節點的鍵值。
+如果相等，則返回 true 表示找到了鍵值。
+如果要搜尋的鍵值小於當前節點的鍵值，則遞迴到左子樹；
+如果大於，則遞迴到右子樹。如果遇到 nil 節點，則返回 false 表示沒有找到鍵值。
+
+
+主函數（Main Function）：
+func main() {
+    var root *Node
+    root = insert(root, 50)
+    // ... 其他插入操作 ...
+    found := search(root, 60)
+    if found {
+        fmt.Println("找到了值為 60 的節點")
+    } else {
+        fmt.Println("沒有找到值為 60 的節點")
+    }
+}
+AI 產生的代碼。請仔細檢視及使用。 深入了解常見問題集。
+main 函數是程序的入口點。
+它首先創建一個 nil 的根節點，然後通過一系列的 insert 調用來建立BST。
+之後，它使用 search 函數來檢查是否存在特定的鍵值。
+根據 search 函數的返回結果，它會打印出相應的消息。
+
+這段代碼展示了BST的基本操作，並且是一個高效的數據結構，用於快速檢索數據。
+由於其遞迴性質，它能夠在對數時間內完成插入和搜尋操作，假設樹是平衡的。
+這就是為什麼BST在許多應用中都非常有用，特別是在需要快速檢索數據的場合。
 ```
+## rust實作
+- `提問詞`:請用rust寫出二元搜尋樹的演算法
+- `Copilot的回答`:
+```c
+use std::cell::RefCell;
+use std::rc::Rc;
+
+type Tree = Option<Rc<RefCell<Node>>>;
+
+#[derive(Debug)]
+struct Node {
+    key: i32,
+    left: Tree,
+    right: Tree,
+}
+
+impl Node {
+    fn new(key: i32) -> Rc<RefCell<Self>> {
+        Rc::new(RefCell::new(Node {
+            key,
+            left: None,
+            right: None,
+        }))
+    }
+}
+
+fn insert(root: &Tree, key: i32) -> Tree {
+    match root {
+        Some(node) => {
+            let mut n = node.borrow_mut();
+            if key < n.key {
+                n.left = insert(&n.left, key);
+            } else if key > n.key {
+                n.right = insert(&n.right, key);
+            }
+            Some(node.clone())
+        }
+        None => Some(Node::new(key)),
+    }
+}
+
+fn search(root: &Tree, key: i32) -> bool {
+    match root {
+        Some(node) => {
+            let n = node.borrow();
+            if key == n.key {
+                true
+            } else if key < n.key {
+                search(&n.left, key)
+            } else {
+                search(&n.right, key)
+            }
+        }
+        None => false,
+    }
+}
+
+fn main() {
+    let mut root: Tree = None;
+    root = insert(&root, 50);
+    root = insert(&root, 30);
+    root = insert(&root, 20);
+    root = insert(&root, 40);
+    root = insert(&root, 70);
+    root = insert(&root, 60);
+    root = insert(&root, 80);
+
+    // 搜尋值為60的節點
+    if search(&root, 60) {
+        println!("找到了值為 60 的節點");
+    } else {
+        println!("沒有找到值為 60 的節點");
+    }
+}
+```
+- Online Rust Compiler
+  - [Online Rust Compiler - Programiz](https://www.programiz.com/rust/online-compiler/)
+  - [Online Rust Compiler - online editor](https://www.onlinegdb.com/online_rust_compiler)
+  - [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
