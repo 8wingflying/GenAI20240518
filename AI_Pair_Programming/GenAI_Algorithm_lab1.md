@@ -197,18 +197,165 @@ int main() {
 - 這段代碼首先定義了一個節點結構，然後提供了創建新節點、插入新鍵和搜尋鍵的函數。
 - main 函數展示了如何使用這些函數來建立一個BST並搜尋一個特定的值。
 - 這是一個基本的實現，你可以根據需要進行擴展或修改。
-```
+
 ## C++實作
 - `提問詞`:請用C++寫出二元搜尋樹的演算法
 - `Copilot的回答`:
-```
+  - 當然可以。
+  - 以下是用C++寫的二元搜尋樹（Binary Search Tree, BST）的插入和搜尋演算法： 
+```c
+#include <iostream>
 
+// 定義節點結構
+struct Node {
+    int key;
+    Node *left, *right;
+
+    Node(int value) : key(value), left(nullptr), right(nullptr) {}
+};
+
+// 插入一個新鍵到BST
+Node* insert(Node* node, int key) {
+    // 如果樹是空的，返回一個新節點
+    if (node == nullptr) {
+        return new Node(key);
+    }
+
+    // 否則，遞迴下去
+    if (key < node->key) {
+        node->left = insert(node->left, key);
+    } else if (key > node->key) {
+        node->right = insert(node->right, key);
+    }
+
+    // 返回節點指針
+    return node;
+}
+
+// 在BST中搜尋一個鍵
+Node* search(Node* root, int key) {
+    // 基本情況：根是空或者鍵就在根
+    if (root == nullptr || root->key == key) {
+        return root;
+    }
+
+    // 鍵比根小，則在左子樹中搜尋
+    if (key < root->key) {
+        return search(root->left, key);
+    }
+
+    // 鍵比根大，則在右子樹中搜尋
+    return search(root->right, key);
+}
+
+// 主函數來展示BST的插入和搜尋功能
+int main() {
+    Node* root = nullptr;
+    root = insert(root, 50);
+    insert(root, 30);
+    insert(root, 20);
+    insert(root, 40);
+    insert(root, 70);
+    insert(root, 60);
+    insert(root, 80);
+
+    // 搜尋值為60的節點
+    Node* result = search(root, 60);
+    if (result != nullptr) {
+        std::cout << "找到了值為 " << result->key << " 的節點\n";
+    } else {
+        std::cout << "沒有找到值為 60 的節點\n";
+    }
+
+    return 0;
+}
 ```
+- 這段代碼使用C++的特性，如類別初始化列表和nullptr，來實現BST的基本操作。
+- insert 函數負責將新鍵插入到適當的位置，而 search 函數則用於在樹中查找特定的鍵。
+- main 函數則展示了如何建立一個BST並搜尋一個特定的值。
+- 這是一個基本的實現，你可以根據需要進行擴展或修改。
+
 ## JAVA實作
 - `提問詞`:請用JAVA寫出二元搜尋樹的演算法
 - `Copilot的回答`:
-```
+```java
+class Node {
+    int key;
+    Node left, right;
 
+    public Node(int item) {
+        key = item;
+        left = right = null;
+    }
+}
+
+class BinarySearchTree {
+    Node root;
+
+    BinarySearchTree() {
+        root = null;
+    }
+
+    // 插入新鍵到BST
+    void insert(int key) {
+        root = insertRec(root, key);
+    }
+
+    // 遞迴插入函數
+    Node insertRec(Node root, int key) {
+        if (root == null) {
+            root = new Node(key);
+            return root;
+        }
+
+        if (key < root.key) {
+            root.left = insertRec(root.left, key);
+        } else if (key > root.key) {
+            root.right = insertRec(root.right, key);
+        }
+
+        return root;
+    }
+
+    // 搜尋一個鍵在BST
+    void search(int key) {
+        root = searchRec(root, key);
+    }
+
+    // 遞迴搜尋函數
+    Node searchRec(Node root, int key) {
+        if (root == null || root.key == key) {
+            return root;
+        }
+
+        if (key < root.key) {
+            return searchRec(root.left, key);
+        }
+
+        return searchRec(root.right, key);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        BinarySearchTree bst = new BinarySearchTree();
+
+        bst.insert(50);
+        bst.insert(30);
+        bst.insert(20);
+        bst.insert(40);
+        bst.insert(70);
+        bst.insert(60);
+        bst.insert(80);
+
+        // 搜尋值為60的節點
+        if (bst.search(60) != null) {
+            System.out.println("找到了值為 60 的節點");
+        } else {
+            System.out.println("沒有找到值為 60 的節點");
+        }
+    }
+}
 ```
 ## Python實作
 - `提問詞`:請寫出二元搜尋樹的演算法
