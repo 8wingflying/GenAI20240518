@@ -100,6 +100,7 @@ print(reply.choices[0].message.content)
 ![Playground_10.JPG](../pics/Playground_10.JPG)
 
 ## Google Colab 實戰 2: 看圖說故事 [Google Colab](https://colab.research.google.com/)
+- https://platform.openai.com/docs/guides/vision
 ```
 from openai import OpenAI
 
