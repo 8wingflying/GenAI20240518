@@ -1,7 +1,7 @@
 # 程式註解 GenAI_Python_Code_annotation
 - 使用docstrings註解
 
-## Labs 程式註解
+## Labs 程式註解 ==> 使用 微軟  Copilot練習一下
 
 ![ChatGPT_PYTHON_QuickSort_1.JPG](../pics/ChatGPT_PYTHON_QuickSort_1.JPG)
 
