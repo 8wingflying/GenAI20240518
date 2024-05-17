@@ -33,13 +33,20 @@ OpenAI的歷史可以追溯到2015年，當時Elon Musk、Sam Altman和其他投
 ```python
 # 載入使用的套件
 from openai import OpenAI, OpenAIError # OpenAI 官方套件
+
+# 檢視你的 Key ==> https://platform.openai.com/api-keys
 import getpass # 保密輸入套件
 
+# 需要上傳config.py
+# API_KEY ="XXXXXXXXXXXXXXXX4SoyDAIa"
+
+import config
+
 # 建立 OpenAI 物件
+api_key = config.API_KEY
+#api_key = getpass.getpass("請輸入金鑰：")
 
-api_key = getpass.getpass("請輸入金鑰：")
-
-client = OpenAI(api_key = api_key) 
+client = OpenAI(api_key = api_key)
 ```
 ```
 # 建構模型並交談
