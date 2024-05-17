@@ -1,3 +1,9 @@
+# GenAI Programming實戰
+- LLM programming:OpenAI programming
+  - [OpenAI](OpenAI.md)
+  - [OpenAI實戰1](OpenAI_lab1.md) 
+- [GenAI | LLM 專案開發](DragonGPT.md)
+
 # GenAI Programming
 ![LLM.png](../pics/LLM.png)
 
