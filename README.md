@@ -18,3 +18,25 @@
 
 
 ## 天下武學 盡在 崑山 龍閣寺
+#### 崑山科技大學 所有`恩師龍大大`課程 全面`GenAI_powered`(包括IPAS證照班)
+- IPAS證照班
+  - IPAS中階證照班: 2024年 7月??
+  - IPAS初階證照班: 2024年 10月初 (11月考試)
+- 程式設計相關課程
+  - Python程式設計 ==> GenAI_Python 程式設計
+  - C 程式設計     ==> GenAI_C 程式設計
+  - C++程式設計    ==> GenAI_C++ 程式設計
+  - JAVA程式設計
+  - Go程式設計
+  - Rust程式設計
+  - Ruby程式設計
+  - 網站應用程式設計 | ASP.NET Code | Python Flask | PHP
+  - 手機應用程式設計 | Android Kotlin | IOS
+  - 雲端應用程式設計
+  - 資料結構與演算法 ==> [GenAI_資料結構與演算法](./AI_Pair_Programming/GenAI_Algorithm.md)
+  - 程式競賽:APCS | ACM | IOI ??
+- AI相關課程
+  - 機器學習與資訊安全
+  - 深度學習與資訊安全
+  - 生成式AI與駭客攻防
+- 資訊安全相關課程 (族繁不及備載 略)
