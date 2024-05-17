@@ -4,7 +4,7 @@
   - 50位學生有50+種教法(學生戰鬥力提升後就用提升版教學法)
   - 以你`能聽懂的方式`教你會
   - 激發你學習的熱情
-- 範例
+- [範例](GenAI_Algorithm_lab1.md)
 ## 傳統教科書
 - 資料結構
   - 經典教科書[基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
