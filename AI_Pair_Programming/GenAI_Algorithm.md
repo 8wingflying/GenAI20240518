@@ -43,9 +43,20 @@
     - [ACM 國際大學生程序設計競賽題目與解讀|俞勇]()
     - [算法設計與分析——以ACM大學生程序設計競賽在線題庫為例（微課版）](https://www.tenlong.com.tw/products/9787302587255?list_name=srh)
     - [世界大學生程序設計競賽<ACM\ICPC>高級教程(第2冊程序設計中常用的解題策略)(精) ](https://www.tenlong.com.tw/products/9787113146054?list_name=srh)
+
 ## 資料結構 :: 課程大綱
+- 資料結構、演算法基本觀念 ==> 演算法：效率、分析與量級
+  - 1-1:資料結構的抽象(Abstraction)與抽象型資料型態(ADT)
+  - 1-2:演算法與演算法分析的意義:
+    - 效能分析(Perform Analysis)
+      - 空間複雜度(Space Complexity)
+      - 時間複雜度(Time Complexity)
+    - 實務上複雜度(Practical Complexity)
+    - 演算法效能的表達法:漸近表示式(asymptotic symbols)Big-O/Big-Ω/ 
+    - 演算法效能的比較
+  - 1-3:演算法分析的實例:
+
 ## 演算法 :: 課程大綱
-- 演算法：效率、分析與量級
 - Divide-and-Conquer（各個擊破）演算法
   - 將問題分成多個獨立的小問題，分別解決之，再把各個小問題之解合併成完整之解答
   - binary search(二元搜尋法)需事先排序好
