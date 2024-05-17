@@ -8,7 +8,6 @@
 - AI Voice Generator(人工智慧聲音生成器)
   - ElevenLabs Music(Generative Voice AI)
   - Deepgram | AI Voice Generator & Text to Speech [Deepgram實戰](Deepgram.md)
-  - [可以拯救您的 9 種最佳人工智慧聲音生成器](https://filmora.wondershare.tw/audio/ai-voice-generator.html)
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Udio(2024.4.10正式上線)  [Udio實戰](Udio.md)
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
