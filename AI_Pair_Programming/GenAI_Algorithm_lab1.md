@@ -429,7 +429,7 @@ func main() {
 - Online GO Compiler
   - [Go Playground - The Go Programming Language]()
   - [Online Go Compiler - Programiz]()  
--`提問詞`: 你能解釋一下這段代碼的運作原理嗎？
+- `提問詞`: 你能解釋一下這段代碼的運作原理嗎？
 - `Copilot的回答`:
 ```
 當然可以。
