@@ -160,6 +160,40 @@
         - Maximun-bipartite-matching problem
         - Push-relabeling algorithm for Max-Flow Problem
         - Relabel-to-front algorithm for Max-Flow Problem
+- Chapter 7: 排序演算法(Sorting)
+  - 選擇排序selection sort
+  - 泡沫排序bubble sort
+  - 插入排序insertion sort
+  - 謝爾(Shell)排序法
+  - 快速排序quick sort
+  - 合併排序merge sort
+  - 堆積排序heap sort
+  - 基數排序radix sort
+  - 排序演算法:特性與分類、優缺比較與整合考題
+  - 外部排序法:k-way merging sort
+- Chapter 8: 搜尋演算法(Searching)
+  - 8-1: 靜態搜尋演算法(static search) 與動態搜尋演算法
+  - A. 靜態搜尋演算法(static search)
+    - 8-2: 循序搜尋(sequential search)
+    - 8-3: 二元搜尋(binary search)
+    - 8-4: 費氏搜尋法(Fibonacci Search)
+    - 8-5: 內插搜尋法(Interpolation search)
+  - B1. 動態搜尋演算法的hashing method(雜湊法)
+    - 1:雜湊法(hashing method):overview
+    - 2:靜態雜湊(Static Hash)のHashing function雜湊函數
+    - 3:靜態雜湊(Static Hash)のOverflow Handing Methods
+  - B2. 動態搜尋演算法的動態雜湊(Dynamic hashing)
+    - ①使用目錄的動態雜湊法( directory  hashing )
+    - ②無目錄雜湊( directoryless hashing )或線性雜湊( linear hashing )
+  - C. 高等樹狀結構及其應用: 動態搜尋演算法
+    - I.高等binary樹狀結構
+    - 1:二元搜尋樹(binary search tree):
+      - 二元樹的操作(樹走訪)(1)建立二元搜尋樹、(2)尋找節點(search)、(3)insert、(4)delete(5)計算高度 (6)joining(合併) and splitting(切開)
+    - 2:延展二元樹extended binary tree[引入外部節點觀念]
+    - 3.最佳二元搜尋樹[引入搜尋成本(Cost)觀念 ==> 導出平衡樹(balance)]
+    - 4.平衡樹(balance)之AVL tree
+
+樹其實有很多類型.......多元樹....紅黑樹....
 
 ## 演算法 :: 課程大綱
 - Divide-and-Conquer（各個擊破）演算法
