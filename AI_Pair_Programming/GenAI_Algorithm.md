@@ -70,7 +70,7 @@
     - 漢米爾頓迴路問題
 - Branch-and-Bound(分支與限制)演算法
   - 與Backtracking求解方式相同，惟求解過程使用佇列queue以記錄走過的路徑‧
-  - 於判斷某一路徑是否要繼續往下尋找，附加了upper bound與lower bound的條件，以使程式能提早完成
+  - 判斷某一路徑是否要繼續往下尋找，附加了upper bound與lower bound的條件，以使程式能提早完成
     - prune：此一路徑可不必繼續往下尋找
   - 範例
     - 圖追蹤之BFS
