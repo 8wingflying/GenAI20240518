@@ -29,7 +29,7 @@ OpenAI的歷史可以追溯到2015年，當時Elon Musk、Sam Altman和其他投
 
 
 ## Playground
-![Playground_10.JPG](./pics/Playground_10.JPG)
+![Playground_10.JPG](../pics/Playground_10.JPG)
 
 ## 參考書籍
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
