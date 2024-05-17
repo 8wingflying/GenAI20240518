@@ -23,6 +23,8 @@
 
 ## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
+![ChatGPT_Prompt_1.JPG](./pics/ChatGPT_Prompt_1.JPG)
+
 ![Playground_1.JPG](./pics/Playground_1.JPG)
 
 ![Playground_2.JPG](./pics/Playground_2.JPG)
