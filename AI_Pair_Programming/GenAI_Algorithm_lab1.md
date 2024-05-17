@@ -198,6 +198,8 @@ int main() {
 - main 函數展示了如何使用這些函數來建立一個BST並搜尋一個特定的值。
 - 這是一個基本的實現，你可以根據需要進行擴展或修改。
 
+- Online C Compiler
+  - [Online C Compiler - Programiz](https://www.programiz.com/c-programming/online-compiler/)
 ## C++實作
 - `提問詞`:請用C++寫出二元搜尋樹的演算法
 - `Copilot的回答`:
@@ -275,7 +277,10 @@ int main() {
 - main 函數則展示了如何建立一個BST並搜尋一個特定的值。
 - 這是一個基本的實現，你可以根據需要進行擴展或修改。
 
-## JAVA實作
+- Online C++ Compiler
+  - [Online C++ Compiler - Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
+
+## JAVA實作 ??
 - `提問詞`:請用JAVA寫出二元搜尋樹的演算法
 - `Copilot的回答`:
 ```java
@@ -357,12 +362,82 @@ public class Main {
     }
 }
 ```
+- JAVA Online Compiler
+  - [Online Java Compiler - online editor](https://www.onlinegdb.com/online_java_compiler)
+  - [Online Java Compiler - Programiz](https://www.programiz.com/java-programming/online-compiler/)
 ## Ruby實作
 - `提問詞`:請用Ruby寫出二元搜尋樹的演算法
 - `Copilot的回答`:
 ```c
+class Node
+  attr_accessor :key, :left, :right
 
+  def initialize(key)
+    @key = key
+    @left = nil
+    @right = nil
+  end
+end
+
+class BinarySearchTree
+  attr_accessor :root
+
+  def initialize
+    @root = nil
+  end
+
+  def insert(key)
+    @root = insert_recursive(@root, key)
+  end
+
+  def insert_recursive(node, key)
+    return Node.new(key) if node.nil?
+
+    if key < node.key
+      node.left = insert_recursive(node.left, key)
+    elsif key > node.key
+      node.right = insert_recursive(node.right, key)
+    end
+
+    node
+  end
+
+  def search(key)
+    search_recursive(@root, key)
+  end
+
+  def search_recursive(node, key)
+    return false if node.nil?
+    return true if node.key == key
+
+    if key < node.key
+      search_recursive(node.left, key)
+    else
+      search_recursive(node.right, key)
+    end
+  end
+end
+
+# 主程式
+bst = BinarySearchTree.new
+bst.insert(50)
+bst.insert(30)
+bst.insert(20)
+bst.insert(40)
+bst.insert(70)
+bst.insert(60)
+bst.insert(80)
+
+# 搜尋值為60的節點
+if bst.search(60)
+  puts "找到了值為 60 的節點"
+else
+  puts "沒有找到值為 60 的節點"
+end
 ```
+- Ruby Online Compiler
+  - [Online Ruby Compiler - online editor](https://www.onlinegdb.com/online_ruby_compiler)
+  - [Ruby - OneCompiler - Write, run and share Ruby code online](https://onecompiler.com/ruby/42dfnvr2y)
 ## go實作
 - `提問詞`:請用go寫出二元搜尋樹的演算法
 - `Copilot的回答`:
