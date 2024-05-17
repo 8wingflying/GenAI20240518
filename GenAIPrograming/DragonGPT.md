@@ -1,4 +1,4 @@
-# 5.[AI 專案開發](AI_Project.md)
+# [AI 專案開發](AI_Project.md)
   - 打造你的GPT:DragonGPT
 
 ![DRAGONGPT.png](../pics/DRAGONGPT.png)
