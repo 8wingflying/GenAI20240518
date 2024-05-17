@@ -19,10 +19,15 @@
   - 經典教科書[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
     - 台大博士班畢業考用書
   - [演算法 -- 使用 C++ 虛擬碼, 5/e (Foundations of Algorithms, 5/e)|Richard Neapolitan ](https://www.tenlong.com.tw/products/9789864762491?list_name=srh)
+  - Tim Roughgarden `算法詳解`系列圖書共有4捲
+    - [算法詳解 捲1 算法基礎 Algorithms Illuminated: Part 1: The Basics]()
 - 幫助學習的書
   - [鍛鍊問題解決力！演算法與資料結構應用全圖解](https://www.tenlong.com.tw/products/9786263152687?list_name=srh) 
 - 不同程式語言的實作
   - [Python 資料結構×演算法 刷題鍛鍊班：234 題帶你突破 Coding 面試的難關|謝樹明](https://www.tenlong.com.tw/products/9789863127123?list_name=srh)
+  - [培養與鍛鍊程式設計的邏輯腦：程式設計大賽的 128個進階技巧 (使用 Python)](https://www.tenlong.com.tw/products/9789864343836?list_name=srh)
+  - [培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享, 2/e (CPE 大學程式能力檢定最佳參考用書)](https://www.tenlong.com.tw/products/9789862017777?list_name=srh)
+  - [中學生算法競賽——Python程序設計基礎](https://www.tenlong.com.tw/products/9787302654957?list_name=srh)
 - 程式競賽
   - [提升程式設計的資料結構力｜國際程式設計競賽之資料結構原理、題型、解題技巧與重點解析, 3/e](https://www.tenlong.com.tw/products/9786263243743?list_name=srh)
   - [提升程式設計的運算思維力｜國際程式設計競賽之演算法原理、題型、解題技巧與重點解析, 2/e](https://www.tenlong.com.tw/products/9786263243965?list_name=srh)
@@ -30,6 +35,7 @@
   - [演算法競賽入門經典, 2/e (演算法藝術與信息學競賽)](https://www.tenlong.com.tw/products/9787302356288?list_name=rd)
   - [挑戰程序設計競賽, 2/e](https://www.tenlong.com.tw/products/9787115320100?list_name=srh)
   - [演算法戰鬥營：爆量題庫新手燒腦篇](https://www.tenlong.com.tw/products/9789860776836?list_name=srh)
+  - [程序設計競賽專題挑戰教程](https://www.tenlong.com.tw/products/9787115601506?list_name=srh)
   - APCS
   - CPE
     - [大學程式能力檢定：CPE 祕笈 (附CD/片)](https://www.tenlong.com.tw/products/9789863414766?list_name=srh)
@@ -54,7 +60,7 @@
     - 最小生成樹:Kruskal演算法,Prim演算法
     - 解單一起點最短路徑問題之Dijkstra演算法
     - single source all destination的最短路徑
-    - 霍夫曼樹之建立
+    - 霍夫曼樹(哈夫曼編碼)之建立
 - 回溯(Backtracking)演算法
   - 由解答的起始點（root）往下尋找尚未走過的路徑，判斷是否符合解答的條件，
     - 若符合則繼續往下尋找，
