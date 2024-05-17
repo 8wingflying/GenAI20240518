@@ -1,20 +1,16 @@
 # GenAI Programming實戰
-- LLM programming:OpenAI programming
-  - [OpenAI](OpenAI.md)
-  - [OpenAI實戰1](OpenAI_lab1.md) 
+- LLM programming:OpenAI programming [OpenAI實戰](OpenAI.md)
 - [GenAI | LLM 專案開發](DragonGPT.md)
 
 # GenAI Programming
 ![LLM.png](../pics/LLM.png)
 
 - [LLM | 大型語言模型 | Large Language Model](../LLM.md)
+
 - LLM programming:OpenAI programming
-  - [OpenAI](OpenAI.md)
-  - [OpenAI實戰1](OpenAI_lab1.md) 
 - LLM programming:LangChain programming
   - [LangChain](LangChain.md)
   - [LangChain實戰1](LangChain_labs.md)
-- [GenAI | LLM 專案開發](AI_Project.md)
 - 其他LLM Programming 
   - ChatGLM
     - ChatGLM-6B是中國大陸智譜AI研發的ChatGLM系列模型的新成員
