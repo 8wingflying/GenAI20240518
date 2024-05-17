@@ -190,7 +190,8 @@ Can you help me understand the factors that influence mortgage rates and provide
 1-32
 你覺得瘦子帥不帥
 ```
-
+### 探索 GPT ==> 付費版有一堆外掛
+![ChatGPT_Plugins](./pics/ChatGPT_Plugins_1.JPG)
 ### 桌面版 ChatGPT
 - 下載 [ChatGPT_1.1.0_windows_x86_64.msi](https://github.com/lencx/ChatGPT/releases)
 
