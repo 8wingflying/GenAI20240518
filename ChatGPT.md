@@ -1,5 +1,11 @@
 # GenAI的驚艷
-## 文本生成與提示工程學(Prompts Engineering)
+- ChatGPT的驚艷
+  - [ChatGPT提示工程學(Prompts Engineering)](ChatGPT_Prompts.md) 
+- 微軟Copilot(Bing Chat)
+  - [微軟Copilot(Bing Chat)](Bing.md)
+  - [Bing|Copilot實戰](Bing_labs.md)
+
+# 文本生成與提示工程學(Prompts Engineering)
 - ChatGPT的驚艷
   - [ChatGPT Prompts1:基礎技巧](ChatGPT_Basic.md)
   - [ChatGPT Prompts2:進階技巧](ChatGPT_advanced.md)
