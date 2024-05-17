@@ -6,10 +6,11 @@
 
 ## 傳統教科書
 - 資料結構
-  - [基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
-  - [基礎資料結構 ─ 使用 C++ (Fundamentals of Data Structures in C++, 2/e)](https://www.tenlong.com.tw/products/9789868359703?list_name=srh)
+  - 經典教科書[基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
+  - 經典教科書[基礎資料結構 ─ 使用 C++ (Fundamentals of Data Structures in C++, 2/e)](https://www.tenlong.com.tw/products/9789868359703?list_name=srh)
 - 演算法
-  - 經典[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
+  - 神人撰寫的經典[The Art of Computer Programming]()
+  - 經典教科書[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
     - 台大博士班畢業考用書
   - [演算法 -- 使用 C++ 虛擬碼, 5/e (Foundations of Algorithms, 5/e)|Richard Neapolitan ](https://www.tenlong.com.tw/products/9789864762491?list_name=srh)
 - 幫助學習的書
@@ -20,7 +21,9 @@
   - [提升程式設計的資料結構力｜國際程式設計競賽之資料結構原理、題型、解題技巧與重點解析, 3/e](https://www.tenlong.com.tw/products/9786263243743?list_name=srh)
   - [提升程式設計的運算思維力｜國際程式設計競賽之演算法原理、題型、解題技巧與重點解析, 2/e](https://www.tenlong.com.tw/products/9786263243965?list_name=srh)
   - [提升程式設計力｜國際程式設計競賽精選解題解析](https://www.tenlong.com.tw/products/9786263242371?list_name=srh)
+  - [演算法競賽入門經典, 2/e (演算法藝術與信息學競賽)](https://www.tenlong.com.tw/products/9787302356288?list_name=rd)
   - [挑戰程序設計競賽, 2/e](https://www.tenlong.com.tw/products/9787115320100?list_name=srh)
+  - [演算法戰鬥營：爆量題庫新手燒腦篇](https://www.tenlong.com.tw/products/9789860776836?list_name=srh)
   - APCS
   - CPE
     - [大學程式能力檢定：CPE 祕笈 (附CD/片)](https://www.tenlong.com.tw/products/9789863414766?list_name=srh)
