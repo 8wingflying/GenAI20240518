@@ -5,7 +5,56 @@
 - AI 中文作文
 - 看圖寫詩:范寬《谿山行旅圖》
 
-## AI 英文單字學習
+# AI 英文單字學習
+- `提示詞`:請列舉十個形容男生的英文單字
+- `提示詞`:請為英文單字Gallant十個造句,要有中文翻譯
+- `提示詞`:請為英文單字Intellectual十個造句ㄝ要有中文翻譯
+
+#### `提示詞`:請列舉十個形容男生的英文單字
+```
+Gallant：英俊的，有風度的。
+Handsome：帥氣的，俊俏的。
+Heroic：英勇的，英雄般的。
+Hunky：健壯的，有肌肉的。
+Intellectual：聰明的，知識淵博的。
+Kindhearted：善良的，心地善良的。
+Mischievous：頑皮的，淘氣的。
+Observant：觀察力敏銳的，注意力集中的。
+Persistent：堅持不懈的，持之以恆的。
+Meticulous：細心的，一絲不苟的。
+```
+#### `提示詞`:請為英文單字Gallant十個造句,要有中文翻譯 
+```
+He made a gallant effort to save the sinking ship.
+（他竭力拯救正在下沉的船。）
+
+The gallant knight fought bravely to protect the kingdom.
+（這位英勇的騎士勇敢地保衛王國。）
+
+Despite being outnumbered, the gallant soldiers were eager for battle.
+（儘管人數不足，這些英勇的士兵渴望戰鬥。）
+
+The rookie fighter put on a gallant display but still lost the match to his experienced competitor.
+（這位新手戰士表現得很英勇，但仍然輸給了經驗豐富的對手。）
+
+The gallant gesture of defending the village from the invaders earned him the admiration of the townspeople.
+（保衛村莊免受侵略者侵害的英勇舉動贏得了鎮民的讚譽。）
+
+Unfortunately, the fireman’s gallant effort to save the woman came too late.
+（不幸的是，消防員拯救這名女子的英勇努力來得太遲。）
+
+The gallant knight showed no fear as he raced towards the dragon.
+（這位英勇的騎士毫不畏懼地向龍衝去。）
+
+His adherents recognized his young half-caste son, a gallant and noble youth generally known as Almagro the Lad, as his successor.
+（他的追隨者認出了他那位年輕的混血兒子，一位被稱為阿爾馬格羅的英勇而高貴的青年，作為他的繼任者。）
+
+Marryat’s honours were not confined to gallant exploits.（馬里亞特的榮譽不僅僅限於英勇的壯舉。）
+
+Chaucer, when he spoke of Gawain coming “again out of faerie,” spoke better than he knew;
+the home of that very gallant and courteous knight is indeed Fairy-land.
+（喬叟在談到高文「再次從仙境回來」時，說得比他知道的更好；這位非常英勇和有禮貌的騎士的家園確實就是仙境。）
+```
 ## AI 英文翻譯
 - [112學年度學測英文翻譯及作文解答](https://aplusenglish.com.tw/13482/112%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%bf%bb%e8%ad%af%e5%8f%8a%e4%bd%9c%e6%96%87%e8%a7%a3%e7%ad%94/)
 ```
@@ -40,6 +89,7 @@ Avoiding conflict, as well as the assurance of world peace, should be the object
 
 - `提示詞`:請將底下中文翻譯兩份英文並比較其差異:歷史一再證明，戰爭會造成極為可怕的災難。
 - `Copolit的回答`:
+
 ## AI 英文作文
 - 歷屆英文作文題目
   - [歷屆學測作文題目 +大考佳作連結整理](https://happyfish.blog/exam-writing-all/)
@@ -155,48 +205,3 @@ In essence, these emojis are more than just digital icons; they are a reflection
 這篇文章試圖通過花草樹木的氣味，喚起人們對於自然和記憶的共鳴，並鼓勵我們在忙碌的生活中，也不要忘記去感受和欣賞那些看似微不足道，卻又如此美好的事物。🌸🍂🌿
 ```
 
-## 看圖寫詩:范寬《谿山行旅圖》
-- 《谿山行旅圖》為五代末北宋初畫家范寬的作品
-- 使用絲質的絹作為畫布，縱長206.3公分，橫寬103.3公分。
-- 以淺淡的色彩作極為精緻的構圖，舉凡山川流水、高山岩石皆細心勾勒且呈現出立體的空間感，而人物、馬匹亦能在尺寸極為渺小的限制下活靈活現。據傳明代董其昌評價此畫為「宋畫第一」。
-- 現收藏於臺北國立故宮博物院。
-- `提示詞`:請針對下列圖象做一首七言絕句
-
-![范寬《谿山行旅圖》](./pics/painting_1.jpg)
-- `Copolit的回答`:當然可以，以下是根據您提供的圖像所創作的七言絕句：
-```
-山巒如畫靜無聲，
-碧水清波映日輝。
-古道松風吟遠志，
-雲間煙樹隱詩情。
-```
-這首詩試圖捕捉圖畫中的寧靜與美麗，希望您喜歡！🍃
-
-- `提示詞`:請針對上述圖象做一首詞
-- `Copolit的回答`:當然可以，以下是根據您提供的圖像所創作的詞：
-```
-碧波蕩漾映山巒，
-范寬筆下景緻妍。
-谿山行旅圖中尋，
-歷史風華與自然。
-
-縱長橫寬畫布展，
-絹絲細膩顯藝篇。
-宋畫第一稱讚揚，
-故宮珍藏美名傳。
-```
-這首詞試圖捕捉《谿山行旅圖》的藝術美感和歷史價值，希望您喜歡！ 🏞️
-
-參考: github.com
-
-- `提示詞`:請針對上述圖象做一首五言絕句
-- `Copolit的回答`:當然可以，以下是根據您提供的圖像所創作的五言絕句：
-```
-山青水秀畫中游，
-風送松聲入夢柔。
-古道行人尋歷史，
-雲翻霧覆見詩愁。
-```
-這首詩試圖捕捉圖畫中的自然美景與歷史情懷，希望您喜歡！ 🍃
-
-參考: github.com
