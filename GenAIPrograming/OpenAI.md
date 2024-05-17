@@ -104,10 +104,6 @@ print(reply.choices[0].message.content)
 ## Google Colab 實戰 2: 看圖說故事 [Google Colab](https://colab.research.google.com/)
 - https://platform.openai.com/docs/guides/vision
 ```
-from openai import OpenAI
-
-client = OpenAI(api_key = api_key) 
-
 response = client.chat.completions.create(
   model="gpt-4o",
   messages=[
@@ -132,6 +128,22 @@ print(response.choices[0])
 ```
 ```
 這張圖片展示了一條木製的步道，直直地延伸到景象的深處，消失在遠方的樹木和灌木叢中。步道兩旁是茂密的綠色草地，顯示了生機盎然的自然景觀。天空晴朗，有一些散布的白色和淡灰色的雲，天色呈現出漸變的藍色，與下方的綠色草地形成了強烈的對比。整個景象給人一種寧靜、和諧且充滿自然美的感覺。
+```
+
+### Google Colab 實戰 3:  [Google Colab](https://colab.research.google.com/)
+```
+response2 = client.chat.completions.create(
+  model="gpt-3.5-turbo",
+  messages=[
+    {"role": "system", "content": "You are a helpful assistant."},
+    {"role": "user", "content": "Who won the world series in 2020?"},
+    {"role": "assistant", "content": "The Los Angeles Dodgers won the World Series in 2020."},
+    {"role": "user", "content": "Where was it played?"}
+  ]
+)
+```
+```
+print(response2.choices[0].message.content)
 ```
 ## 參考書籍
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
