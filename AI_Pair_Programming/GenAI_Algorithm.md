@@ -1,13 +1,22 @@
 # GenAI_Algorithm
 - (生成式AI強化版)資料結構與演算法
+  - 依照不同深度教學
+  - 以你能聽懂的方式教你會
 
 ## 傳統教科書
 - 資料結構
-  -  
+  - [基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
+  - [基礎資料結構 ─ 使用 C++ (Fundamentals of Data Structures in C++, 2/e)](https://www.tenlong.com.tw/products/9789868359703?list_name=srh)
 - 演算法
   - 經典[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
     - 台大博士班畢業考用書
   - [演算法 -- 使用 C++ 虛擬碼, 5/e (Foundations of Algorithms, 5/e)|Richard Neapolitan ](https://www.tenlong.com.tw/products/9789864762491?list_name=srh)
+- 幫助學習的書
+  - [鍛鍊問題解決力！演算法與資料結構應用全圖解](https://www.tenlong.com.tw/products/9786263152687?list_name=srh) 
+- 不同程式語言的實作
+  - [Python 資料結構×演算法 刷題鍛鍊班：234 題帶你突破 Coding 面試的難關|謝樹明](https://www.tenlong.com.tw/products/9789863127123?list_name=srh)
+- 程式競賽
+  - [提升程式設計的運算思維力｜國際程式設計競賽之演算法原理、題型、解題技巧與重點解析, 2/e]() 
 ## 資料結構 :: 課程大綱
 ## 演算法 :: 課程大綱
 - 演算法：效率、分析與量級
