@@ -1,25 +1,37 @@
 # ChatGPT提示工程學(Prompts Engineering)
-## 簡單範例
+- [使用ChatGPT](https://chatgpt.com/)
+- [使用OpenAI Playground](https://platform.openai.com/playground)
+- [OpenAI developer platform:官方說明文件](https://platform.openai.com/docs/overview)
+- [OpenAI developer platform:API reference](https://platform.openai.com/docs/api-reference)
+## 簡單範例 [使用ChatGPT](https://chatgpt.com/)
 - `提示詞`:請利用流程方法(Process Approach)說明滲透測試作業的關鍵活動,輸入與輸出及資產?
 - `提示詞`:請說明滲透測試作業的輸入與輸出?
-- `提示詞`:詳細說明chatgpt的原理,要20 頁
+- `提示詞`:詳細說明chatgpt的原理要20 頁
 - `提示詞`:請問最有名的川菜有哪些
 
+## [官方提示詞工程(Prompt engineering)](https://platform.openai.com/docs/guides/prompt-engineering)
+- 獲得更好結果的六種策略:
+  - 1.寫清楚的說明
 ## 通用提示詞範本： 定義角色十背景資訊十任務目標十輸出要求
+
+
+
+# 參考書籍
+- [ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
 
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 - [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+ 
 - [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
-- 參考書籍[ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
 # ChatGPT_Labs
 
-#### ChatGPT_Labs:ChatGPT 翻譯機
+## ChatGPT_Labs:ChatGPT 翻譯機
 - `ChatGPT提示詞`:Translate “______” into French
 - `ChatGPT提示詞`:Translate into French: “______”
 - 進階技術
@@ -153,17 +165,8 @@ Can you help me understand the factors that influence mortgage rates and provide
 
 ![ChatGPT_101.png](./pics/ChatGPT_101.png)
 
-## ChatGPT4 Turbo 萬用手冊
+## ChatGPT4 Turbo 萬用手冊 範例
 ```
-1-17
-台灣在哪裡?
-
-1-18
-海峽是什麼?
---------------------------------
-請給我國小生可以懂得簡短說明
-
-1-28
 我是大學剛畢業的文科生，從小數理科目就不太好，專業名詞或技術請盡量用白話文，
 雖然是文科生，但英文也沒有特別好，所以請少用英文。我中文很好，沒法忍耐錯字，請多斟酌你的用詞遭字
 --------------------------------
@@ -172,18 +175,18 @@ Can you help me understand the factors that influence mortgage rates and provide
 3.沒有特別指示，請避免使用 source code 模式。
 4.若我有提示要"檢查"，請轉換用英文上網瀏覽你的資訊是否正確，再用中文回覆我。
 5.若我有提示要"排整齊"，請以表格形式回覆我。
-
-1-29
+```
+```
 我是商管系畢業，有兩年工作經驗，目前在汽車公司擔任企劃。
 日常工作為品牌關係維護、擬定行銷策路、市場調查，不定期辦理公司的實體或線上活動。
 --------------------------------
 文字輕鬆但知識含量高，需要具體的內容並附上連結。
 每個對話都需要提供一個提案，且加上SWOT的分析。不要有杜撰的内容。
 
-1-30
+
 公司要辦線上的新品展售會，展演場地需要同時擺放我們的產品，需要場地推薦，還有增加民眾觀看意願與互動性的方法
 
-1-32
+
 你覺得瘦子帥不帥
 ```
 ### 探索 GPT ==> 付費版有一堆外掛
