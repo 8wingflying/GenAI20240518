@@ -1,0 +1,62 @@
+# GenAI_Algorithm
+- (生成式AI強化版)資料結構與演算法
+
+## 傳統教科書
+- 資料結構
+  -  
+- 演算法
+  - 經典[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
+    - 台大博士班畢業考用書
+  - [演算法 -- 使用 C++ 虛擬碼, 5/e (Foundations of Algorithms, 5/e)|Richard Neapolitan ](https://www.tenlong.com.tw/products/9789864762491?list_name=srh)
+## 資料結構 :: 課程大綱
+## 演算法 :: 課程大綱
+- 演算法：效率、分析與量級
+- Divide-and-Conquer（各個擊破）演算法
+  - 將問題分成多個獨立的小問題，分別解決之，再把各個小問題之解合併成完整之解答
+  - binary search(二元搜尋法)需事先排序好
+  - merge sort(合併排序法)
+  - Quick Sort(快速排序法)(分割交換排序法)
+  - Strassen的矩陣相乘演算法
+- 貪婪(Greedy)演算法
+  - 先訂定滿足解答之條件，即決策原則‧
+  - 每次取得一個輸入資料（可能的解），判斷是否符合決策原則，若是則保留之，若否則剔除之‧
+  - 重覆上述步驟，直到所有資料皆已輸入，或已建立完整解答為止‧
+  - 範例
+    - 最小生成樹:Kruskal演算法,Prim演算法
+    - 解單一起點最短路徑問題之Dijkstra演算法
+    - single source all destination的最短路徑
+    - 霍夫曼樹之建立
+- 回溯(Backtracking)演算法
+  - 由解答的起始點（root）往下尋找尚未走過的路徑，判斷是否符合解答的條件，
+    - 若符合則繼續往下尋找，
+    - 若非則往後退回一步，再往下尋找未走過的新路徑‧
+  - 求解過程需使用堆疊Stack，以記錄走過的路徑‧
+  - 範例
+    - 圖追蹤之DFS
+    - 樹之中序、前序、後序追蹤
+    - 走迷宮遊戲(Maze Problem)
+    - n-皇后問題
+    - Sun-of-Subsets問題
+    - 圖形著色問題
+    - 漢米爾頓迴路問題
+- Branch-and-Bound(分支與限制)演算法
+  - 與Backtracking求解方式相同，惟求解過程使用佇列queue以記錄走過的路徑‧
+  - 於判斷某一路徑是否要繼續往下尋找，附加了upper bound與lower bound的條件，以使程式能提早完成
+    - prune：此一路徑可不必繼續往下尋找
+  - 範例
+    - 圖追蹤之BFS
+    - 樹之level order追蹤
+- 動態規劃(dynamic programming)演算法
+  - 求出所有可能之解答（solution space），取最佳者‧
+  - greedy Method只能找到合理解（近似最佳），dynamic programming則能找到最佳解‧
+  - 範例
+    - 最佳二元搜尋樹之建立
+    - all pairs的最短路徑:Floyd最短路徑演算法
+    - Matrix chain multiplication
+- 計算複雜度概論：排序問題
+- 續探計算複雜度：搜尋問題
+- 計算複雜度與難解性：NP Theory序論
+- 數論演算法
+- 密碼學演算法
+- 量子密碼學演算法
+- 平行演算法序論
