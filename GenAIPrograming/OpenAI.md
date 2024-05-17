@@ -27,6 +27,10 @@ OpenAI的歷史可以追溯到2015年，當時Elon Musk、Sam Altman和其他投
 - [使用OpenAI Playground](https://platform.openai.com/playground)
 - [OpenAI developer platform:API reference](https://platform.openai.com/docs/api-reference)
 
+
+## Playground
+![Playground_10.JPG](./pics/Playground_10.JPG)
+
 ## 參考書籍
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
   - [GITHUB](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/tree/main)
