@@ -3,12 +3,13 @@
 - AI 英文翻譯
 - AI 英文作文
 - AI 中文作文
-- 看圖寫詩:范寬《谿山行旅圖》
 
 # AI 英文單字學習
 - `提示詞`:請列舉十個形容男生的英文單字
 - `提示詞`:請為英文單字Gallant十個造句,要有中文翻譯
 - `提示詞`:請為英文單字Intellectual十個造句ㄝ要有中文翻譯
+- `提示詞`:請根據Gallant出十個選擇題
+- `提示詞`:要有解答與詳細說明
 
 #### `提示詞`:請列舉十個形容男生的英文單字
 ```
@@ -54,6 +55,110 @@ Marryat’s honours were not confined to gallant exploits.（馬里亞特的榮�
 Chaucer, when he spoke of Gawain coming “again out of faerie,” spoke better than he knew;
 the home of that very gallant and courteous knight is indeed Fairy-land.
 （喬叟在談到高文「再次從仙境回來」時，說得比他知道的更好；這位非常英勇和有禮貌的騎士的家園確實就是仙境。）
+```
+####  `提示詞`:請根據Gallant出十個選擇題
+```
+What does the word “gallant” mean?
+A) Shy and introverted
+B) Brave and courageous
+C) Rude and impolite
+D) Lazy and indifferent
+
+Which of the following best describes a gallant person?
+A) Someone who avoids challenges
+B) Someone who shows no fear in difficult situations
+C) Someone who is always pessimistic
+D) Someone who dislikes social interactions
+
+In which context would you use the word “gallant”?
+A) Describing a cowardly soldier
+B) Praising a chivalrous knight
+C) Criticizing a rude behavior
+D) Referring to a lazy student
+
+What is the origin of the word “gallant”?
+A) Latin
+B) Greek
+C) Old French
+D) Germanic
+
+Which synonym best matches the meaning of “gallant”?
+A) Discourteous
+B) Valiant
+C) Timid
+D) Lazy
+
+What adjective describes a man who is charmingly attentive to women?
+A) Gallant
+B) Cowardly
+C) Bold
+D) Meticulous
+
+What type of behavior is associated with being gallant?
+A) Being rude and dismissive
+B) Being brave and courteous
+C) Avoiding social interactions
+D) Ignoring others’ feelings
+
+Which historical event involved a gallant defense by a town?
+A) World War I
+B) War of 1812
+C) War of 1870-1871
+D) American Civil War
+
+What did Chaucer refer to when he mentioned Gawain coming “again out of faerie”?
+A) A fairy tale
+B) A brave knight
+C) A magical land
+D) A mysterious forest
+
+What adjective describes a man who is both brave and fashionable?
+A) Gallant
+B) Shy
+C) Lazy
+D) Rude
+```
+####  `提示詞`:要有解答與詳細說明
+```
+What does the word “gallant” mean?
+正確答案：B) Brave and courageous
+詳細說明：「Gallant」意指「勇敢的」或「英勇的」。這個詞通常用來描述那些在困難情況下毫不畏懼的人。
+
+Which of the following best describes a gallant person?
+正確答案：B) Someone who shows no fear in difficult situations
+詳細說明：「Gallant」最好的描述是「在困難情況下毫不畏懼的人」。這個詞強調了勇氣和堅定的品質。
+
+In which context would you use the word “gallant”?
+正確答案：B) Praising a chivalrous knight
+詳細說明：我們會在讚揚一位有騎士風度的人時使用「gallant」，特別是在描述一位有禮貌且英勇的騎士時。
+
+What is the origin of the word “gallant”?
+正確答案：C) Old French
+詳細說明：「Gallant」一詞的起源可以追溯到古法語（Old French）。
+
+Which synonym best matches the meaning of “gallant”?
+正確答案：B) Valiant
+詳細說明：「Valiant」是「gallant」意義的最佳同義詞，表示勇敢和英勇。
+
+What adjective describes a man who is charmingly attentive to women?
+正確答案：A) Gallant
+詳細說明：「Gallant」形容了一位對女性非常周到且有風度的男士。
+
+What type of behavior is associated with being gallant?
+正確答案：B) Being brave and courteous
+詳細說明：與「gallant」相關的行為是勇敢和有禮貌的。
+
+Which historical event involved a gallant defense by a town?
+正確答案：D) American Civil War
+詳細說明：美國內戰（American Civil War）中，有許多城鎮進行了英勇的防守。
+
+What did Chaucer refer to when he mentioned Gawain coming “again out of faerie”?
+正確答案：C) A magical land
+詳細說明：喬叟（Chaucer）在提到高文（Gawain）「再次從仙境回來」時，指的是一個神奇的地方。
+
+What adjective describes a man who is both brave and fashionable?
+正確答案：A) Gallant
+詳細說明：「Gallant」形容了一位既勇敢又時尚的男士。
 ```
 ## AI 英文翻譯
 - [112學年度學測英文翻譯及作文解答](https://aplusenglish.com.tw/13482/112%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%bf%bb%e8%ad%af%e5%8f%8a%e4%bd%9c%e6%96%87%e8%a7%a3%e7%ad%94/)
