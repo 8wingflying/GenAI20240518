@@ -2,29 +2,24 @@
 ## 簡單範例
 - `提示詞`:請利用流程方法(Process Approach)說明滲透測試作業的關鍵活動,輸入與輸出及資產?
 - `提示詞`:請說明滲透測試作業的輸入與輸出?
-- `提示詞`:詳細說明chatgpt的原理要20 頁
+- `提示詞`:詳細說明chatgpt的原理,要20 頁
 - `提示詞`:請問最有名的川菜有哪些
 
 ## 通用提示詞範本： 定義角色十背景資訊十任務目標十輸出要求
-
-
-
-# 參考書籍
-- [ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
 
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 - [ChatGPT指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
- 
 - [GreatAIPrompts - AI Prompts, AI Tools and AI News](https://www.greataiprompts.com/)
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
+- 參考書籍[ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
 
 # ChatGPT_Labs
 
-## ChatGPT_Labs:ChatGPT 翻譯機
+#### ChatGPT_Labs:ChatGPT 翻譯機
 - `ChatGPT提示詞`:Translate “______” into French
 - `ChatGPT提示詞`:Translate into French: “______”
 - 進階技術
@@ -198,6 +193,7 @@ Can you help me understand the factors that influence mortgage rates and provide
 
 - AIPRM for ChatGPT 外掛工具[AIPRM: Your Cheat Code for AI like ChatGPT, Midjourney & DALL-E](https://www.aiprm.com/)
   - [超強ChatGPT 外掛工具 AIPRM for ChatGPT 完全上手教學攻略](https://mrmad.com.tw/aiprm-for-chatgpt)
+
 ### 桌面版 ChatGPT
 - 下載 [ChatGPT_1.1.0_windows_x86_64.msi](https://github.com/lencx/ChatGPT/releases)
 
