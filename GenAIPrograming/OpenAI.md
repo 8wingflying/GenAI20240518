@@ -86,7 +86,7 @@ print(reply.choices[0].message.content)
 明亮的居所通常会让人感到更加开朗和愉快。你觉得你住的地方很亮吗？
 ```
 
-### [OpenAI Mod2ls](https://platform.openai.com/docs/models)
+### [OpenAI Models](https://platform.openai.com/docs/models)
 ## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
 ![prompts_examples.JPG](../pics/prompts_examples.JPG)
