@@ -160,6 +160,11 @@ response3 = client.images.generate(
 image_url = response3.data[0].url
 image_url
 ```
+
+- `提示詞`:An expressive oil painting of a chocolate chip cookie being dipped in a glass of milk, depicted as an explosion of flavors.
+- ChatGPT| DALLE-e-3回應`:
+
+![DALLE_1.JPG](../pics/DALLE_1.JPG)
 ### 更多Google Colab 實戰 :
 
 ## 參考書籍
