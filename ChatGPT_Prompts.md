@@ -156,6 +156,8 @@ Can you help me understand the factors that influence mortgage rates and provide
 
 ![ChatGPT_advanced_1.png](./pics/ChatGPT_advanced_1.png)
 
+![ChatGPT_101.png](./pics/ChatGPT_101.png)
+
 ## ChatGPT4 Turbo 萬用手冊
 ```
 1-17
