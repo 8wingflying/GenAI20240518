@@ -9,7 +9,7 @@
   - 經典教科書[基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
   - 經典教科書[基礎資料結構 ─ 使用 C++ (Fundamentals of Data Structures in C++, 2/e)](https://www.tenlong.com.tw/products/9789868359703?list_name=srh)
 - 演算法
-  - 神人撰寫的經典The Art of Computer Programming
+  - 神人Donald E. Knuth撰寫的經典The Art of Computer Programming
     - [The art of Computer Programming, Volumes 1-4B, Boxed Set (5冊)](https://www.tenlong.com.tw/products/9780137935109?list_name=srh)
     - The Art of Computer Programming: Volume 1: Fundamental Algorithms, 3rd Edition
     - The Art of Computer Programming, Volume 2: Seminumerical Algorithms, 3rd Edition
