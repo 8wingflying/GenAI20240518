@@ -36,7 +36,7 @@
   - [挑戰程序設計競賽, 2/e](https://www.tenlong.com.tw/products/9787115320100?list_name=srh)
   - [演算法戰鬥營：爆量題庫新手燒腦篇](https://www.tenlong.com.tw/products/9789860776836?list_name=srh)
   - [程序設計競賽專題挑戰教程](https://www.tenlong.com.tw/products/9787115601506?list_name=srh)
-  - APCS
+  - APCS(族繁不及備載....略)
   - CPE
     - [大學程式能力檢定：CPE 祕笈 (附CD/片)](https://www.tenlong.com.tw/products/9789863414766?list_name=srh)
   - ACM
