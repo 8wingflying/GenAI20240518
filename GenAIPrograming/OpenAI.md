@@ -162,7 +162,7 @@ image_url
 ```
 
 - `提示詞`:An expressive oil painting of a chocolate chip cookie being dipped in a glass of milk, depicted as an explosion of flavors.
-- ChatGPT| DALLE-e-3回應`:
+- ChatGPT| DALLE-e-3回應`: [官方網址](https://openai.com/index/dall-e-3/)
 
 ![DALLE_1.JPG](../pics/DALLE_1.JPG)
 ### 更多Google Colab 實戰 :
