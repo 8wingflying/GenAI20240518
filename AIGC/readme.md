@@ -1,3 +1,16 @@
+## AIGC實戰
+- AI 繪圖生成
+  - Canva [實戰](Canva_lab.md)
+  - Stable Diffusion  [實戰](SD_lab.md)
+  - Midjourney[實戰(需要付費)](Midjourney_lab.md)
+    - [Lp Old Covers Masters](https://promptbase.com/prompt/lp-old-covers-masters)
+    - [Best Midjourney Avatar Prompts](https://promptbase.com/midjourney-avatars) 
+- AI Voice Generator(人工智慧聲音生成器)
+  - ElevenLabs Music(Generative Voice AI)
+  - Deepgram | AI Voice Generator & Text to Speech [Deepgram實戰](Deepgram.md)
+  - [可以拯救您的 9 種最佳人工智慧聲音生成器](https://filmora.wondershare.tw/audio/ai-voice-generator.html)
+- AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
+  - Udio(2024.4.10正式上線)  [Udio實戰](Udio.md)
 ## AIGC | Artificial Intelligence Generated Content | 人工智慧產生內容 
 - AI 繪圖生成
   - [Microsoft Copolit|Designer(Bing Image creater)](Designer.md)
@@ -34,7 +47,7 @@
 - AI Voice Generator(人工智慧聲音生成器)
   - ElevenLabs Music(Generative Voice AI)
   - Deepgram | AI Voice Generator & Text to Speech [Deepgram實戰](Deepgram.md)
-  - [可以拯救您的 9 種最佳人工智慧聲音生成器]()
+  - [可以拯救您的 9 種最佳人工智慧聲音生成器](https://filmora.wondershare.tw/audio/ai-voice-generator.html)
 - AI 音樂生成  [#ai音楽](https://www.youtube.com/hashtag/ai%E9%9F%B3%E6%A5%BD)
   - Google musicLM
   - Suno
@@ -50,7 +63,7 @@
   - 報導與介紹
     - [2024 AI 音樂生成器推薦，輕鬆生成音效、人聲或配樂歌曲](https://tw.cyberlink.com/blog/the-top-audio-editors/3014/online-ai-music-generator) 
   - 教學影片
-    - [【熱爆AI音樂最新賽道UDIO/SUNO！新手操作分身直播間！】10分鐘學懂7x 24小時陪伴型直播間操作！新手賺錢！](https://www.youtube.com/watch?v=-FHOv-qnKUU)  
+    - [【熱爆AI音樂最新賽道UDIO/SUNO！新手操作分身直播間！】10分鐘學懂7x 24小時陪伴型直播間操作！新手賺錢！](https://www.youtube.com/watch?v=-FHOv-qnKUU) 
 - AI 影音生成
   - OpenAI SORA
   - D-ID
@@ -81,7 +94,6 @@
 - AI搜尋引擎
   - Perplexity
 - 更多工具
-  - [AIGC_Tools]()
   - [AIGC官网|AIGC官方网站|AIGC工具导航|AI工具集|AI工具官网](https://www.aigc.cn/aigcnetwork)
     - [学习并使用新一代的 AI 工具](https://tools.aigcfun.com/)
   - [PNGTree](https://zh.pngtree.com/)
