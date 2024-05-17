@@ -9,7 +9,13 @@
   - 經典教科書[基礎資料結構 ─ 使用 C (Fundamentals of Data Structures in C, 2/e)](https://www.tenlong.com.tw/products/9789868359710?list_name=srh)
   - 經典教科書[基礎資料結構 ─ 使用 C++ (Fundamentals of Data Structures in C++, 2/e)](https://www.tenlong.com.tw/products/9789868359703?list_name=srh)
 - 演算法
-  - 神人撰寫的經典[The Art of Computer Programming]()
+  - 神人撰寫的經典The Art of Computer Programming
+    - [The art of Computer Programming, Volumes 1-4B, Boxed Set (5冊)](https://www.tenlong.com.tw/products/9780137935109?list_name=srh)
+    - The Art of Computer Programming: Volume 1: Fundamental Algorithms, 3rd Edition
+    - The Art of Computer Programming, Volume 2: Seminumerical Algorithms, 3rd Edition
+    - The Art of Computer Programming: Volume 3: Sorting and Searching, 2nd Edition
+    - The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1
+    - The Art of Computer Programming, Volume 4B: Combinatorial Algorithms, Part 2
   - 經典教科書[Introduction to Algorithms, 4/e (Hardcover)](https://www.tenlong.com.tw/products/9780262046305?list_name=srh)
     - 台大博士班畢業考用書
   - [演算法 -- 使用 C++ 虛擬碼, 5/e (Foundations of Algorithms, 5/e)|Richard Neapolitan ](https://www.tenlong.com.tw/products/9789864762491?list_name=srh)
