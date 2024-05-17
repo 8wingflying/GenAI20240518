@@ -79,7 +79,7 @@ GPTutor - 這是一個開源的AI配對編程工具，可以在Visual Studio代�
   - [哈佛大學 CS50 課程如何打造 AI 程式家教 CS50 ddb](https://www.explainthis.io/zh-hant/ai/CS50-ddb)
 
 
-#### 崑山科技大學 所有恩師龍大大課程 全面GenAI_powered(包括IPAS證照班)
+#### 崑山科技大學 所有`恩師龍大大`課程 全面`GenAI_powered`(包括IPAS證照班)
 - IPAS證照班
   - IPAS中階證照班: 2024年 7月??
   - IPAS初階證照班: 2024年 10月初 (11月考試)
