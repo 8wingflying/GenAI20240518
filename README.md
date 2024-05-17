@@ -1,4 +1,8 @@
 # GenAI20240518 生成式AI駭客營
+- 講師: 崑山科技大學 資工系  雲端運算技資通安全研發中心 [曾龍](https://github.com/8wingflying/MyFirstHackingDay/blob/main/DRAGON.md) 主任
+  - GenAI 生成式人工智慧 研發中心
+  - 駭客攻防實驗室
+
 
 # 課程大綱
 - 1.[生成式AI(Generative AI)的革命](Generative_AI.md)
@@ -18,7 +22,7 @@
 
 
 ## 天下武學 盡在 崑山 龍閣寺
-#### 崑山科技大學 所有`恩師龍大大`課程 全面`GenAI_powered`(包括IPAS證照班)
+#### 所有`恩師龍大大`課程 全面`GenAI_powered`(包括IPAS證照班)
 - IPAS證照班
   - IPAS中階證照班: 2024年 7月??
   - IPAS初階證照班: 2024年 10月初 (11月考試)
