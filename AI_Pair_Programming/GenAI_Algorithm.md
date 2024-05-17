@@ -16,7 +16,17 @@
 - 不同程式語言的實作
   - [Python 資料結構×演算法 刷題鍛鍊班：234 題帶你突破 Coding 面試的難關|謝樹明](https://www.tenlong.com.tw/products/9789863127123?list_name=srh)
 - 程式競賽
-  - [提升程式設計的運算思維力｜國際程式設計競賽之演算法原理、題型、解題技巧與重點解析, 2/e]() 
+  - [提升程式設計的資料結構力｜國際程式設計競賽之資料結構原理、題型、解題技巧與重點解析, 3/e](https://www.tenlong.com.tw/products/9786263243743?list_name=srh)
+  - [提升程式設計的運算思維力｜國際程式設計競賽之演算法原理、題型、解題技巧與重點解析, 2/e](https://www.tenlong.com.tw/products/9786263243965?list_name=srh)
+  - [提升程式設計力｜國際程式設計競賽精選解題解析](https://www.tenlong.com.tw/products/9786263242371?list_name=srh)
+  - [挑戰程序設計競賽, 2/e](https://www.tenlong.com.tw/products/9787115320100?list_name=srh)
+  - APCS
+  - CPE
+    - [大學程式能力檢定：CPE 祕笈 (附CD/片)](https://www.tenlong.com.tw/products/9789863414766?list_name=srh)
+  - ACM
+    - [ACM 國際大學生程序設計競賽題目與解讀|俞勇]()
+    - [算法設計與分析——以ACM大學生程序設計競賽在線題庫為例（微課版）](https://www.tenlong.com.tw/products/9787302587255?list_name=srh)
+    - [世界大學生程序設計競賽<ACM\ICPC>高級教程(第2冊程序設計中常用的解題策略)(精) ](https://www.tenlong.com.tw/products/9787113146054?list_name=srh)
 ## 資料結構 :: 課程大綱
 ## 演算法 :: 課程大綱
 - 演算法：效率、分析與量級
