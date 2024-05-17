@@ -173,7 +173,8 @@ image_url
 
 ![DALLE_1.JPG](../pics/DALLE_1.JPG)
 
-### 更多Google Colab 實戰 :請參閱 底下參考書籍
+### 更多OpenAI 實戰 :請參閱 底下參考書籍
+- [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Building AI Applications with ChatGPT APIs](https://www.packtpub.com/product/building-ai-applications-with-chatgpt-apis/9781805127567)
   - [GITHUB](https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/tree/main)
 ```
