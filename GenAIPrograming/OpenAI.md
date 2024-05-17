@@ -85,6 +85,8 @@ print(reply.choices[0].message.content)
 我是一个语言模型AI，没有实际的住所。不过通常来说，人们喜欢住在明亮的地方，这样可以让居住环境更加舒适和宜居。
 明亮的居所通常会让人感到更加开朗和愉快。你觉得你住的地方很亮吗？
 ```
+
+### [OpenAI Mod2ls](https://platform.openai.com/docs/models)
 ## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
 ![prompts_examples.JPG](../pics/prompts_examples.JPG)
