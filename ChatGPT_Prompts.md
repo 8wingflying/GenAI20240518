@@ -3,6 +3,7 @@
 - [使用OpenAI Playground](https://platform.openai.com/playground)
 - [OpenAI developer platform:官方說明文件](https://platform.openai.com/docs/overview)
 - [OpenAI developer platform:API reference](https://platform.openai.com/docs/api-reference)
+
 ## 簡單範例 [使用ChatGPT](https://chatgpt.com/)
 - `提示詞`:請利用流程方法(Process Approach)說明滲透測試作業的關鍵活動,輸入與輸出及資產?
 - `提示詞`:請說明滲透測試作業的輸入與輸出?
@@ -17,9 +18,10 @@
   - 4.給模型時間“思考”(Give the model time to "think")
   - 5.使用外部工具(Use external tools)
   - 6.系統地測試更改(Test changes systematically)
+
 ## 通用提示詞範本： 定義角色十背景資訊十任務目標十輸出要求
 
-
+## [使用OpenAI Playground 學習](https://platform.openai.com/examples)
 
 # Prompts(提示詞) 範本網站
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
@@ -29,6 +31,8 @@
 - [EasyPrompt Library | Find the best ChatGPT Prompts](https://library.easyprompt.xyz/)
 - 付費網站[PromptBase | Prompt Marketplace: Midjourney, ChatGPT, DALL·E, …](https://promptbase.com/)
 - 參考書籍[ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals](https://www.packtpub.com/product/chatgpt-prompts-book-precision-prompts-priming-training-ai-writing-techniques-for-mortals/9781835881682)
+
+# 
 # ChatGPT_Labs
 
 ## ChatGPT_Labs:ChatGPT 翻譯機
@@ -163,7 +167,6 @@ Can you help me understand the factors that influence mortgage rates and provide
 
 ![ChatGPT_advanced_1.png](./pics/ChatGPT_advanced_1.png)
 
-![ChatGPT_101.png](./pics/ChatGPT_101.png)
 
 ## ChatGPT4 Turbo 萬用手冊 範例
 ```
