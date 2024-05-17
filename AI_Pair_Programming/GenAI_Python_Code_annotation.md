@@ -3,8 +3,11 @@
 - `提示詞`:請加上註解
 - `提示詞`:使用docstrings註解
 - `提示詞`:請產生markdown 格式的說明文件
+- `提示詞`:請產生html 格式的說明文件
+- 輸出成word
+- 輸出成pdf
 
-## Labs 程式註解 ==> 使用 微軟  Copilot練習一下
+## 程式註解_Labs_1  ==> 作業:使用 微軟  Copilot練習一下
 
 ![ChatGPT_PYTHON_QuickSort_1.JPG](../pics/ChatGPT_PYTHON_QuickSort_1.JPG)
 
@@ -16,3 +19,5 @@
 
 ### 程式註解:請產生markdown 格式的說明文件
 ![ChatGPT_PYTHON_QuickSort_4.JPG](../pics/ChatGPT_PYTHON_QuickSort_4.JPG)
+
+## 程式註解_Labs_2:  微軟  Copilot
