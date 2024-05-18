@@ -80,6 +80,7 @@ GPTutor - 這是一個開源的AI配對編程工具，可以在Visual Studio代�
 
 
 # GenAI_Python程式設計
+- [重要參考|MyFirstPython](https://github.com/MyFirstSecurity2020/SF2023A3)
 - [程式生成(Code Generation)](GenAI_Python_code_Generation.md)
 - [程式重構(Refactoring)](GenAI_Python_code_Refactoring.md)
 - [程式註解](GenAI_Python_Code_annotation.md)
