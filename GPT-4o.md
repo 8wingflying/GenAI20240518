@@ -61,7 +61,7 @@
   - `提問詞`:請幫我撰寫LDAP injection簡報,給高中生看得懂的
   - `提問詞`:請舉例說明MITRE ATT&CK的Privilege Escalation
   - `提問詞`:請舉例說明Windows Privilege Escalation
-  - `提問詞`:請舉十個範例說明Windows Privilege Escalatio
+  - `提問詞`:請舉十個範例說明Windows Privilege Escalation
 - 自傳
   - `提問詞`:請幫我寫一份2000字自傳,姓名:曾龍,喜好:聽黑膠,爬山(已經爬過十座台灣百岳,包括合歡西峰)
   - `提問詞`:請幫我寫一份2000字自傳,姓名:曾龍,喜好:聽黑膠,爬山(已經爬過十座台灣百岳,包括合歡西峰),我現在年紀是60歲,副教授
